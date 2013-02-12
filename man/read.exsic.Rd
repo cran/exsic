@@ -1,0 +1,38 @@
+\name{read.exsic}
+\alias{read.exsic}
+\title{Reads a table in .csv format.}
+\usage{
+  read.exsic(file, sortfilter = NULL)
+}
+\arguments{
+  \item{file}{a file path}
+
+  \item{sortfilter}{a dataframe containing instructions on
+  how to sort and filter the table}
+}
+\value{
+  a special dataframe conforming to the exsic expectations
+}
+\description{
+  The table should have a certain set of minimum columns
+  following the conventions of the BRAHMS software.
+}
+\details{
+  The function tries to be forgiving and makes a compatible
+  table even if none of the found columns is compliant with
+  the expected names.
+}
+\author{
+  Reinhard Simon
+}
+\seealso{
+  Other main: \code{\link{exsic}},
+  \code{\link{index.citations}},
+  \code{\link{index.collections}},
+  \code{\link{index.countries}},
+  \code{\link{index.species}},
+  \code{\link{index.species.short}},
+  \code{\link{prepare.table}}, \code{\link{section.exsic}},
+  \code{\link{write.exsic}}
+}
+

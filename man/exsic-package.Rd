@@ -1,0 +1,73 @@
+\docType{package}
+\name{exsic-package}
+\alias{exsic-package}
+\title{Provides botanists with convenience functions to create exsiccatae indices}
+\description{
+  The tool allows creating simple specimen indices as found
+  in taxonomic treatments based on a table of specimen
+  records. An example file of tabulated speciment data is
+  provided. In addition, four different exsiccatae styles
+  are provided.
+}
+\details{
+  The naming of the columns in the specimen table follows
+  largely the conventions used in the BRAHMS software
+  package. Each specimen record must at least have content
+  in the following nine fields:
+
+  id, genus, species, collcite, number, colldate, country,
+  majorarea, minorarea.
+
+  If not present, the fields are added and filled with
+  dummy values like 's.d.' for no date or 'Unknown
+  country/area'.
+
+  Highly recommended fields include: collector, addcoll.
+
+  Optional fields include: locnotes, phenology, elevation,
+  latitude, longitude, and dups
+
+  The produced indices will sort countries and species
+  alphabetically. Within a country records will be sorted
+  alphabetically by 'majorarea' (if present) and by
+  collector and collecting nunber.
+
+  A web page in standard html format is created based on a
+  template. The template may be changed and specified in
+  most word processing software.
+
+  The package provides one main function 'exsic'. See the
+  example in this section on how to access it.
+}
+\examples{
+# Example
+library(exsic)
+
+###########################################################
+# This runs the example file
+
+
+# Read input file
+df = system.file("samples/exsic.csv", package="exsic")
+# read only first 10 records
+data = read.exsic(df)[1:10,]
+
+# Prepare output file
+td = tempdir()
+of = file.path(td,"out.html")
+
+
+# Example 1: mostly default parameters
+# Prepare exsiccatae indices
+exsic(data, html = of) 
+
+
+# Example 2: using another format
+of = file.path(td,"out_PK.html")
+exsic(data, html = of, format = format.PK) 
+
+}
+\author{
+  Reinhard Simon, David M. Spooner
+}
+

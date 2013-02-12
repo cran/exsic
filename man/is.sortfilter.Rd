@@ -1,0 +1,25 @@
+\name{is.sortfilter}
+\alias{is.sortfilter}
+\title{Checks if the data frame conforms to the expectations to sort and filter the exsic database.}
+\usage{
+  is.sortfilter(sf)
+}
+\arguments{
+  \item{sf}{a sortfilter data frame}
+}
+\value{
+  boolean TRUE if ok
+}
+\description{
+  Checks if the data frame conforms to the expectations to
+  sort and filter the exsic database.
+}
+\author{
+  Reinhard Simon
+}
+\seealso{
+  Other helper: \code{\link{coll.cite}},
+  \code{\link{is.exsic}}, \code{\link{is.format}},
+  \code{\link{strip.final.dot}}
+}
+

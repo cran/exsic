@@ -1,0 +1,29 @@
+\docType{data}
+\name{format.NYBG}
+\alias{format.NYBG}
+\title{A formatting scheme following NYBG (New York Botanical Garden) conventions for an exsiccatae record.}
+\format{A dataframe with 10 entries and three variables
+\itemize{
+ \item{"field"} {A column name present in the exsiccatae table.}
+ \item{"style"} {The text style applied to that element. One of: none, bold, italics, capitals,
+ underline or underscore, uppercase, and () or parentheses}
+ \item{"sept"}  {A seperator following the element. One of '', ' ', ', ', '. ', ': ' and ';' }
+ \item{"comments"} {}
+}}
+\source{
+  \url{http://www.nybg.org/botany/ofn/fn-gd3.htm}
+}
+\description{
+  In comparison to the two other included specimen citation
+  formats this includes an additional field to handle
+  phenological information at the time of observation.
+}
+\author{
+  R. Simon
+}
+\seealso{
+  Other formats: \code{\link{format.ASPT}},
+  \code{\link{format.PK}}, \code{\link{format.SBMG}}
+}
+\keyword{datasets}
+

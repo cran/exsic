@@ -1,0 +1,1001 @@
+id,genus,species,collector,number,addcoll,dups,majorarea,minorarea,locnotes,altitude,colldate,latitude,longitude,country,collcite,phenology
+2077,Solanum,acaule,"Hunziker, AT",20938,,CORD,Catamarca,Ambato,Sierra de Ambato,3500 m,22 Feb 1971,27°42'S,"65°55'60""W",Argentina,Hunziker,fl
+2082,Solanum,acaule,"Sleumer, H",2689,,"K, LIL",Catamarca,Andalgalá,Capillitas,3000 m,2 Feb 1952,27°21'S,66°22'W,Argentina,Sleumer,fl
+2349,Solanum,acaule,"Cabrera, AL",7727,,"GH, LP",Jujuy,Cochinoca,Sierra de Cochinoca,NA,29 Jan 1940,"22°43'60""S",65°54'W,Argentina,Cabrera,
+2351,Solanum,acaule,"Clausen, AM",1254,"Carranza, AV; Stábile, A",BAL,Jujuy,Cochinoca,Abra Pampa,3662 m,1 Apr 2001,"22°42'60""S",65°42'W,Argentina,Clausen et al.,fl
+2332,Solanum,acaule,"Kurtz, F",11303,,"CORD, SUNIV",Jujuy,Cochinoca,Azul Pampa,3600 m,31 Dec 1900,"22°57'42""S","65°26'17""W",Argentina,Kurtz,fl
+2354,Solanum,acaule,"Meyer, T",21396,,LIL,Jujuy,Cochinoca,Abra Pampa,NA,6 Mar 1960,"22°42'60""S",65°42'W,Argentina,Meyer,fr
+2190,Solanum,acaule,"Okada, KA",7557,"García, O",PTIS,Jujuy,General Belgrano,Molinos,3200 m,3 Apr 1983,"23°58'12""S","65°37'48""W",Argentina,Okada & García,fl
+2195,Solanum,acaule,"Okada, KA",7564,"García, O",PTIS,Jujuy,General Belgrano,Tolara,3500 m,3 Apr 1983,"23°54'60""S","65°37'60""W",Argentina,Okada & García,
+2308,Solanum,acaule,"Negritto, M",355,"Barboza, GEE; Chiarini, F; Matesevach, M",CORD,Jujuy,Humahuaca,Jujuy,3500 m,7 Mar 2002,"23°3'60""S","65°12'60""W",Argentina,Negritto et al.,fl
+2285,Solanum,acaule,"Okada, KA",4458,,PTIS,Jujuy,Humahuaca,Palca de Aparzo,3800 m,7 Sep 1983,23°6'S,"65°5'60""W",Argentina,Okada,fl
+2327,Solanum,acaule,"Okada, KA",4551,,PTIS,Jujuy,Humahuaca,,3500 m,25 Mar 1980,"22°58'12""S","65°25'48""W",Argentina,Okada,fl
+2336,Solanum,acaule,"Okada, KA",6990,,BAL,Jujuy,Humahuaca,Quebrada Inca cuevas,3600 m,25 Jan 1979,"22°55'60""S",65°18'W,Argentina,Okada,
+2338,Solanum,acaule,"Okada, KA",7413,,BAL,Jujuy,Humahuaca,Chaupi Rodero,3500 m,29 Jan 1982,"22°55'60""S",65°18'W,Argentina,Okada,fl
+2291,Solanum,acaule,"Okada, KA",7421,,BAL,Jujuy,Humahuaca,Palca de Aparzo,3600 m,31 Jan 1982,23°6'S,"65°5'60""W",Argentina,Okada,fr
+2273,Solanum,acaule,"Okada, KA",5363,"Hermsen, JG; Bellos, E","BAL, PTIS",Jujuy,Humahuaca,Serrania de Aparzo,4000 m,26 Mar 1974,"23°7'60""S",65°12'W,Argentina,Okada et al.,fl
+2317,Solanum,acaule,"Okada, KA",6670,"Clausen, AM; Montes, L ",BAL,Jujuy,Humahuaca,Abra El Condor,3850 m,4 Feb 1978,"23°0'60""S","65°5'60""W",Argentina,Okada et al.,fr
+2318,Solanum,acaule,"Okada, KA",6681,"Clausen, AM; Montes, L ",BAL,Jujuy,Humahuaca,Esquina Blanca,3800 m,6 Feb 1978,"23°0'60""S","65°5'60""W",Argentina,Okada et al.,fl
+2324,Solanum,acaule,"Okada, KA",6732,"García, O","BAL, PTIS",Jujuy,Humahuaca,Pucará,3500 m,15 Apr 1978,"22°58'60""S","65°20'60""W",Argentina,Okada & García,fr
+2251,Solanum,acaule,"Okada, KA",6759,"García, O","BAL, PTIS",Jujuy,Humahuaca,Esquina Blanca,3600 m,17 Apr 1978,"23°18'60""S","65°13'60""W",Argentina,Okada & García,fl
+2268,Solanum,acaule,"Ruthsatz, B",21,,MO,Jujuy,Humahuaca,Abra del Aguilar,4300 m,22 Mar 1973,"23°7'60""S",65°42'W,Argentina,Ruthsatz,fl
+2367,Solanum,acaule,"Clausen, AM",1264,"Carranza, AV; Stábile, A",BAL,Jujuy,Rinconada,Rinconada,3944 m,1 Apr 2001,"22°25'60""S","66°9'60""W",Argentina,Clausen et al.,fr
+2389,Solanum,acaule,"Okada, KA",4030,,"BAL, PTIS",Jujuy,Rinconada,,4000 m,11 Apr 1971,"22°16'48""S","66°7'12""W",Argentina,Okada,fl
+2356,Solanum,acaule,"Schwabe, H",1088,,LP,Jujuy,RINCONADA,Mina Pirquitas,4300 m,1 Mar 1964,"22°40'60""S","66°30'60""W",Argentina,Schwabe,fr
+2469,Solanum,acaule,"Clausen, AM",1270,"Carranza, AV; Stábile, A",BAL,Jujuy,Santa Catalina,Santa Catalina,4116 m,2 Apr 2001,21°57'S,"66°3'60""W",Argentina,Clausen et al.,fl
+2397,Solanum,acaule,"Clausen, AM",1278,"Carranza, AV; Stábile, A",BAL,Jujuy,Santa Catalina,El Angosto,3604 m,2 Apr 2001,22°15'S,"66°4'60""W",Argentina,Clausen et al.,fr
+2464,Solanum,acaule,"Okada, KA",3710,,BAL,Jujuy,Santa Catalina,San Francisco,3800 m,20 Feb 1971,"22°1'60""S",66°9'W,Argentina,Okada,fl
+2472,Solanum,acaule,"Okada, KA",3718,,"BAL, PTIS",Jujuy,Santa Catalina,Santa Catalina,4000 m,20 Feb 1971,21°57'S,"66°3'60""W",Argentina,Okada,fl
+2463,Solanum,acaule,"Okada, KA",3720,,"BAL, PTIS",Jujuy,Santa Catalina,Puesto Grande,3700 m,21 Feb 1971,"22°3'60""S","66°0'60""W",Argentina,Okada,
+2486,Solanum,acaule,"Okada, KA",3918,,BAL,Jujuy,Santa Catalina,El Angosto,4000 m,6 Apr 1971,21°54'S,"66°13'60""W",Argentina,Okada,
+2473,Solanum,acaule,"Okada, KA",3920,, BAL,Jujuy,Santa Catalina,El Angosto,4000 m,6 Apr 1971,21°57'S,"66°3'60""W",Argentina,Okada,
+2487,Solanum,acaule,"Okada, KA",3921,, BAL,Jujuy,Santa Catalina,El Angosto,4000 m,13 Apr 1971,21°54'S,"66°13'60""W",Argentina,Okada,
+2474,Solanum,acaule,"Okada, KA",3923,,PTIS,Jujuy,Santa Catalina,Santa Catalina,4000 m,10 Apr 1971,21°57'S,"66°3'60""W",Argentina,Okada,
+2428,Solanum,acaule,"Okada, KA",3936,,"BAL, PTIS",Jujuy,Santa Catalina,Finca La Buena Esperanza,3800 m,6 Apr 1971,22°12'S,66°24'W,Argentina,Okada,fr
+2434,Solanum,acaule,"Okada, KA",5773,"Bellos, E",PTIS,Jujuy,Santa Catalina,Quebrada Corimayo,4120 m,19 Apr 1974,"22°9'60""S","66°10'60""W",Argentina,Okada & Bellos,fl
+2488,Solanum,acaule,"Okada, KA",5784,"Bellos, E",PTIS,Jujuy,Santa Catalina,Oros,3900 m,19 Apr 1974,21°54'S,"66°13'60""W",Argentina,Okada & Bellos,
+2384,Solanum,acaule,"Okada, KA",5801,"Bellos, E",PTIS,Jujuy,Santa Catalina,Oros,3800 m,20 Apr 1974,"22°19'60""S","66°28'60""W",Argentina,Okada & Bellos,fr
+2309,Solanum,acaule,"Hoffmann, W",1692,,"BAL, PTIS",Jujuy,Susques,Santa Victoria,4200 m,1970,23°3'S,66°57'W,Argentina,Hoffmann,fr
+2307,Solanum,acaule,"Múlgura, M",1298,"Deginani, N; Taylor, Ch; Careno, P",MO,Jujuy,Susques,,4300 m,16 Mar 1994,"23°4'12""S","66°18'36""W",Argentina,Múlgura et al.,
+2229,Solanum,acaule,"Balls, EK",6026,"Gourlay, WB; Hawkes, JG",K,Jujuy,Tilcara,"Near Tilcara, top of Chorru Valley",3800 m,13 Feb 1939,23°34'S,65°22'W,Argentina,Balls et al.,
+2235,Solanum,acaule,"Balls, EK",6028,"Gourlay, WB; Hawkes, JG",K,Jujuy,Tilcara,Tilcara,3600 m,13 Feb 1939,"23°33'60""S","65°21'60""W",Argentina,Balls et al.,
+2218,Solanum,acaule,"Cabrera, AL",14080,"Hernandez, P",LP,Jujuy,Tilcara,Alto de La Laguna Negra,4100 m,5 Mar 1961,"23°42'60""S","65°5'60""W",Argentina,Cabrera & Hernandez,fl
+2230,Solanum,acaule,"Hjerting, JP",353,,"BAL, PTIS",Jujuy,Tilcara,Quebrada del Chorro,3400 m,6 Feb 1971,23°34'S,65°22'W,Argentina,Hjerting,
+2214,Solanum,acaule,"Okada, KA",4359,,"BAL, PTIS",Jujuy,Tilcara,Piedra Rosada,4000 m,21 Mar 1972,"23°43'60""S",65°15'W,Argentina,Okada,fr
+2233,Solanum,acaule,"Okada, KA",4378,,PTIS,Jujuy,Tilcara,Inticanchi,3400 m,22 Sep 1982,"23°33'60""S","65°21'60""W",Argentina,Okada,fr
+2203,Solanum,acaule,"Okada, KA",4380,,"BAL, K",Jujuy,Tilcara,Piscuno,3100 m,22 Mar 1972,23°45'S,"65°12'60""W",Argentina,Okada,fl
+2223,Solanum,acaule,"Okada, KA",4383,,PTIS,Jujuy,Tilcara,Piscuno,3100 m,6 Oct 1982,"23°39'60""S","65°9'60""W",Argentina,Okada,fr
+2209,Solanum,acaule,"Okada, KA",4418,,"BAL, PTIS",Jujuy,Tilcara,Puesto Ventura,4000 m,24 Mar 1972,23°44'S,65°15'W,Argentina,Okada,fl
+2217,Solanum,acaule,"Petersen, E",341,"Hjerting, JP",K,Jujuy,Tumbaya,Punta Corral,3800 m,20 Mar 1952,"23°42'60""S","65°22'60""W",Argentina,Petersen & Hjerting,fl
+2243,Solanum,acaule,"Hoffmann, W",1509,,BAL,Jujuy,Valle Grande,Valle Grande,2900 m,14 Mar 1975,"23°27'60""S","64°58'60""W",Argentina,Hoffmann,fr
+2420,Solanum,acaule,"Barboza, GE",1782,"Oberti, JC; Matesevach, AM",CORD,Jujuy,Yavi,,NA,23 Mar 2006,"22°13'39""S","65°16'5""W",Argentina,Barboza et al.,fl
+2440,Solanum,acaule,"Hoffmann, W",1614,,"BAL, PTIS",Jujuy,Yavi,Chalcamayo,3850 m,s.d.,"22°7'60""S","65°27'60""W",Argentina,Hoffmann,fr
+2402,Solanum,acaule,"Hoffmann, W",1661,,"BAL, PTIS",Jujuy,Yavi,Cajas,4000 m,1970,22°15'S,65°18'W,Argentina,Hoffmann,
+2400,Solanum,acaule,"Kiesling, R",689,,LP,Jujuy,Yavi,Cajas,NA,9 Feb 1974,22°15'S,65°18'W,Argentina,Kiesling,
+2448,Solanum,acaule,"Negritto, M",398,"Barboza, GEE; Chiarini, F; Matesevach, M","CORD, CTES",Jujuy,Yavi,La Quiaca,NA,8 Mar 2002,22°6'S,"65°36'60""W",Argentina,Negritto et al.,fl
+2425,Solanum,acaule,"Negritto, M",425,"Barboza, GEE; Chiarini, F; Matesevach, M",CORD,Jujuy,Yavi,Abra de Lizoite,NA,8 Mar 2002,"22°12'60""S","65°13'60""W",Argentina,Negritto et al.,fr
+2462,Solanum,acaule,"Okada, KA",3885,,BAL,Jujuy,Yavi,Río Chico,3620 m,4 Apr 1971,"22°4'48""S","65°36'60""W",Argentina,Okada,fr
+2408,Solanum,acaule,"Okada, KA",5459,"Hermsen, JG; Bellos, E","BAL, PTIS",Jujuy,Yavi,Rincon de Cajas,3980 m,30 Mar 1974,22°15'S,65°18'W,Argentina,Okada et al.,fr
+2443,Solanum,acaule,"Okada, KA",6230,"Monti, C; Bellos, E; Casino, J",PTIS,Jujuy,Yavi,Yavi,4200 m,20 Apr 1976,"22°7'60""S","65°27'60""W",Argentina,Okada et al.,fr
+2401,Solanum,acaule,"Petersen, E",974,"Hjerting, JP",K,Jujuy,Yavi,Caja,3950 m,16 Feb 1953,22°15'S,65°18'W,Argentina,Petersen & Hjerting,fl
+2199,Solanum,acaule,"Hjerting, JP",344,"Petersen, E ","LIL, PTIS",Jujuy,Unknown,Estancia Vieja,3700 m,17 Apr 1952,"23°49'12""S","65°16'12""W",Argentina,Hjerting & Petersen,
+2237,Solanum,acaule,"Sleumer, H",s.n.,,PTIS,Jujuy,Unknown,Casa Colorada,4000 m,s.d.,"23°33'60""S","65°19'60""W",Argentina,Sleumer,fr
+2043,Solanum,acaule,"Okada, KA",4223,,BAL,La Rioja,Famatina,Peña Negra,3200 m,1 Feb 1972,"28°54'60""S","67°10'60""W",Argentina,Okada,fr
+2066,Solanum,acaule,"Okada, KA",4226,,BAL,La Rioja,Famatina,Río Vega Honda,3200 m,1 Feb 1972,"28°31'12""S","67°27'36""W",Argentina,Okada,fl
+2058,Solanum,acaule,"Okada, KA",4274,,BAL,La Rioja,Famatina,Ciénaga Grande,3100 m,2 Feb 1972,"28°39'60""S",67°42'W,Argentina,Okada,
+2032,Solanum,acaule,"Okada, KA",4276,,BAL,La Rioja,Famatina,Sierra de Famatina,3400 m,2 Feb 1972,29°S,67°30'W,Argentina,Okada,fl
+2073,Solanum,acaule,"Okada, KA",6080,"Hawkes, JG; Bellos, E",BAL,La Rioja,Famatina,Sierra de Famatina,2900 m,14 Mar 1975,"28°24'60""S","67°40'60""W",Argentina,Okada et al.,fr
+2143,Solanum,acaule,"Okada, KA",7503,"García, O","BAL, PTIS",Salta, Chicoana,Cuesta del Obispo,3450 m,20 Mar 1983,"25°9'60""S","65°50'60""W",Argentina,Okada & García,fr
+2347,Solanum,acaule,"Okada, KA",6668,"Clausen, AM; Montes, L ",BAL,Salta,Iruya,Abra El Condor,3500 m,4 Feb 1978,"22°49'60""S",64°42'W,Argentina,Okada et al.,
+2160,Solanum,acaule,"Okada, KA",7376,,BAL,Salta,La Poma,El Rodeo,3700 m,21 Jan 1982,"24°49'60""S","66°10'60""W",Argentina,Okada,
+2224,Solanum,acaule,"Okada, KA",4863,"Lucarini, O ","BAL, PTIS",Salta,La Poma,Negra Muerta,4300 m,21 Mar 1973,23°39'S,66°18'W,Argentina,Okada & Lucarini,fr
+2170,Solanum,acaule,"Okada, KA",4864,"Lucarini, O ","BAL, PTIS",Salta,La Poma,Negra Muerta,4100 m,28 Mar 1973,24°21'S,66°12'W,Argentina,Okada & Lucarini,fl
+2156,Solanum,acaule,"Okada, KA",4871,"Lucarini, O",BAL,Salta,La Poma,La Quesera,3700 m,28 Mar 1973,24°54'S,66°9'W,Argentina,Okada & Lucarini,
+2296,Solanum,acaule,"Okada, KA",4465,,"BAL, PTIS",Salta,Orán,Sierra de Zenta,4400 m,9 Sep 1983,23°6'S,"64°31'60""W",Argentina,Okada,
+2275,Solanum,acaule,"Okada, KA",4469,,BAL,Salta,Orán,Abra de Volcán,3900 m,31 Mar 1972,"23°7'60""S","64°19'60""W",Argentina,Okada,fr
+2246,Solanum,acaule,"Okada, KA",4470,,"BAL, PTIS",Salta,Orán,Sierra de Zenta,3900 m,31 Mar 1972,"23°24'60""S","63°42'60""W",Argentina,Okada,fl
+2297,Solanum,acaule,"Okada, KA",7632,"García, O","BAL, PTIS",Salta,Orán,Palca de Aparzo,3600 m,17 Apr 1983,"23°5'24""S","64°35'24""W",Argentina,Okada & García,fl
+2278,Solanum,acaule,"Okada, KA",7636,"García, O",BAL,Salta,Orán,Punta Medio Cerro,2900 m,20 Apr 1983,"23°7'12""S",64°33'W,Argentina,Okada & García,fr
+2157,Solanum,acaule,"Rodriguez, FM",1258,,LIL,Salta,Rosaria de Lerma,El Alisal,2800 m,10 Jan 1914,24°51'S,"65°40'60""W",Argentina,Rodriguez,fl
+2155,Solanum,acaule,"Okada, KA",7536,"García, O",PTIS,Salta, Rosario de Lerma,Rosario de Lerma,3650 m,27 Mar 1983,"24°58'60""S","65°34'60""W",Argentina,Okada & García,fr
+2393,Solanum,acaule,"Clausen, AM",584,,BAL,Salta,Santa Victoria,Lizoite,3400 m,s.d.,"22°15'60""S","65°10'60""W",Argentina,Clausen,fl
+2413,Solanum,acaule,"Hoffmann, W",1848,,BAL,Salta,Santa Victoria,Rodeopampa,3350 m,5 Mar 1971,22°15'S,"65°3'60""W",Argentina,Hoffmann,fl
+2381,Solanum,acaule,"Okada, KA",5434,"Hermsen, JG; Bellos, E","BAL, PTIS",Salta,Santa Victoria,"Rodeopampa, Abra de Lizoite",3500 m,29 Mar 1974,"22°22'60""S","65°16'60""W",Argentina,Okada et al.,fr
+2359,Solanum,acaule,"Okada, KA",5437,"Hermsen, JG; Bellos, E","BAL, PTIS",Salta,Santa Victoria,Abra de Lizoite,3300 m,29 Mar 1974,"22°33'60""S","64°37'60""W",Argentina,Okada et al.,fl
+2416,Solanum,acaule,"Okada, KA",5442,"Hermsen, JG; Bellos, E",PTIS,Salta,Santa Victoria,Abra de Lizoite,3300 m,12 Mar 1974,22°15'S,"64°57'60""W",Argentina,Okada et al.,fr
+2083,Solanum,acaule,"Brücher, H",512,,LL,Tucumán,Andalgalá,Nevados del Aconquija,4000 m,Jan 1950,"27°12'60""S","66°7'60""W",Argentina,Brücher,fl
+2103,Solanum,acaule,"Castillon, L",3195,,LIL,Tucumán,Tafí del Valle,El Infiernillo,NA,22 Dec 1913,"26°46'48""S",65°45'W,Argentina,Castillon,
+2121,Solanum,acaule,"Clausen, AM",1767,"Stábile, A",BAL,Tucumán,Tafí del Valle,Cumbres Calchaquies,3530 m,16 Mar 2007,26°27'S,"65°42'60""W",Argentina,Clausen & Stábile,fr
+2112,Solanum,acaule,"Lillo, M",1231,,LIL,Tucumán,Tafí del Valle,La Ciénaga,2400 m,s.d.,"26°45'60""S",65°39'W,Argentina,Lillo,
+2094,Solanum,acaule,"Lillo, M",4212,,LIL,Tucumán,Tafí del Valle,Tafí del Valle,4000 m,25 Feb 1905,"26°51'60""S","65°40'60""W",Argentina,Lillo,fr
+2107,Solanum,acaule,"Okada, KA",5694,"Hermsen, JG; Van Harten, A; Hawkes, JG; Bellos, E",PTIS,Tucumán,Tafí del Valle,Infiernillo,2940 m,11 Apr 1974,"26°46'12""S",65°45'W,Argentina,Okada et al.,fr
+2116,Solanum,acaule,"Olea, D",8757,,LIL,Tucumán,Tafí del Valle,San José,2800 m,1 Jan 1933,"26°43'60""S","65°43'60""W",Argentina,Olea,fl
+2130,Solanum,acaule,"Petersen, E",329,"Hjerting, JP",K,Tucumán,Tafí del Valle,Quebrada Honda,3200 m,16 Feb 1952,26°21'S,"65°55'60""W",Argentina,Petersen & Hjerting,fr
+2510,Solanum,acaule,"Spooner, DM",6689,"Willman García, F","BOLV, WAG",Chuquisaca,Azurduy,"113 km N of Azurduy, 20 km N of Cruz Kasa, 30 km N of Torre Pampa Junction, 1:250,000-scale map SE 20-13",3730 m,7 Mar 1993,"19°44'50""S","64°35'8""W",Bolivia,Spooner & Willman García,fr
+2545,Solanum,acaule,"Hawkes, JG",4246,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,Cochabamba,Arani,"Koari, 87 km from Cochabamba on road to Santa Cruz",3550 m,26 Jan 1971,"17°25'60""S","64°50'60""W",Bolivia,Hawkes et al.,fl
+2551,Solanum,acaule,"Hawkes, JG",6571,"Hjerting, JP; Avilés, I",K,Cochabamba,Ayopaya,"27 km from Kami on road from Cruce de Challa to Independencia, Abra de Ornoni",3730 m,10 Mar 1980,17°15'S,66°54'W,Bolivia,Hawkes et al.,fr
+2550,Solanum,acaule,"Hawkes, JG",6601,"Hjerting, JP; Avilés, I",K,Cochabamba,Cercado,"Sierra de Tunari, Parque Tunari near Lake Huara Huara at end of road, 23.5 km from park entry",4000 m,14 Mar 1980,17°18'S,66°10'W,Bolivia,Hawkes et al.,fl
+2548,Solanum,acaule,"Wood, JRI",10448,,K,Cochabamba,Quillacollo,On road from Quillacollo to Cerro Tunari,4100 m,27 Jan 1996,"17°19'60""S","66°19'60""W",Bolivia,Wood,
+2538,Solanum,acaule,"Nee, M",36642,"Solomon, J","K, MO, NY, US",Cochabamba,Tapacari,"Junction of main road from Cochabamba to La Paz with road to Independencia, ""Pongo""",3950 m,11 Mar 1988,17°37'S,66°39'W,Bolivia,Nee & Solomon,
+2607,Solanum,acaule,"Ochoa, CM",11912,"Salas, A",CUZ,La Paz,Camacho,Carabuco,3820 m,7 Mar 1978,15°45'S,69°4'W,Bolivia,Ochoa & Salas,fr
+2608,Solanum,acaule,"Spooner, DM",6742,"Willman García, F",,La Paz,Camacho,"19 km N of Escoma, on road to Huallpacayo, walking toward cliff faces, but collecting before about stone walls about houses, 1:250,000-scale map SD 19-14",3792 m,24 Mar 1993,"15°32'14""S","69°3'39""W",Bolivia,Spooner & Willman García,fl
+2619,Solanum,acaule,"Ochoa, CM",14947,"Salas, A",CUZ,La Paz,Franz Tamayo,"Huaylapuquio, descending from Catantika toward Pelechuco",4200 m,Feb 1983,14°46'S,"69°7'60""W",Bolivia,Ochoa & Salas,fr
+2569,Solanum,acaule,"Ochoa, CM",15519,"Salas, A",CUZ,La Paz,Inquisivi,"Huañacta or Huañacota, mountain downslope, between Quime and Tres Cruces",4000 m,24 Feb 1984,"17°1'60""S","67°16'60""W",Bolivia,Ochoa & Salas,
+2616,Solanum,acaule,"Ochoa, CM",15465,"Salas, A",CUZ,La Paz,Larecaja,"Cruzpata, about 4 K SE of Ancoma",3800 m,17 Feb 1984,15°18'S,68°15'W,Bolivia,Ochoa & Salas,
+2565,Solanum,acaule,"Conrad, J",2697,,MO,La Paz,Murillo,"Slopes of the low, rolling hills 2 km W of Villa Santa Fe, about 100 km N of Oruro",3900 m,19 Feb 1974,"17°4'60""S","67°5'60""W",Bolivia,Conrad,fl
+2586,Solanum,acaule,"Solomon, JC",13384,,MO,La Paz,Murillo,15.6 km above (SW) Cuticucho hydroelectric plant,4100 m,17 Apr 1985,16°13'S,68°7'W,Bolivia,Solomon,fr
+2587,Solanum,acaule,"Ochoa, CM",11829,"Salas, A",CUZ,La Paz,Omasuyos,Coromata,3950 m,25 Dec 1977,16°10'S,68°34'W,Bolivia,Ochoa & Salas,
+2593,Solanum,acaule,"Van Soest, L",59,,K,La Paz,Omasuyos,17 km from Achacachi on road to Sorata,4100 m,3 Mar 1980,15°54'S,68°39'W,Bolivia,Van Soest,fl
+2540,Solanum,acaule,"Shepard, RS",231,,"CAS, GH, UC, US",La Paz,Pacajes,Rosario,3810 m,s.d.,17°30'S,69°W,Bolivia,Shepard,fl
+2606,Solanum,acaule,"Cárdenas, M",3685,,"K, LL",La Paz,Unknown,Near Sorata,3700 m,1 Feb 1946,15°46'S,"68°37'60""W",Bolivia,Cárdenas,
+2513,Solanum,acaule,"Astley, D",86,,"K, PTIS",Potosí,Frias,Cayara 25 km from Potosí up the Cayara Valley,NA,6 Apr 1974,19°36'S,65°57'W,Bolivia,Astley,
+2520,Solanum,acaule,"Ugent, D",5162,"Vidaurre, A",MO,Potosí,Frias,"Potosí, just N of the city",3945 m,30 Apr 1963,"19°34'60""S",65°45'W,Bolivia,Ugent & Vidaurre,fl
+2522,Solanum,acaule,"Ugent, D",5166,"Vidaurre, A",US,Potosí,Frias,"Potosí, just N of the city",3945 m,30 Apr 1963,"19°34'60""S",65°45'W,Bolivia,Ugent & Vidaurre,fl
+2503,Solanum,acaule,"Ochoa, CM",11961,,CUZ,Potosí,Sud Chichas,"Pass of Machu Cruz, cordillera of Mochara, between Impora and Tupiza",4250 m,17 Mar 1978,21°15'S,"65°35'60""W",Bolivia,Ochoa,fr
+2499,Solanum,acaule,"Ochoa, CM",11965,,CUZ,Potosí,Sud Chichas,"Descending from Paso de Machu Cruz toward Tupiza, along the road from Impora to Tupiza",3800 m,17 Mar 1978,21°27'S,65°43'W,Bolivia,Ochoa,
+2493,Solanum,acaule,"Ochoa, CM",11982,,CUZ,Tarija,Avilez,Between cerro Tajsara and Patanca,3700 m,19 Mar 1978,"21°55'60""S",65°3'W,Bolivia,Ochoa,fr
+2623,Solanum,acaule,"Pisano, E",1705,"Venturelli, E","K, SGO",Antofagasta,El Loa,Quebrada Amincha,3800 m,15 Jan 1943,22°27'S,"68°55'48""W",Chile,Pisano & Venturelli,fr
+942,Solanum,acaule,"Ochoa, CM",12059,,US,Ancash,Bolognesi,"Rajan, going down toward la Mina de Llipa",3900 m,1 Apr 1978,"10°22'60""S",77°13'W,Peru,Ochoa,fl
+802,Solanum,acaule,"Stein, B",1995,"Smith, D; Todazia, C",MO,Ancash,Recuay,"Huascarán National Park, Río Pachacoto drainage, 15 km from turn-off of paved highway, bottomland along river",4200 m,27 Jan 1985,"9°19'60""S",77°24'W,Peru,Stein et al.,fr
+1380,Solanum,acaule,"Ochoa, CM",13193,,CUZ,Ayacucho,Huamanga,"lower slopes of Condorcunca, near la Quinua",3600 m,Feb 1979,"13°2'57""S","74°8'19""W",Peru,Ochoa,
+1852,Solanum,acaule,"Ochoa, CM",13818,,CUZ,Ayacucho,Lucanas,"Pampa Marca, in route from Negro Mayo to Puquio",4200 m,26 Mar 1980,14°40'S,"73°55'60""W",Peru,Ochoa,
+1609,Solanum,acaule,"Ochoa, CM",13820,,"CUZ, F, NY",Ayacucho,Lucanas,"Santa Rita, on Pampa Marca-Puquio Road",4300 m,26 Mar 1980,"13°31'56""S","73°49'46""W",Peru,Ochoa,fl
+1843,Solanum,acaule,"Ochoa, CM",13831,,CUZ,Ayacucho,Lucanas,"Pampaccara, between Lucanas and Pampa Galeras",3800 m,26 Mar 1980,14°37'S,"74°4'60""W",Peru,Ochoa,fr
+1837,Solanum,acaule,"Ochoa, CM",14402,,CUZ,Ayacucho,Lucanas,"at the start of Pampas Galeras, ascending by Puquio-Andahuaylas Road",4000 m,30 Mar 1981,14°33'S,74°3'W,Peru,Ochoa,fl
+1645,Solanum,acaule,"Ochoa, CM",3262,"Salas, A",CUZ,Ayacucho,Parinacochas,"Yanamachay, between Rebentazon and Incuyo",3600 m,15 Mar 1972,"13°37'60""S",74°12'W,Peru,Ochoa & Salas,fr
+1727,Solanum,acaule,"Ortega, R",90,,CUZ,Cusco,Acomayo,"Pomacanchi, on road from Pomacanchi to Toccorani",NA,Feb 1982,"14°1'37""S","71°34'2""W",Peru,Ortega,
+1822,Solanum,acaule,"Ochoa, CM",15680,"Blanco, O",CUZ,Cusco,Canas,"Checca, between stone fences, at the entrance of the town entering by Yanaoca-Checca Road",3850 m,15 Mar 1984,"14°28'22""S","71°23'38""W",Peru,Ochoa & Blanco,fr
+1799,Solanum,acaule,"Iltis, HH",1230,"Ugent, D","CUZ, F, MO, US, WIS",Cusco,Canchis,"halfway between Sicuani & La Raya Pass ESE of Maranganí, about 8 km (rd.) WNW of Ocobamba",NA,8 Jan 1963,14°22'S,"71°7'60""W",Peru,Iltis & Ugent,fl
+1395,Solanum,acaule,"Ochoa, CM",13541,,CUZ,Cusco,Canchis,"Aguas Calientes, near Cusco-Puno train station",4000 m,24 Jan 1980,13°9'S,72°31'W,Peru,Ochoa,fr
+1331,Solanum,acaule,"Ochoa, CM",13172,,CUZ,Huancavelica,Huancavelica,km 75 Huancavelica-Iscuchaca Road,3900 m,11 Feb 1979,12°40'S,75°15'W,Peru,Ochoa,fr
+1122,Solanum,acaule,"Ochoa, CM",309,,CUZ,Junín,Jauja,"Incacctiacunan, in Jauja-La Oroya Road, via Lomo Largo",4000 m,Mar 1948,11°37'S,"75°37'60""W",Peru,Ochoa,
+1002,Solanum,acaule,"Ochoa, CM",15199,,CUZ,Pasco,Pasco,"2 km before La Victoria, in route Carhuamayo-Paucartambo",3800 m,1 May 1983,"10°52'60""S",75°57'W,Peru,Ochoa,
+1708,Solanum,acaule,"Ochoa, CM",5142,,CUZ,Puno,Carabaya,"Rumi-Rumi, between Macusani and Ollachea",4000 m,5 Apr 1974,13°57'S,70°28'W,Peru,Ochoa,fl
+1940,Solanum,acaule,"Iltis, HH",1435,"Ugent, D","CUZ, F, K, MO, US, WIS",Puno,Lampa,"about 9 km SW of Santa Lucía, at railroad crossing of stream draining Lago Jaracocha",4000 m,12 Jan 1963,"15°46'12""S","70°34'60""W",Peru,Iltis & Ugent,
+1825,Solanum,acaule,"Ochoa, CM",15626,,CUZ,Puno,Melgar,"Unta, near km 102 of Puno-Cusco Road between Santa Rosa and Paso de La Raya",4100 m,11 Mar 1984,"14°35'8""S","70°51'23""W",Peru,Ochoa,fr
+1939,Solanum,acaule,"Iltis, HH",1379,"Ugent, D","CUZ, F, K, MO, US, WIS",Puno,Puno,"village of Vilque, 23 km WNW of Puno",3950 m,11 Jan 1963,15°46'S,70°15'W,Peru,Iltis & Ugent,fl
+1790,Solanum,acaule,"Ochoa, CM",15083,,CUZ,Puno,Sandia,"between cementery pre-inca of Machuticani, near old Patambuco-Sandia Road",3800 m,19 Feb 1983,14°18'S,"69°31'60""W",Peru,Ochoa,
+1954,Solanum,acaule,"Ochoa, CM",14281,,CUZ,Puno,San Roman,"settlement of Tincopalca, between km 109-111 of Juliaca-Arequipa Road",4050 m,8 Mar 1981,"15°51'27""S","70°45'2""W",Peru,Ochoa,
+959,Solanum,acroglossum,"Ochoa, CM",11865,,CUZ,Pasco,Daniel A. Carrión,"Shogue, near Antapirca",2800 m,28 Jan 1978,10°30'S,75°15'W,Peru,Ochoa,
+1901,Solanum,acroscopicum,"Vargas, C",19500,,CUZ,Arequipa,La Unión,hillsides near Cotahuasi in scattered thickets,3400 m,25 Apr 1967,"15°12'47""S",72°1'W,Peru,Vargas,fl
+862,Solanum,albicans,"Ochoa, CM",13239,,CUZ,Ancash,Aija,"descending from Aija to Ticapampa, on the margins of Aija-Ticapampa Road",3850 m,22 Mar 1979,9°45'S,77°27'W,Peru,Ochoa,
+876,Solanum,albicans,"Ochoa, CM",15155,,"CUZ, NY",Ancash,Aija,"Sequipoquián, also called Toma de Huarmán, between Wuamanwillca and the lagoon of Huarmán",3900 m,22 Apr 1983,"9°49'60""S","77°39'60""W",Peru,Ochoa,
+943,Solanum,albicans,"Ochoa, CM",12063,"Salas, A","CUZ, MO",Ancash,Bolognesi,"near la Mina Llipa, Dist. Rajan",3600 m,21 May 1978,"10°22'60""S",77°13'W,Peru,Ochoa & Salas,fl
+678,Solanum,albicans,"Ochoa, CM",11600,,CUZ,Ancash,Huaraz,"Pampas, in front of Pasto Bueno in puna",4000 m,15 Mar 1977,"8°11'60""S",77°54'W,Peru,Ochoa,fr
+701,Solanum,albicans,"Ochoa, CM",2539,,CUZ,Ancash,Pallasca,"Labrascocha, jalcas between San Miguel and Conchucos",3900 m,Dec 1963,8°22'S,77°39'W,Peru,Ochoa,fr
+869,Solanum,albicans,"Ochoa, CM",12089,,"CUZ, US",Ancash,Recuay,Pachacoto Creek along Ticapampa-Carpa Road,3750 m,18 Apr 1978,"9°46'60""S","77°22'60""W",Peru,Ochoa,fr
+856,Solanum,albicans,"Ochoa, CM",13241,,CUZ,Ancash,Recuay,ascending from Recuay to Aija,3500 m,22 Mar 1979,9°43'S,77°28'W,Peru,Ochoa,
+544,Solanum,albicans,"Ochoa, CM",2065,,CUZ,Cajamarca,Cajamarca,"between straw fields of jalcas of Atocsaico, in route from Cajamarca to Hacienda Porcón",3450 m,23 May 1952,7°6'S,"78°31'60""W",Peru,Ochoa,
+633,Solanum,albicans,"Salas, A",7330,"Spooner, DM; Torres Maita, RV; Schüler, K",,La Libertad,Sánchez Carrión,"at a local place called Frailón, 16.8 km NW of Laguna de Toro, on the Huamachuco to Trujillo Road",3840 m,24 Mar 1999,"7°54'58""S","78°10'8""W",Peru,Salas et al.,
+385,Solanum,albornozii,"Correll, DS",374,"Albornoz, G","K, SUNIV",Azuay,Ñamarín,56 km from Cuenca on road to Loja,3100 m,16 Mar 1958,3°24'S,79°6'W,Ecuador,Correll & Albornoz,fl
+397,Solanum,albornozii,"Correll, DS",381,"Albornoz, G","K, SUNIV",Loja,Pucashpa,15 km from Loja on road to Catamayo,NA,17 Mar 1958,"3°58'60""S","79°16'60""W",Ecuador,Correll & Albornoz,
+400,Solanum,albornozii,"Ochoa, CM",11007,"Salas, A","CPUN, PTIS",Loja,Yanacocha,near km 15 on the Loja-Catamayo Road,2700 m,May 1976,4°S,"79°13'12""W",Ecuador,Ochoa & Salas,fl
+736,Solanum,anamatophilum,"Ochoa, CM",13231,,CUZ,Ancash,Huaylas,between Huaylas and Huallanca,2250 m,21 Mar 1979,8°52'S,77°54'W,Peru,Ochoa,fl
+178,Solanum,andreanum,"Correll, DS",507,"Estrada, N","K, LL, SUNIV",Nariño,El Espino,1 km N of El Espino,3150 m,9 Apr 1958,"0°54'18""N","77°40'55""W",Colombia,Correll & Estrada,fl
+173,Solanum,andreanum,"Hawkes, JG",2547,,"K, PTIS",Nariño,Túquerres,"Pasto to Ipiales Road at 103 km from Pasto and 30 km from Túquerres, Finco Chautalán",3150 m,31 Aug 1965,"1°4'60""N",77°37'W,Colombia,Hawkes,fl
+293,Solanum,andreanum,"Castillo, R",1240,"Pineda, R; López, LE; Spooner, DM","COL, PTIS",Putumayo,Parque Nacional Llanganates,"just E of Río Espinayaco, 21.6 km E of border with Nariño Department, 1.8 km W of town square of Santiago",2180 m,13 Jul 1992,"1°8'56""S","77°1'32""W",Colombia,Castillo et al.,
+167,Solanum,andreanum,"Hawkes, JG",609,,"COL, K",Putumayo,Santiago,"Santiago and El Encano Road, near Santiago",2600 m,22 Apr 1949,1°9'N,77°W,Colombia,Hawkes,fl
+152,Solanum,andreanum,"Evans S, R",7639,"Villareal, M",US,Putumayo,Sibundoy,Valle de Sibundoy,2225 m,29 May 1946,1°12'N,76°55'W,Colombia,Evans S & Villareal,
+368,Solanum,andreanum,"Luteyn, JL",5769,"Lebrón-Luteyn, M","MO, NY",Azuay,Collay Chico,"Gualaceo-Limón Road, 24 km E of Gualaceo",3300 m,18 Apr 1978,2°54'S,78°34'W,Ecuador,Luteyn & Lebrón-Luteyn,fr
+371,Solanum,andreanum,"Alvarez, A",1479,"Tirado, M","BM, NY",Azuay,Gualaceo,"km 23-25, Cuenca-Gualaceo-Limón Indanza Road",3500 m,10 Jul 1995,"3°1'60""S",78°39'W,Ecuador,Alvarez & Tirado,fl
+321,Solanum,andreanum,"Spooner, DM",5074,"Castillo, R; López, L","CIP, INIAP, NA, PTIS, QCA",Bolívar,La Magdalena,"farm of Segundo Arévalo, 100 m on W side of La Magdalena to Balsapamba Road, in area of Cochabamba, 6.5 km S of junction of dirt roads on S side of La Magdalena",2830 m,12 May 1991,1°40'S,79°6'W,Ecuador,Spooner et al.,fl
+324,Solanum,andreanum,"Spooner, DM",5133,"Castillo, R; López, LE",PTIS,Bolívar,Magdalena,"San Miguel de Bolívar, Loma Chuchi, by road to antennas of IETEL station, near El Tambo de Gobierno",3000 m,7 Jun 1991,1°42'S,"79°4'48""W",Ecuador,Spooner et al.,fr
+349,Solanum,andreanum,"Spooner, DM",5141,"López, L; Calle, R","INIAP, PTIS",Cañar,Arres,"Quebrada Talanquera just S of Cerro Torre, N of San Antonio, on Guayaquil-Cañar Road",NA,16 Jun 1991,2°28'S,"78°55'60""W",Ecuador,Spooner et al.,fl
+190,Solanum,andreanum,"Spooner, DM",5105,"Castillo, R; López, L","INIAP, PTIS",Carchi,Hacienda Chabayan,"farm of Segundo Javier Oliva Leiton, at Hacienda San José de la Esperanza, about 300 m on S side of dirt road",3400 m,26 May 1991,0°39'N,77°55'W,Ecuador,Spooner et al.,
+189,Solanum,andreanum,"Hawkes, JG",315,,K,Carchi,Hacienda San Cristóbal,"Páramo de San Gabriel, Cayambe, 25 km on Tulcán to San Gabriel Road",3120 m,31 Jul 1948,0°39'N,77°49'W,Ecuador,Hawkes,fl
+184,Solanum,andreanum,"Spooner, DM",5100,"Castillo, R; López, LE",PTIS,Carchi,Hacienda San Joaquín,"Tulcán, by houses at Hacienda Troya, 5.8 km E of main road from Tulcán-Quito, less than 1 km S of border with Colombia",3230 m,24 May 1991,"0°43'48""N","77°40'48""W",Ecuador,Spooner et al.,fr
+332,Solanum,andreanum,"Acosta, M",7183,,F,Chimborazo,Alao,"Cerro Colorado, Kunoyacu, 20 km NNE of Chimborazo on Cerro Colorado to Carihuayrazo Road",3200 m,8 Feb 1944,1°54'S,"78°28'60""W",Ecuador,Acosta,fl
+347,Solanum,andreanum,"Spooner, DM",5067,"Castillo, R; López, L","CIP, INIAP, NA, PTIS, QCA, WIS",Chimborazo,Joyagshi,"along both sides of upper banks of Río Angas and farther up valley of Quebrada Angas, beginning about 500 m E of railroad tracks in Quebrada Angas",2950 m,10 May 1991,"2°22'60""S",78°57'W,Ecuador,Spooner et al.,
+262,Solanum,andreanum,"Spooner, DM",5096,"López, L; Estrella, J","PTIS, WIS",Cotopaxi,Chaupi,"in Parque Nacional Cotopaxi, 1.3 km E of center of fenced in deer (venados) enclosure at Estación Boliche",3630 m,21 May 1991,"0°46'39""S","78°30'52""W",Ecuador,Spooner et al.,
+265,Solanum,andreanum,"Spooner, DM",5095,"López, L; Estrella, J",WIS,Cotopaxi,Hacienda Santa Ana,"in Parque Nacional Cotopaxi, 3.6 km E of northmost park control station off of Quito-Latacunga Road, after right-hand turn past Boliche control station",3550 m,21 May 1991,0°37'S,"78°37'60""W",Ecuador,Spooner et al.,fl
+268,Solanum,andreanum,"Spooner, DM",5007,"Castillo, R; López, LE",PTIS,Cotopaxi,Latacunga,"on road from Quito to Latacunga, 8.1 km S of Pichincha-Cotopaxi provinces, 5.3 km S from entrance to Cotopaxi National Park, about 60 m E of road",3495 m,19 Apr 1991,0°39'S,"78°40'12""W",Ecuador,Spooner et al.,
+2025,Solanum,andreanum,"Ochoa, CM",2455,,CPUN,Imbabura,Quishuar,near Yanarumi,3450 m,Mar 1963,0°15'N,78°3'W,Ecuador,Ochoa,fl
+401,Solanum,andreanum,"Correll, DS",385,"Albornoz, G","K, LL, MO, NY, PTIS, SUNIV, US",Loja,Loja,about 15 km from Loja on road to Zamora,3000 m,17 Mar 1958,4°S,79°4'W,Ecuador,Correll & Albornoz,
+341,Solanum,andreanum,"Spooner, DM",5156,"Castillo, R; López, L; Guadalupe, E",,Morona-Santiago,Chanalá,"about 5 km NW of San Vincente, on old footpath on S side of Río Upano on way to San Vincente and Nueve de Octubre",2450 m,20 Jun 1991,2°12'S,"78°22'60""W",Ecuador,Spooner et al.,fr
+253,Solanum,andreanum,"Balslev, H",10314,"Madsen, E",NY,Napo,Baeza,Baeza,2000 m,25 Oct 1976,0°28'S,"77°52'60""W",Ecuador,Balslev & Madsen,
+257,Solanum,andreanum,"Spooner, DM",5126,"Castillo, R; López, LE","PTIS, WIS",Napo,Consaga,"about 2 hr walk W of Baeza-Tena Road, S of Río Bermejo, on farm of José Guaranda Guambi in Nueva Andalucía de Bermejo",2100 m,2 Jun 1991,"0°31'48""S","77°55'12""W",Ecuador,Spooner et al.,
+263,Solanum,andreanum,"Boeke, JD",373,"McElroy, J","GH, MO, NY",Napo,Cosanga,stream just S of town,2040 m,1 Dec 1976,0°36'S,77°52'W,Ecuador,Boeke & McElroy,
+244,Solanum,andreanum,"Spooner, DM",5121,"Castillo, R; López, L","CIP, INIAP, NA, PTIS, QCA, WIS",Napo,Papallacta,"along old Quito-Baeza Road, 8.4 km E of statue of Virgin at crest of Sierra, 6 km W of police control station at Papallacta",3470 m,31 May 1991,"0°22'12""S","78°11'6""W",Ecuador,Spooner et al.,
+250,Solanum,andreanum,"Holm-Nielsen, LB",27199,"Jaramillo, J; Coello, F; Asanza, E","AAU, BM",Napo,Sumaco,slopes of Guagra Urcu,2750 m,26 Sep 1980,0°28'S,77°43'W,Ecuador,Holm-Nielsen et al.,fl
+221,Solanum,andreanum,"Spooner, DM",5125,"Castillo, R; López, LE",WIS,Pichincha,Alluriquin,"2.1 km N of Hacienda San Martín, 5.7 km SW of Chiriboga",2070 m,1 Jun 1991,"0°13'60""S","78°46'60""W",Ecuador,Spooner et al.,
+2026,Solanum,andreanum,"Harling, G",12495,"Andersson, L",GB,Sucumbios,Santa Barbara,Santa Barbara-La Bonita Road,2500 m,5 Mar 1974,"0°35'26""N","77°31'10""W",Ecuador,Harling & Andersson,fl
+297,Solanum,andreanum,"Ochoa, CM",10990,,"CPUN, PTIS",Tungurahua,Ambato,"right margin of Río Llangahua, on Ambato to Guaranda Road",3550 m,May 1976,1°15'S,78°37'W,Ecuador,Ochoa,
+301,Solanum,andreanum,"Spooner, DM",5130,"Castillo, R; Tapia, C","PTIS, WIS",Tungurahua,Pallalanga,"30.5 km SE of Ambato on road to Guaranda, beginning at junction of road in Ambato, at Tamboloma",3580 m,5 Jun 1991,"1°24'29""S","78°28'15""W",Ecuador,Spooner et al.,fr
+1360,Solanum,ayacuchense,"Ochoa, CM",7282,,CUZ,Ayacucho,La Mar,"Tambo, between Tambo and San Miguel",3000 m,10 Feb 1975,12°58'S,"73°58'60""W",Peru,Ochoa,fr
+721,Solanum,blanco-galdosii,"Salas, A",7343,"Spooner, DM; Torres Maita, RV; Schüler, K","CIP, PTIS",Ancash,Sihuas,"local place called Huanchi, 10 km W of Sihuas, lower slopes of Cerro Santa Rosa",3095 m,29 Mar 1999,"8°34'23""S","77°37'34""W",Peru,Salas et al.,fr
+709,Solanum,blanco-galdosii,"Salas, A",7339,"Spooner, DM; Torres Maita, RV; Schüler, K","CIP, MOL, PTIS, WAG",La Libertad,Pataz,"local place called Cruz Pata, 2 km S of Huancaspata",3215 m,28 Mar 1999,"8°28'12""S","77°17'10""W",Peru,Salas et al.,
+2643,Solanum,boliviense,"Okada, KA",4968,"Lucarini, O",BAL,Catamarca,Andalgalá,Capillitas,2800 m,12 Apr 1973,27°21'S,66°24'W,Argentina,Okada & Lucarini,
+2633,Solanum,boliviense,"Sleumer, H",2517,"Vervoorst, F",LIL,Catamarca,Belén,Río Blanco,2500 m,28 Jan 1952,27°33'S,"67°0'60""W",Argentina,Sleumer & Vervoorst,fr
+2626,Solanum,boliviense,"Schreiter, R",6200,,LIL,Catamarca,Tinogasta,Reales Blancos,3500 m,4 Feb 1930,"28°3'60""S","67°33'60""W",Argentina,Schreiter,fr
+2702,Solanum,boliviense,Morello,s.n.,,LIL,Catamarca,Unknown,Toroyacú,0 m,1 Jan 1957,"26°30'60""S","66°16'60""W",Argentina,Morello,fr
+2638,Solanum,boliviense,"Schickendantz, F",226,,CORD,Catamarca,Unknown,Capillitas,0 m,Mar 1875,27°21'S,66°24'W,Argentina,Schickendantz,fr
+2889,Solanum,boliviense,"Hoffmann, W",1629,,BAL,Jujuy,Cochinoca,Sierra de Cochinoca,3650 m,11 Aug 1978,22°36'S,"65°48'60""W",Argentina,Hoffmann,fr
+2888,Solanum,boliviense,"Venturi, S",9393,,"GH, US",Jujuy,Cochinoca,Abra Pampa,3400 m,17 Feb 1929,"22°42'60""S",65°42'W,Argentina,Venturi,fl
+2809,Solanum,boliviense,"Hjerting, JP",77,"Petersen, E; Rahn, K",C,Jujuy,Humahuaca,Humahuaca,3600 m,3 Feb 1956,23°12'S,"65°20'60""W",Argentina,Hjerting et al.,
+2861,Solanum,boliviense,"Hjerting, JP",85,"Petersen, E; Rahn, K",C,Jujuy,Humahuaca,Tres Cruces,3700 m,3 Feb 1956,"22°54'60""S","65°34'60""W",Argentina,Hjerting et al.,
+2836,Solanum,boliviense,"Hoffmann, W",1601,,BAL,Jujuy,Humahuaca,Cuesta Azul Pampa,3400 m,s.d.,"23°2'24""S","65°14'24""W",Argentina,Hoffmann,
+2824,Solanum,boliviense,"Okada, KA",4459,,BAL,Jujuy,Humahuaca,Palca de Aparzo,3800 m,29 Mar 1972,23°6'S,"65°5'60""W",Argentina,Okada,fl
+2814,Solanum,boliviense,"Okada, KA",4485,,BAL,Jujuy,Humahuaca,Chiquero,4400 m,2 Apr 1972,"23°10'12""S",65°3'W,Argentina,Okada,
+2806,Solanum,boliviense,"Okada, KA",4510,,BAL,Jujuy,Humahuaca,Sierra Alta,3300 m,3 Apr 1972,"23°13'60""S","65°12'60""W",Argentina,Okada,fl
+2842,Solanum,boliviense,"Okada, KA",6935,,BAL,Jujuy,Humahuaca,Cuesta Azul Pampa,NA,21 Jan 1979,"23°1'12""S",65°15'W,Argentina,Okada,fl
+2812,Solanum,boliviense,"Okada, KA",6951,,BAL,Jujuy,Humahuaca,Esquina Blanca,3500 m,23 Jan 1979,23°12'S,"65°20'60""W",Argentina,Okada,fr
+2858,Solanum,boliviense,"Okada, KA",7411,,BAL,Jujuy,Humahuaca,Chaupi Rodero,3500 m,29 Jan 1983,"22°55'60""S",65°18'W,Argentina,Okada,fl
+2804,Solanum,boliviense,"Okada, KA",6727,"García, O",BAL,Jujuy,Humahuaca,Pucará,3500 m,15 Apr 1978,"23°13'60""S",65°33'W,Argentina,Okada & García,fl
+2841,Solanum,boliviense,"Okada, KA",6932,"García, O",BAL,Jujuy,Humahuaca,Cuesta Azul Pampa,NA,21 Jan 1979,"23°1'12""S",65°15'W,Argentina,Okada & García,fr
+2901,Solanum,boliviense,"Brücher, H",548,"Brücher, O",LL,Jujuy,Rinconada,,3500 m,Mar 1955,"22°25'60""S","66°9'60""W",Argentina,Brücher & Brücher,
+2872,Solanum,boliviense,"Clausen, AM",1261,"Carranza, AV; Stábile, A",BAL,Jujuy,Rinconada,El Condor,3709 m,1 Apr 2001,22°54'S,"66°45'60""W",Argentina,Clausen et al.,
+2906,Solanum,boliviense,"Okada, KA",4027,,BAL,Jujuy,Rinconada,Rinconada,4020 m,11 Apr 1971,"22°25'60""S","66°9'60""W",Argentina,Okada,fl
+3018,Solanum,boliviense,"Okada, KA",3689,,BAL,Jujuy,Santa Catalina,Santa Catalina,3950 m,20 Feb 1971,21°57'S,"66°3'60""W",Argentina,Okada,
+3020,Solanum,boliviense,"Okada, KA",3706,,BAL,Jujuy,Santa Catalina,Santa Catalina,3895 m,20 Feb 1971,21°57'S,"66°3'60""W",Argentina,Okada,fl
+3004,Solanum,boliviense,"Okada, KA",3915,,BAL,Jujuy,Santa Catalina,San Francisco,4000 m,6 Apr 1971,"22°1'60""S",66°9'W,Argentina,Okada,fl
+3013,Solanum,boliviense,"Okada, KA",3916B,,BAL,Jujuy,Santa Catalina,San Francisco,4000 m,6 Apr 1971,"22°1'60""S",66°9'W,Argentina,Okada,
+3007,Solanum,boliviense,"Okada, KA",3926,, BAL,Jujuy,Santa Catalina,San Francisco,4000 m,6 Apr 1971,"22°1'60""S",66°9'W,Argentina,Okada,fr
+3008,Solanum,boliviense,"Okada, KA",3930,,BAL,Jujuy,Santa Catalina,San Francisco,4300 m,6 Apr 1971,"22°1'60""S",66°9'W,Argentina,Okada,fl
+2971,Solanum,boliviense,"Okada, KA",5775,"Bellos, E", BAL,Jujuy,Santa Catalina,Quebrada de Oros,3980 m,19 Apr 1974,"22°13'60""S","66°19'60""W",Argentina,Okada & Bellos,fr
+2972,Solanum,boliviense,"Okada, KA",5776,"Bellos, E", BAL,Jujuy,Santa Catalina,Quebrada de Oros,3940 m,19 Apr 1974,"22°13'60""S","66°19'60""W",Argentina,Okada & Bellos,fl
+3023,Solanum,boliviense,"Okada, KA",6702,"Clausen, AM; Montes, L ",BAL,Jujuy,Santa Catalina,Santa Catalina,4000 m,9 Feb 1978,21°57'S,"66°3'60""W",Argentina,Okada et al.,
+2765,Solanum,boliviense,"Okada, KA",4362,,PTIS,Jujuy,Tilcara,Piedra Rosada,4000 m,21 Mar 1972,"23°34'48""S",65°12'W,Argentina,Okada,fr
+2749,Solanum,boliviense,"Okada, KA",4373,,BAL,Jujuy,Tilcara,Huairahuasi,3200 m,21 Mar 1972,"23°46'60""S","65°9'60""W",Argentina,Okada,fr
+2766,Solanum,boliviense,"Okada, KA",4421,," BAL, K",Jujuy,Tilcara,El Angosto,4000 m,24 Mar 1972,"23°34'48""S",65°12'W,Argentina,Okada,
+2767,Solanum,boliviense,"Okada, KA",4422,,PTIS,Jujuy,Tilcara,El Angosto,4000 m,6 Dec 1972,"23°34'48""S",65°12'W,Argentina,Okada,fl
+2751,Solanum,boliviense,"Okada, KA",4425,,BAL,Jujuy,Tilcara,El Angosto,4000 m,24 Mar 1972,23°44'S,65°15'W,Argentina,Okada,fr
+2788,Solanum,boliviense,"Okada, KA",4428,,"BAL, K",Jujuy,Tilcara,La Cueva,3900 m,26 Mar 1972,"23°22'60""S","65°31'60""W",Argentina,Okada,
+2759,Solanum,boliviense,"Petersen, E",343,"Hjerting, JP","C, K, LIL",Jujuy,Tilcara,Estancia Vieja,3700 m,21 Mar 1952,"23°39'60""S","65°9'60""W",Argentina,Petersen & Hjerting,fl
+2780,Solanum,boliviense,"Sleumer, H",4112,,"K, LL",Jujuy,Tilcara,Casa Colorada,3850 m,23 Feb 1953,"23°33'60""S","65°19'60""W",Argentina,Sleumer,fl
+2752,Solanum,boliviense,"Hoffmann, W",1589,,BAL,Jujuy,Tumbaya,Abra Cruz,4270 m,s.d.,"23°43'60""S",65°48'W,Argentina,Hoffmann,fr
+2748,Solanum,boliviense,"Hoffmann, W",1590,,BAL,Jujuy,Tumbaya,Abra de Chilcayos,3800 m,s.d.,23°57'S,"65°24'60""W",Argentina,Hoffmann,
+2988,Solanum,boliviense,"Cabrera, AL",15358,"Ancibor, E; Ré, R; Torres, A","BAB, LP",Jujuy,Yavi,Cerro Blanco de Toquero,3600 m,21 Feb 1963,22°6'S,"65°46'60""W",Argentina,Cabrera et al.,fr
+2943,Solanum,boliviense,"Hjerting, JP",113,"Petersen, E; Rahn, K","C, K",Jujuy,Yavi,Cajas,3900 m,6 Feb 1956,22°15'S,65°18'W,Argentina,Hjerting et al.,fl
+2915,Solanum,boliviense,"Hoffmann, W",1618,,BAL,Jujuy,Yavi,Cóndor,4000 m,1970,"22°22'60""S","65°20'60""W",Argentina,Hoffmann,fl
+2991,Solanum,boliviense,"Negritto, M",402,"Barboza, GEE; Chiarini, F; Matesevach, M",CORD,Jujuy,Yavi,La Quiaca,NA,8 Mar 2002,22°6'S,"65°36'60""W",Argentina,Negritto et al.,
+2975,Solanum,boliviense,"Negritto, M",430,"Barboza, GEE; Chiarini, F; Matesevach, M",CORD,Jujuy,Yavi,Abra de Lizoite,NA,8 Mar 2002,"22°12'60""S","65°13'60""W",Argentina,Negritto et al.,fl
+2987,Solanum,boliviense,"Okada, KA",3886,,BAL,Jujuy,Yavi,Río Chico,3620 m,4 Apr 1971,"22°7'48""S","65°43'48""W",Argentina,Okada,fr
+2775,Solanum,boliviense,"Balls, EK",5989,"Gourlay, WB; Hawkes, JG",K,Jujuy,Unknown,Tilcara,3840 m,15 Feb 1939,"23°33'60""S","65°21'60""W",Argentina,Balls et al.,fr
+2776,Solanum,boliviense,"Balls, EK",5991,"Gourlay, WB; Hawkes, JG",K,Jujuy,Unknown,Tilcara,3840 m,15 Feb 1939,"23°33'60""S","65°21'60""W",Argentina,Balls et al.,
+2865,Solanum,boliviense,"Correll, DS",665,"Dodds, K; Brücher, H; Paxman, G","K, LL, US",Jujuy,Unknown,Tres Cruces,0 m,25 Feb 1960,"22°54'60""S","65°34'60""W",Argentina,Correll et al.,fr
+2869,Solanum,boliviense,"Okada, KA",4431,,PTIS,Jujuy,Unknown,La Cueva,3900 m,25 Sep 1983,"22°54'60""S","65°21'60""W",Argentina,Okada,fr
+2782,Solanum,boliviense,"Okada, KA",4442,,PTIS,Jujuy,Unknown,Casa Colorada,3900 m,15 Sep 1983,"23°33'60""S","65°19'60""W",Argentina,Okada,fr
+2930,Solanum,boliviense,"Okada, KA",5782,"Bellos, E",PTIS,Jujuy,Unknown,Oros,3940 m,14 Jun 1977,"22°15'60""S","66°20'60""W",Argentina,Okada & Bellos,fr
+2892,Solanum,boliviense,"Okada, KA",5957,"Bellos, E",PTIS,Jujuy,Unknown,Sierra de Cochinoca,3700 m,8 Apr 1983,"22°33'60""S","65°52'60""W",Argentina,Okada & Bellos,
+2728,Solanum,boliviense,"Hawkes, JG",3727,"Hjerting, JP; Rahn, K","C, K",Salta,Chicoana,Escoipe,3200 m,5 Mar 1966,"25°9'60""S","65°45'60""W",Argentina,Hawkes et al.,fr
+2727,Solanum,boliviense,"Okada, KA",7385,,BAL,Salta,Chicoana,Cuesta del Obispo,3500 m,23 Jan 1983,"25°9'60""S","65°50'60""W",Argentina,Okada,fr
+2717,Solanum,boliviense,"Hawkes, JG",3939,"Hjerting, JP; Rahn, K",K,Salta,Guachipas,Pampa Grande,2650 m,20 Mar 1966,"25°49'60""S",65°30'W,Argentina,Hawkes et al.,fl
+2883,Solanum,boliviense,"Clausen, AM",676,,BAL,Salta,Iruya,Iruya,2700 m,1 Apr 1989,"22°45'60""S","65°13'60""W",Argentina,Clausen,
+2846,Solanum,boliviense,"Okada, KA",6669,"Clausen, AM; Montes, L ",BAL,Salta,Iruya,Abra El Condor,3920 m,4 Feb 1978,23°S,"64°37'60""W",Argentina,Okada et al.,fr
+2926,Solanum,boliviense,"Hjerting, JP",186,"Rahn, K",K,Salta,Santa Victoria,Los Toldos,2900 m,11 Feb 1956,22°18'S,"64°40'60""W",Argentina,Hjerting & Rahn,fr
+2941,Solanum,boliviense,"Hjerting, JP",193,"Rahn, K","C, K",Salta,Santa Victoria,Cuesta de San José,2650 m,11 Feb 1967,"22°15'60""S","64°31'60""W",Argentina,Hjerting & Rahn,fl
+2918,Solanum,boliviense,"Hoffmann, W",1851,,"BAL, C",Salta,Santa Victoria,Cajas,3150 m,5 Mar 1971,"22°22'60""S","65°16'60""W",Argentina,Hoffmann,
+2939,Solanum,boliviense,"Hoffmann, W",1938,,BAL,Salta,Santa Victoria,Abra San José,3100 m,11 Mar 1971,"22°15'60""S","64°48'60""W",Argentina,Hoffmann,fr
+2933,Solanum,boliviense,"Okada, KA",5819,"Bellos, E",BAL,Salta,Santa Victoria,Lizoite,3900 m,22 Apr 1974,"22°15'60""S","65°10'60""W",Argentina,Okada & Bellos,fr
+2935,Solanum,boliviense,"Okada, KA",5823,"Bellos, E",BAL,Salta,Santa Victoria,Lizoite,3800 m,22 Apr 1974,"22°15'60""S","65°10'60""W",Argentina,Okada & Bellos,fr
+2936,Solanum,boliviense,"Okada, KA",5839,"Bellos, E",BAL,Salta,Santa Victoria,Lizoite,3400 m,22 Apr 1974,"22°15'60""S","65°10'60""W",Argentina,Okada & Bellos,
+2969,Solanum,boliviense,"Okada, KA ",6231,"Monti, C; Bellos, E; Casino, J",BAL,Salta,Santa Victoria,Santa Victoria,3600 m,20 Apr 1976,22°15'S,"64°57'60""W",Argentina,Okada et al.,fl
+2898,Solanum,boliviense,"Sleumer, H",3745,,"K, LIL, LL",Salta,Santa Victoria,Mal Paso,3600 m,3 Feb 1953,"22°31'60""S","64°40'60""W",Argentina,Sleumer,fl
+2959,Solanum,boliviense,"Sleumer, H",4049,,LIL,Salta,Santa Victoria,Rodeopampa,3400 m,17 Feb 1953,22°15'S,"65°3'60""W",Argentina,Sleumer,
+2921,Solanum,boliviense,"Sleumer, H",4050,,LIL,Salta,Santa Victoria,Mal Paso,3950 m,17 Feb 1953,"22°22'60""S","65°16'60""W",Argentina,Sleumer,fr
+2964,Solanum,boliviense,"Zardini, EM",1787,"Pochettino, ML; Hurrell, J; Iudica, C; Ramadori, D",MO,Salta,Santa Victoria,Santa Victoria,NA,24 Jan 1983,22°15'S,"64°57'60""W",Argentina,Zardini et al.,fr
+2966,Solanum,boliviense,"Hawkes, JG",3829,"Hjerting, JP; Rahn, K",C,Salta,Unknown,Santa Victoria,3450 m,13 Mar 1966,22°15'S,"64°57'60""W",Argentina,Hawkes et al.,fr
+2681,Solanum,boliviense,Anon,s.n.,,SUNIV,Tucumán,Tafí,Tucumán,NA,s.d.,"26°48'60""S","65°12'60""W",Argentina,Anon,fr
+2710,Solanum,boliviense,"Barboza, GE",762,"Chiarini, F; Matesevach, M",CORD,Tucumán,Tafí del Valle,El Infiernillo,NA,6 Apr 2003,"26°22'60""S",65°57'W,Argentina,Barboza et al.,
+2666,Solanum,boliviense,"Barboza, GE",764,"Chiarini, F; Matesevach, M",CORD,Tucumán,Tafí del Valle,El Infiernillo,NA,6 Apr 2003,"26°51'60""S","65°40'60""W",Argentina,Barboza et al.,fl
+2665,Solanum,boliviense,"Brücher, H",541,"Brücher, O",LL,Tucumán,Tafí del Valle,Tafí del Valle,2500 m,Feb 1950,"26°51'60""S","65°40'60""W",Argentina,Brücher & Brücher,fr
+2692,Solanum,boliviense,"Clausen, AM",1756,"Stábile, A",BAL,Tucumán,Tafí del Valle,Infiernillo,3042 m,11 Mar 2007,"26°44'24""S",65°45'W,Argentina,Clausen & Stábile,fl
+2706,Solanum,boliviense,"Clausen, AM",1770,"Stábile, A",BAL,Tucumán,Tafí del Valle,Cumbres Calchaquies,3391 m,16 Mar 2007,26°27'S,"65°42'60""W",Argentina,Clausen & Stábile,fr
+2707,Solanum,boliviense,"Clausen, AM",1771,"Stábile, A",BAL,Tucumán,Tafí del Valle,Cumbres Calchaquies,3583 m,16 Mar 2007,26°27'S,"65°42'60""W",Argentina,Clausen & Stábile,fr
+2689,Solanum,boliviense,"Descole, H",s.n.,,LIL,Tucumán,Tafí del Valle,La Ciénaga,0 m,s.d.,"26°45'60""S",65°39'W,Argentina,Descole,fr
+2696,Solanum,boliviense,"Hawkes, JG",3496,,BAL,Tucumán,Tafí del Valle,Quebrada Honda,3200 m,17 Feb 1966,"26°43'60""S","65°43'60""W",Argentina,Hawkes,fl
+2699,Solanum,boliviense,"Lorentz, PG",664,"Hieronymus, GH","CORD, GOET",Tucumán,Tafí del Valle,Tucumán,0 m,10 Jan 1874,"26°42'60""S",65°48'W,Argentina,Lorentz & Hieronymus,fr
+2661,Solanum,boliviense,"Petersen, E",326,"Hjerting, JP","C, K",Tucumán,Tafí del Valle,Tafí,2900 m,14 Feb 1952,"26°51'60""S","65°40'60""W",Argentina,Petersen & Hjerting,fl
+2662,Solanum,boliviense,"Petersen, E",327,"Hjerting, JP","C, K",Tucumán,Tafí del Valle,Tafí,2900 m,14 Feb 1952,"26°51'60""S","65°40'60""W",Argentina,Petersen & Hjerting,fl
+2667,Solanum,boliviense,"Petersen, E",858,"Hjerting, JP",C,Tucumán,Tafí del Valle,Tafí,2750 m,1 Jan 1953,"26°51'60""S","65°40'60""W",Argentina,Petersen & Hjerting,
+2703,Solanum,boliviense,"Sparre, CS",9230,,LIL,Tucumán,Tafí del Valle,Calchaqui,3000 m,23 Jan 1952,"26°27'60""S","66°4'60""W",Argentina,Sparre,
+2695,Solanum,boliviense,"Hawkes, JG",3488,"Hjerting, JP; Rahn, K",C,Tucumán,Unknown,Infiernillo,3550 m,15 Feb 1966,"26°43'60""S","65°43'60""W",Argentina,Hawkes et al.,fr
+3061,Solanum,boliviense,"van den Berg, RG",620,"Spooner, DM; Ugarte, ML","BOLV, PTIS, WAG",Chuquisaca,Azurduy,"85 km north of Azurduy, 1:250,000-scale map SE 20-13",3200 m,16 Jan 1994,"19°52'60""S",64°34'W,Bolivia,van den Berg et al.,fr
+3049,Solanum,boliviense,"Spooner, DM",6612,"Willman García, F","BOLV, PTIS, WAG, WIS",Chuquisaca,Nor Cinti,"26.4 km NW of town square of Culpina on rd to Santa Elena, 1:250,000-scale map SF 20-1",2940 m,23 Feb 1993,"20°40'33""S","64°51'27""W",Bolivia,Spooner & Willman García,fl
+3110,Solanum,boliviense,"Balls, EK",6188,,"C, K, UC",Chuquisaca,Oropeza,"Guerraloma, near Sucre",3020 m,8 Mar 1939,"18°58'60""S","65°20'60""W",Bolivia,Balls,fr
+3111,Solanum,boliviense,"Balls, EK",6190,,"BM, C, K, UC",Chuquisaca,Oropeza,"Guerraloma near Sucre, southern Bolivia",3020 m,8 Mar 1939,"18°58'60""S","65°20'60""W",Bolivia,Balls,
+3112,Solanum,boliviense,"Ochoa, CM",11929,,"CUZ, P",Chuquisaca,Oropeza,Vicinity of Guerraloma,2770 m,11 Mar 1978,"18°58'60""S",65°22'W,Bolivia,Ochoa,fl
+3113,Solanum,boliviense,"Ochoa, CM",11935,,CUZ,Chuquisaca,Oropeza,Between Ckuchu Tambo and Guerraloma,3000 m,13 Mar 1978,"18°58'60""S",65°22'W,Bolivia,Ochoa,fr
+3086,Solanum,boliviense,"Spooner, DM",6673,"Willman García, F","BOLV, PTIS, WAG, WIS",Chuquisaca,Tomina,"36 km S of town square of Icla on road to Sibundoy, 1:250,000-scale map SE 20-13",3850 m,6 Mar 1993,"19°31'10""S","64°39'25""W",Bolivia,Spooner & Willman García,fl
+3097,Solanum,boliviense,"Ross, H",344,,C,Chuquisaca,Yamparáez,"Siclla, 8 km W of Tarabuco",3600 m,1959,"19°7'60""S",64°54'W,Bolivia,Ross,fr
+3101,Solanum,boliviense,"Ugent, D",4973,"Cárdenas, M",F,Chuquisaca,Yamparáez,20 km SSE of Sucre on the Sucre-Yamparáez road,2800 m,12 Apr 1963,"19°4'60""S",65°15'W,Bolivia,Ugent & Cárdenas,fr
+3160,Solanum,boliviense,"Hawkes, JG",5603,"Van Harten, AM; Landeo, J",K,Cochabamba,Arani,"Estación experimental de Toralapa, 71-72 km from Cochabamba, on road to Santa Cruz",3500 m,22 Mar 1974,17°25'S,65°40'W,Bolivia,Hawkes et al.,fl
+3148,Solanum,boliviense,"Spooner, DM",6631,"Willman García, F","BOLV, PTIS, WAG, WIS",Cochabamba,Arani,"75 km E of Cochabamba on rd to Montepunco, 4 km E of Toralapa research Station, 1:250,000-scale map SE 20-5",3690 m,2 Mar 1993,"17°29'1""S","65°36'59""W",Bolivia,Spooner & Willman García,fr
+3221,Solanum,boliviense,"Brooke, WMA",3053,,NY,Cochabamba,Ayopaya,"Choro. Above the Cocapata river about 100 miles NW of Cochabamba, across the Tunari range",3350 m,22 Jun 1950,"16°55'60""S",66°42'W,Bolivia,Brooke,fr
+3192,Solanum,boliviense,"Hawkes, JG",6697,"Hjerting, JP; Avilés, I",K,Cochabamba,Ayopaya,"30 km from the turning off the Morochata-Cochabamba road towards Cocapata, near Loko",3950 m,3 Apr 1980,17°12'S,66°28'W,Bolivia,Hawkes et al.,fr
+3197,Solanum,boliviense,"Ugent, D",4805,,CUZ,Cochabamba,Ayopaya,"Janko Cala, above San Miguel bridge and Liriuni on the Cochabamba-Vizcachas road, about 25 K NNW of Cochabamba",3900 m,9 Apr 1963,17°12'S,"66°16'60""W",Bolivia,Ugent,fr
+3227,Solanum,boliviense,"Ugent, D",4845,,US,Cochabamba,Ayopaya,"Sihuincani, near Hacienda Sailapata, about 65 km NNW of Cochabamba",3600 m,9 Apr 1963,"16°49'60""S","66°24'60""W",Bolivia,Ugent,
+3231,Solanum,boliviense,"Ugent, D",4853,,"C, K, PTIS",Cochabamba,Ayopaya,"10 km from Hacienda Sailapata on road to Cuatro Cruces, ""Suncani.""",NA,9 Apr 1963,16°30'S,"66°34'60""W",Bolivia,Ugent,
+3151,Solanum,boliviense,"Hawkes, JG",6423,"Hjerting, JP; Avilés, I",K,Cochabamba,Carrasco,105 km from Cochabamba on road to Santa Cruz,2900 m,21 Feb 1980,17°28'S,"65°16'60""W",Bolivia,Hawkes et al.,fr
+3179,Solanum,boliviense,"Hawkes, JG",6602,"Hjerting, JP; Avilés, I",K,Cochabamba,Cercado,"Sierra de Tunari, near Lake Huara Huara at end of road, 23.5 km from park entry",4000 m,14 Mar 1980,17°18'S,66°10'W,Bolivia,Hawkes et al.,fl
+3178,Solanum,boliviense,"Hawkes, JG",4261,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,Cochabamba,Quillacollo,20.5 km from Quillacollo on road to Morochata,3500 m,27 Jan 1971,17°18'S,"66°25'60""W",Bolivia,Hawkes et al.,fr
+3172,Solanum,boliviense,"Hawkes, JG",6465,"Hjerting, JP; Avilés, I",K,Cochabamba,Quillacollo,19 km from Quillacollo on road to Morachata,3400 m,25 Feb 1980,17°21'S,"66°20'60""W",Bolivia,Hawkes et al.,fl
+3140,Solanum,boliviense,"Correll, DS",605,"Dodds, K; Brücher, H; Paxman, G","K, LL, NY, US",Cochabamba,Unknown,"Near Koari, on the Cochabamba-Santa Cruz road",3800 m,13 Feb 1960,17°31'S,"65°28'60""W",Bolivia,Correll et al.,
+3149,Solanum,boliviense,"Spooner, DM",6501,"Willman García, F",,Cochabamba,Unknown,"Tiraque: at Estación Experimental Toralapa, at km 71, along old road from Cochabamba to Santa Cruz, 1:250,000-scale map SE 20-5",3578 m,8 Feb 1993,"17°28'37""S","65°35'13""W",Bolivia,Spooner & Willman García,fr
+3222,Solanum,boliviense,"Van Soest, L",154,,K,La Paz,Ingavi,38 km from Viacha on road to Nazacara,4100 m,22 Mar 1980,"16°49'60""S","68°36'60""W",Bolivia,Van Soest,
+3214,Solanum,boliviense,"Van Soest, L",173,,C,La Paz,Inquisivi,"73 km from Panduro on the road to Quime, 5 km after Huañacota",3910 m,25 Mar 1980,17°3'S,"67°16'60""W",Bolivia,Van Soest,
+3213,Solanum,boliviense,"Van Soest, L",19,,K,La Paz,Inquisivi,76 km from Panduro on road to Quime (4 km after Huañacota village),4040 m,24 Feb 1980,17°3'S,67°18'W,Bolivia,Van Soest,fl
+3211,Solanum,boliviense,"Van Soest, L",48,,C,La Paz,Loayza,8 km from Caxata junction towards Araca,4140 m,26 Feb 1980,17°4'S,"67°22'60""W",Bolivia,Van Soest,fl
+3235,Solanum,boliviense,"Van Soest, L",117,,K,La Paz,Murillo,"Road to Palca, sideroad turning off at 23 km from Inst. Nac. De Biol. Animal",3990 m,12 Mar 1980,"16°19'60""S",68°W,Bolivia,Van Soest,fl
+3127,Solanum,boliviense,"Correll, DS",603,"Dodds, K; Brücher, H; Paxman, G","K, LL, US",Oruro,Unknown,"On rocky slope N of Eucaliptus, on road to Oruro",NA,11 Feb 1960,18°40'S,67°30'W,Bolivia,Correll et al.,fl
+3130,Solanum,boliviense,"Hondelmann, W",16,"Astley, D; Moreira, A",K,Potosí,Bustillo,41 km from Uncia on mountain road above Amayapampa,3950 m,20 Feb 1980,18°28'S,"66°25'60""W",Bolivia,Hondelmann et al.,
+3075,Solanum,boliviense,"Hawkes, JG",4317,"Hjerting, JP; Cribb, PJ; Huamán, Z","C, K",Potosí,Frias,Below Potosí on road to Lecherías,3950 m,31 Jan 1971,"19°35'1""S","65°45'11""W",Bolivia,Hawkes et al.,fl
+3076,Solanum,boliviense,"Hjerting, JP",4589,"Cribb, P; Huamán, Z","C, K",Potosí,Frias,"Road to Lecherías, 0.5 km below Potosí",3950 m,7 Mar 1971,"19°35'1""S","65°45'11""W",Bolivia,Hjerting et al.,fl
+3077,Solanum,boliviense,"Hjerting, JP",4590,"Cribb, P; Huamán, Z","C, K",Potosí,Frias,"Road to Lecherías, 0.75 km below Potosí",3950 m,7 Mar 1971,"19°35'1""S","65°45'11""W",Bolivia,Hjerting et al.,fl
+3079,Solanum,boliviense,"Cárdenas, M",s.n.,,LL,Potosí,Unknown,Near Potosí,4000 m,1 Feb 1949,"19°35'1""S","65°45'11""W",Bolivia,Cárdenas,fr
+3090,Solanum,boliviense,"Correll, DS",633,"Dodds, K; Brücher, H; Paxman, G","K, LL, MO, NY, SUNIV, UC",Potosí,Unknown,Open fields about 80 km from Potosí on road to Sucre,NA,18 Feb 1960,"19°13'60""S","65°25'60""W",Bolivia,Correll et al.,
+3026,Solanum,boliviense,"Ochoa, CM",11985,,CUZ,Tarija,Avilez,14 K SE of Copacabana,3750 m,21 Mar 1978,"21°52'60""S","64°58'60""W",Bolivia,Ochoa,fr
+3025,Solanum,boliviense,"Ochoa, CM",11987,,CUZ,Tarija,Avilez,"Punapatanca, in highlands ofTajsara",3730 m,Mar 1978,21°55'S,"65°1'60""W",Bolivia,Ochoa,fl
+3042,Solanum,boliviense,"Hjerting, JP",4641,"Cribb, P; Huamán, Z",K,Tarija,Mendéz,Below Cumbre de Sama on road to Tarija,3660 m,11 Mar 1971,"21°25'60""S","64°52'60""W",Bolivia,Hjerting et al.,fl
+3024,Solanum,boliviense,"Fiebrig, K",2618,,SUNIV,Tarija,Unknown,Puna Patanca,3700 m,8 Jan 1904,21°57'S,65°4'W,Bolivia,Fiebrig,fl
+1923,Solanum,boliviense,"Ochoa, CM",14273,,"CUZ, USM",Arequipa,Caylloma,bottom of Cerro Yahuarmayo,4100 m,6 Mar 1981,"15°36'50""S","71°32'6""W",Peru,Ochoa,fl
+1596,Solanum,boliviense,"Ugent, D",3592,,WIS,Cusco,Cusco,"Sacsayhuamán Ruins, Inca fortress, above Cusco",3500 m,15 Feb 1963,13°31'S,71°58'W,Peru,Ugent,fl
+1480,Solanum,boliviense,"Ochoa, CM",13776,,CUZ,Cusco,Urubamba,between San Juan and Cuyoc heights de Yucay,NA,18 Mar 1980,"13°19'17""S","72°4'56""W",Peru,Ochoa,fl
+3359,Solanum,brevicaule,"Okada, KA",7558,"García, O",PTIS,Jujuy,Capital,Molinos,3200 m,3 Apr 1983,"23°58'12""S","65°37'48""W",Argentina,Okada & García,fl
+3352,Solanum,brevicaule,"Okada, KA",7577,"García, O",PTIS,Jujuy,Capital,Abra de Cerrillos,3450 m,4 Apr 1983,24°6'S,"65°40'12""W",Argentina,Okada & García,fl
+3593,Solanum,brevicaule,"Clausen, AM",1710,"Ispizúa, NV",BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3650 m,26 Jan 2005,23°S,"65°16'12""W",Argentina,Clausen & Ispizúa,fr
+3594,Solanum,brevicaule,"Clausen, AM",1713,"Ispizúa, NV",BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3650 m,26 Jan 2005,23°S,"65°16'12""W",Argentina,Clausen & Ispizúa,
+3598,Solanum,brevicaule,"Hawkes, JG",3907,"Hjerting, JP;  Rahn, K","C, BAL",Jujuy,Humahuaca,Iturbe,3530 m,16 Mar 1966,"22°58'60""S","65°20'60""W",Argentina,Hawkes et al.,
+3528,Solanum,brevicaule,"Okada, KA",3047,,"BAL, K",Jujuy,Humahuaca,Quebrada de la Soledad,3300 m,5 Mar 1967,23°12'S,65°27'W,Argentina,Okada,fl
+3513,Solanum,brevicaule,"Okada, KA",4493,,"BAL, PTIS",Jujuy,Humahuaca,Cianzo,3800 m,2 Apr 1972,"23°13'60""S","65°12'60""W",Argentina,Okada,fr
+3515,Solanum,brevicaule,"Okada, KA",4495,,"BAL, PTIS",Jujuy,Humahuaca,Cianzo,3800 m,2 Apr 1972,"23°13'60""S","65°12'60""W",Argentina,Okada,fl
+3601,Solanum,brevicaule,"Okada, KA",4536,,BAL,Jujuy,Humahuaca,Sierra Alta,3501 m,5 Apr 1972,"22°58'60""S","65°20'60""W",Argentina,Okada,fl
+3657,Solanum,brevicaule,"Okada, KA",4541,, BAL,Jujuy,Humahuaca,Sierra Alta,3580 m,5 Apr 1972,"22°54'60""S","65°21'60""W",Argentina,Okada,fl
+3627,Solanum,brevicaule,"Okada, KA",4553,,"BAL, C",Jujuy,Humahuaca,Esquina Blanca,3500 m,8 Apr 1972,"22°58'12""S","65°25'48""W",Argentina,Okada,fr
+3629,Solanum,brevicaule,"Okada, KA",4555,,BAL,Jujuy,Humahuaca,Esquina Blanca,3500 m,8 Apr 1972,"22°58'12""S","65°25'48""W",Argentina,Okada,fr
+3631,Solanum,brevicaule,"Okada, KA",4559,,BAL,Jujuy,Humahuaca,Esquina Blanca,3500 m,8 Apr 1972,"22°58'12""S","65°25'48""W",Argentina,Okada,fl
+3602,Solanum,brevicaule,"Okada, KA",4570,,BAL,Jujuy,Humahuaca,Iturbe,3700 m,11 Apr 1972,"22°58'60""S","65°20'60""W",Argentina,Okada,
+3579,Solanum,brevicaule,"Okada, KA",6939,,BAL,Jujuy,Humahuaca,Esquina Blanca,3500 m,21 Jan 1979,"23°1'60""S","65°9'60""W",Argentina,Okada,fr
+3638,Solanum,brevicaule,"Okada, KA",6950,,BAL,Jujuy,Humahuaca,Esquina Blanca,3500 m,23 Jan 1979,22°57'S,65°33'W,Argentina,Okada,fr
+3580,Solanum,brevicaule,"Okada, KA",6959,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3500 m,23 Jan 1979,"23°1'60""S","65°9'60""W",Argentina,Okada,fr
+3532,Solanum,brevicaule,"Okada, KA",6969,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3500 m,25 Jan 1979,23°12'S,"65°20'60""W",Argentina,Okada,fl
+3559,Solanum,brevicaule,"Okada, KA",6976,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,25 Jan 1979,23°6'S,"65°19'60""W",Argentina,Okada,fr
+3494,Solanum,brevicaule,"Okada, KA",6981,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,25 Jan 1979,"23°18'60""S","65°13'60""W",Argentina,Okada,fl
+3520,Solanum,brevicaule,"Okada, KA",6993,,BAL,Jujuy,Humahuaca,Estacion Azul Pampa,3400 m,25 Jan 1979,"23°13'60""S","65°12'60""W",Argentina,Okada,
+3504,Solanum,brevicaule,"Okada, KA",7004,,BAL,Jujuy,Humahuaca,Estacion Azul Pampa,3500 m,25 Jan 1979,"23°16'60""S","65°20'60""W",Argentina,Okada,fr
+3533,Solanum,brevicaule,"Okada, KA",7010,,BAL,Jujuy,Humahuaca,Estacion Azul Pampa,3500 m,25 Jan 1979,23°12'S,"65°20'60""W",Argentina,Okada,fr
+3615,Solanum,brevicaule,"Okada, KA",7050,,BAL,Jujuy,Humahuaca,Iturbe,3600 m,6 Jun 1979,"22°58'60""S","65°20'60""W",Argentina,Okada,
+3620,Solanum,brevicaule,"Okada, KA",7056,,BAL,Jujuy,Humahuaca,Iturbe,3600 m,6 Jun 1979,"22°58'60""S","65°20'60""W",Argentina,Okada,fl
+3622,Solanum,brevicaule,"Okada, KA",7062,,BAL,Jujuy,Humahuaca,Iturbe,3600 m,6 Jun 1979,"22°58'60""S","65°20'60""W",Argentina,Okada,
+3523,Solanum,brevicaule,"Okada, KA",7074,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,"23°13'60""S","65°12'60""W",Argentina,Okada,fr
+3635,Solanum,brevicaule,"Okada, KA",7087,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,"22°57'60""S","65°31'60""W",Argentina,Okada,fr
+3666,Solanum,brevicaule,"Okada, KA",7103,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,22°54'S,"65°16'60""W",Argentina,Okada,
+3544,Solanum,brevicaule,"Okada, KA",7104,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,23°9'S,65°27'W,Argentina,Okada,
+3508,Solanum,brevicaule,"Okada, KA",7111,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,"23°16'60""S","65°19'60""W",Argentina,Okada,fr
+3552,Solanum,brevicaule,"Okada, KA",7127,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,"23°7'60""S","65°0'60""W",Argentina,Okada,fl
+3581,Solanum,brevicaule,"Okada, KA",7131,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,"23°1'60""S","65°9'60""W",Argentina,Okada,fr
+3525,Solanum,brevicaule,"Okada, KA",7132,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,"23°13'60""S","65°12'60""W",Argentina,Okada,fr
+3526,Solanum,brevicaule,"Okada, KA",7133,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,"23°13'60""S","65°12'60""W",Argentina,Okada,
+3667,Solanum,brevicaule,"Okada, KA",7134,,BAL,Jujuy,Humahuaca,Quebrada de Inca cuevas,3600 m,7 Jun 1979,22°54'S,"65°16'60""W",Argentina,Okada,fl
+3502,Solanum,brevicaule,"Okada, KA",7136,,BAL,Jujuy,Humahuaca,Esquina Blanca,3600 m,7 Jun 1979,23°18'S,65°42'W,Argentina,Okada,fl
+3653,Solanum,brevicaule,"Okada, KA",7415,,BAL,Jujuy,Humahuaca,Chaupi Rodero,3500 m,29 Jan 1983,"22°55'60""S",65°18'W,Argentina,Okada,fr
+3644,Solanum,brevicaule,"Okada, KA",6716,"Clausen, A M, Montes, L ",BAL,Jujuy,Humahuaca,Chaupi Rodero,NA,10 Feb 1978,"22°55'60""S",65°18'W,Argentina,Okada & Clausen,
+3647,Solanum,brevicaule,"Okada, KA",6787,"García, O", BAL,Jujuy,Humahuaca,Chaupi Rodero,3700 m,21 Apr 1978,"22°55'60""S",65°18'W,Argentina,Okada & García,
+3648,Solanum,brevicaule,"Okada, KA",6791,"García, O",BAL,Jujuy,Humahuaca,Chaupi Rodero,3700 m,21 Apr 1978,"22°55'60""S",65°18'W,Argentina,Okada & García,fl
+3567,Solanum,brevicaule,"Okada, KA",7595,"García, O",BAL,Jujuy,Humahuaca,Palca de Aparzo,3500 m,8 Apr 1983,23°6'S,"65°5'60""W",Argentina,Okada & García,fr
+3568,Solanum,brevicaule,"Okada, KA",7596,"García, O",BAL,Jujuy,Humahuaca,Palca de Aparzo,3500 m,8 Apr 1983,23°6'S,"65°5'60""W",Argentina,Okada & García,fl
+3655,Solanum,brevicaule,"Okada, KA",7630,"García, O",BAL,Jujuy,Humahuaca,Chaupi Rodero,3500 m,16 Apr 1983,"22°55'60""S",65°18'W,Argentina,Okada & García,fr
+3547,Solanum,brevicaule,"Okada, KA",5361,"Hermsen,J, Bellos,E",BAL,Jujuy,Humahuaca,Serrania de Aparzo,3500 m,26 Mar 1974,"23°7'60""S",65°12'W,Argentina,Okada & Hermsen,
+3549,Solanum,brevicaule,"Okada, KA",5376,"Hermsen,J, Bellos,E",BAL,Jujuy,Humahuaca,Serrania de Aparzo,3600 m,26 Mar 1974,"23°7'60""S",65°12'W,Argentina,Okada & Hermsen,fr
+3398,Solanum,brevicaule,"Hoffmann, W",1635,,BAL,Jujuy,Tilcara,Stream of Quebrada de Hornillos,3050 m,1970,23°39'S,"65°24'60""W",Argentina,Hoffmann,fr
+3399,Solanum,brevicaule,"Hoffmann, W",1636,,"BAL, PTIS",Jujuy,Tilcara,Stream of Quebrada de Hornillos,3050 m,13 Aug 1970,23°39'S,"65°24'60""W",Argentina,Hoffmann,
+3403,Solanum,brevicaule,"Okada, KA",3813,,"BAL, PTIS",Jujuy,Tilcara,Sierra de Malpaso,2850 m,8 Apr 1971,"23°37'12""S","65°25'48""W",Argentina,Okada,fr
+3471,Solanum,brevicaule,"Okada, KA",4298,,"BAL, PTIS",Jujuy,Tilcara,Casa Colorada,3300 m,15 Mar 1972,"23°33'60""S","65°19'60""W",Argentina,Okada,fr
+3441,Solanum,brevicaule,"Okada, KA",4352,,"BAL, PTIS",Jujuy,Tilcara,Alfarcito,2900 m,19 Mar 1972,"23°34'60""S","65°20'60""W",Argentina,Okada,fr
+3394,Solanum,brevicaule,"Okada, KA",4434,,"BAL, PTIS",Jujuy,Tilcara,Quebrada del Chorro,3900 m,26 Mar 1972,"23°39'60""S","65°9'60""W",Argentina,Okada,fr
+3391,Solanum,brevicaule,"Okada, KA",4437,,"BAL, PTIS",Jujuy,Tilcara,Quebrada del Chorro,3900 m,26 Mar 1972,"23°40'60""S","65°25'60""W",Argentina,Okada,fr
+3458,Solanum,brevicaule,"Petersen, E",356,"Hjerting, JP","C, K, LIL",Jujuy,Tilcara,Tilcara,4000 m,24 Mar 1952,"23°33'60""S","65°21'60""W",Argentina,Petersen & Hjerting,fr
+3461,Solanum,brevicaule,"Sleumer, H",4119,,"K, LIL, LL",Jujuy,Tilcara,Tilcara,3000 m,25 Feb 1953,"23°33'60""S","65°21'60""W",Argentina,Sleumer,fr
+3411,Solanum,brevicaule,"Okada, KA",4325,,BAL,Jujuy,Tumbaya,Quebrada de Estancia Grande,3200 m,17 Mar 1972,"23°36'60""S",65°33'W,Argentina,Okada,fr
+3420,Solanum,brevicaule,"Okada, KA",4336,,"BAL, PTIS",Jujuy,Tumbaya,Quebrada de Sepulturas,3100 m,21 Feb 1972,"23°34'60""S","65°36'60""W",Argentina,Okada,fl
+3534,Solanum,brevicaule,"Okada, KA",3074,,"BAL, K",Jujuy,Unknown,,3400 m,8 Apr 1974,"23°10'12""S",65°27'W,Argentina,Okada,fr
+3263,Solanum,brevicaule,"Hjerting, JP",341,"Petersen, E; Rahn, K",K,Salta,Cachí,10 km from Payogasta toward Salta,2600 m,23 Feb 1956,25°S,66°1'W,Argentina,Hjerting et al.,
+3253,Solanum,brevicaule,"Okada, KA",7675,"García, O", BAL,Salta,Cachí,Las Cuevas,3500 m,4 May 1983,25°3'S,"66°20'60""W",Argentina,Okada & García,fl
+3248,Solanum,brevicaule,"Okada, KA",7387,,BAL,Salta,Chicoana,Piedra Molino,3500 m,23 Jan 1983,"25°9'60""S","65°51'60""W",Argentina,Okada,fl
+3249,Solanum,brevicaule,"Okada, KA",7680,"García, O",PTIS,Salta,Chicoana,Cachí,3600 m,5 May 1983,25°6'S,"66°10'60""W",Argentina,Okada & García,
+3679,Solanum,brevicaule,"Clausen, AM",677,,BAL,Salta,Iruya,Iruya,2700 m,1 Apr 1989,"22°45'60""S","65°13'60""W",Argentina,Clausen,
+3715,Solanum,brevicaule,"Hoffmann, W",1697,,BAL,Salta,Iruya,Pantipampa,3200 m,1970,22°36'S,"65°9'60""W",Argentina,Hoffmann,fl
+3708,Solanum,brevicaule,"Hoffmann, W",1706,,BAL,Salta,Iruya,Abra Colorada,3400 m,1 Jan 1970,"22°40'48""S",65°12'W,Argentina,Hoffmann,fr
+3705,Solanum,brevicaule,"Hoffmann, W",1707,,BAL,Salta,Iruya,Abra Colorada,3400 m,1 Jan 1970,"22°41'24""S","65°12'36""W",Argentina,Hoffmann,fl
+3689,Solanum,brevicaule,"Okada, KA",6638,"Clausen, A M, Montes, L ",BAL,Salta,Iruya,Quebrada del  Río Chico,3300 m,1 Feb 1978,"22°43'60""S","65°9'60""W",Argentina,Okada & Clausen,
+3582,Solanum,brevicaule,"Okada, KA",6644,"Clausen, A M, Montes, L ",BAL,Salta,Iruya,Quebrada del  Río Chico,3300 m,1 Feb 1978,"23°1'60""S","64°37'60""W",Argentina,Okada & Clausen,fr
+3716,Solanum,brevicaule,"Okada, KA",6657,"Clausen, A M, Montes, L ",BAL,Salta,Iruya,Quebrada del  Río Chico,3800 m,1 Feb 1978,22°36'S,"65°9'60""W",Argentina,Okada & Clausen,fl
+3685,Solanum,brevicaule,"Okada, KA",6665,"Clausen, A M, Montes, L ",BAL,Salta,Iruya,Pie de la Cuesta,3000 m,3 Feb 1978,22°45'S,"64°51'60""W",Argentina,Okada & Clausen,fr
+3670,Solanum,brevicaule,"Okada, KA",6649,"Clausen, AM; Montes, L ",BAL,Salta,Iruya,Quebrada del  Río Chico,3300 m,1 Feb 1978,"22°49'60""S",64°42'W,Argentina,Okada et al.,fr
+3671,Solanum,brevicaule,"Okada, KA",6829,"García, O","BAL, C",Salta,Iruya,Quebrada de El Volcancito,3000 m,21 Sep 1978,"22°49'12""S","65°13'48""W",Argentina,Okada & García,fr
+3583,Solanum,brevicaule,"Okada, KA",6839,"García, O",BAL,Salta,Iruya,Quebrada del Río San Isidro,3050 m,25 Apr 1978,"23°1'60""S","64°37'60""W",Argentina,Okada & García,fl
+3699,Solanum,brevicaule,"Okada, KA",6863,"García, O",BAL,Salta,Iruya,Chiyuyoc,3050 m,27 Apr 1978,"22°42'60""S",65°12'W,Argentina,Okada & García,
+3269,Solanum,brevicaule,"Clausen, AM",1572,"Erazzú, LE",BAL,Salta,La Poma,El Rodeo,3672 m,15 Mar 2003,"24°49'60""S","66°10'60""W",Argentina,Clausen & Erazzú,fr
+3280,Solanum,brevicaule,"Okada, KA",7375,,BAL,Salta,La Poma,El Rodeo,3700 m,21 Jan 1983,"24°49'60""S","66°10'60""W",Argentina,Okada,
+3273,Solanum,brevicaule,"Okada, KA",4840,"Ross, H; Haisma, J; Lucarini, O","BAL, PTIS",Salta,La Poma,El Rodeo,3900 m,21 Mar 1973,"24°49'60""S","66°10'60""W",Argentina,Okada et al.,fr
+3274,Solanum,brevicaule,"Okada, KA",4841,"Ross, H; Haisma, J; Lucarini, O","BAL, PTIS",Salta,La Poma,El Rodeo,3900 m,21 Mar 1973,"24°49'60""S","66°10'60""W",Argentina,Okada et al.,fr
+3301,Solanum,brevicaule,"Okada, KA",4919,"Lucarini, O",BAL,Salta,La Poma,El Trigal,3300 m,5 Apr 1973,"24°39'60""S",66°12'W,Argentina,Okada & Lucarini,fr
+3246,Solanum,brevicaule,"Okada, KA",5570,"Hermsen,JV; Hawkes, JG; Bellos, E",BAL,Salta,Los Andes,Matancillas,3700 m,4 Apr 1974,"25°10'60""S","67°19'60""W",Argentina,Okada et al.,fr
+3311,Solanum,brevicaule,"Okada, KA",4885,"Lucarini, O","BAL, PTIS",Salta,Los Andes,Sierra de Cobres,3720 m,30 Mar 1973,"24°28'60""S",68°24'W,Argentina,Okada & Lucarini,fl
+3252,Solanum,brevicaule,"Okada, KA",4887,"Lucarini, O","BAL, PTIS",Salta,Los Andes,Sierra de Cobres,3720 m,30 Mar 1973,"25°3'60""S","67°3'60""W",Argentina,Okada & Lucarini,
+3283,Solanum,brevicaule,"Okada, KA",4893,"Lucarini, O",BAL,Salta,Rosaria de Lerma,Quebrada del toro,2100 m,1 Apr 1973,"24°49'60""S","65°42'60""W",Argentina,Okada & Lucarini,
+3340,Solanum,brevicaule,"Okada, KA",7379,,BAL,Salta,Rosario de Lerma,La Bomba,3700 m,21 Jan 1983,"24°11'24""S","66°4'12""W",Argentina,Okada,
+3256,Solanum,brevicaule,"Okada, KA",7660,"García, O", BAL,Salta,Rosario de Lerma,Cerro Negro,3400 m,28 Apr 1983,"25°1'48""S","65°52'12""W",Argentina,Okada & García,fl
+3266,Solanum,brevicaule,"Okada, KA",5609,"Hermsen, H,VH, Hawkes, JG, Bellos, E",BAL,Salta,Rosario de Lerma,Cebollar,2200 m,5 Apr 1974,"24°58'60""S","65°34'60""W",Argentina,Okada & Hermsen,
+3319,Solanum,brevicaule,"Okada, KA",4859,"Lucarini, O","BAL, PTIS",Salta,Rosario de Lerma,Las Cuevas,3700 m,27 Mar 1973,"24°19'60""S",66°3'W,Argentina,Okada & Lucarini,fl
+3320,Solanum,brevicaule,"Okada, KA",4860,"Lucarini, O","BAL, PTIS",Salta,Rosario de Lerma,Las Cuevas,3800 m,27 Mar 1973,"24°19'60""S",66°3'W,Argentina,Okada & Lucarini,
+3294,Solanum,brevicaule,"Okada, KA",4894,"Lucarini, O", BAL,Salta,Rosario de Lerma,Chorrillos,2100 m,1 Apr 1973,24°45'S,65°45'W,Argentina,Okada & Lucarini,fr
+3243,Solanum,brevicaule,"Okada, KA",7520,"García, O",BAL,Salta,San Carlos,Isonza,3500 m,22 Mar 1983,"25°19'48""S","65°52'48""W",Argentina,Okada & García,
+3736,Solanum,brevicaule,"Clausen, AM",504,,BAL,Salta,Santa Victoria,Falda Grande,NA,22 Mar 1989,22°15'S,"64°57'60""W",Argentina,Clausen,
+3719,Solanum,brevicaule,"Clausen, AM",616,,BAL,Salta,Santa Victoria,San Marcos de Nazareno,3100 m,27 Mar 1989,22°18'S,"65°3'36""W",Argentina,Clausen,fl
+3720,Solanum,brevicaule,"Clausen, AM",618,,BAL,Salta,Santa Victoria,San Marcos de Nazareno,NA,s.d.,22°18'S,"65°3'36""W",Argentina,Clausen,
+3726,Solanum,brevicaule,"Okada, KA",5854,"Bellos, E",BAL,Salta,Santa Victoria,Lizoite,3400 m,23 Apr 1974,"22°15'60""S","65°10'60""W",Argentina,Okada & Bellos,
+3738,Solanum,brevicaule,"Sleumer, H",3998,,"LIL, LL",Salta,Santa Victoria,Santa Victoria,2700 m,12 Feb 1953,22°15'S,"64°57'60""W",Argentina,Sleumer,fl
+3965,Solanum,brevicaule,"Hoopes, RW",163,"Avilés, I; Okada, K",C,Chuquisaca,Azurduy,"110 km from Azurduy, 20 km beyond Cruz Kasa, 30 km before the Torro Pampa junction, on the road to Tarabuco",3700 m,4 Apr 1986,18°54'S,64°54'W,Bolivia,Hoopes et al.,fl
+3807,Solanum,brevicaule,"Spooner, DM",6687,"Willman García, F","BOLV, PTIS, WAG, WIS",Chuquisaca,Azurduy,"113 km N of town square of Azurduy, 20 km N of Cruz Kasa, 30 km N of Torre Pampa Junction, 1:250,000-scale map SE 20-13 (type locality)",3730 m,7 Mar 1993,"19°44'50""S","64°35'8""W",Bolivia,Spooner & Willman García,fl
+3792,Solanum,brevicaule,"van den Berg, RG",622,"Spooner, DM; Ugarte, ML","BOLV, PTIS, WAG",Chuquisaca,Azurduy,"18.2 km north of town square of Azurduy on road to Tarabuco, 1:250,000-scale map SE 20-14",2690 m,16 Jan 1994,"19°59'41""S","64°25'56""W",Bolivia,van den Berg et al.,
+3770,Solanum,brevicaule,"Astley, D",50,,K,Chuquisaca,Nor Cinti,"Malpaso, 130 km from Potosí to Camargo",3750 m,31 Mar 1974,"20°28'1""S","65°13'58""W",Bolivia,Astley,
+3781,Solanum,brevicaule,"Hawkes, JG",5726,"Van Harten, AM; Landeo, J",K,Chuquisaca,Nor Cinti,"124 km from Potosí on road to Camargo, 3 km before Padcaya",3450 m,29 Mar 1974,20°15'S,"65°10'60""W",Bolivia,Hawkes et al.,fr
+3782,Solanum,brevicaule,"Hawkes, JG",5730,"Van Harten, AM; Landeo, J",K,Chuquisaca,Nor Cinti,"126 km from Potosí on road to Camargo, about 1 km from Padcaya",3400 m,29 Mar 1974,20°15'S,"65°10'60""W",Bolivia,Hawkes et al.,
+3766,Solanum,brevicaule,"Spooner, DM",6613,"Willman García, F","BOLV, PTIS",Chuquisaca,Nor Cinti,"30.4 km NW of town square of Culpina on rd to Santa Elena, 1:250,000-scale map SF 20-1",3145 m,23 Feb 1993,"20°38'45""S","64°49'58""W",Bolivia,Spooner & Willman García,fl
+3943,Solanum,brevicaule,"Balls, EK",6148,"Gourlay, WB; Hawkes, JG",K,Chuquisaca,Oropeza,Near Sucre,2590 m,6 Mar 1939,19°3'S,65°15'W,Bolivia,Balls et al.,fr
+3941,Solanum,brevicaule,"Hawkes, JG",4301,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,Chuquisaca,Oropeza,"Sucre, 0.5 km from main plaza on road to Potosí, descending a hill",2800 m,30 Jan 1971,19°3'S,65°15'W,Bolivia,Hawkes et al.,
+3967,Solanum,brevicaule,"Hondelmann, W",50,"Astley, D; Moreira, A",K,Chuquisaca,Oropeza,11 km from Ravelo on road to Sucre,3150 m,23 Feb 1980,"18°52'60""S",65°27'W,Bolivia,Hondelmann et al.,fl
+3992,Solanum,brevicaule,"Ochoa, CM",11926,,CUZ,Chuquisaca,Oropeza,Azari,2700 m,11 Mar 1978,18°40'S,65°10'W,Bolivia,Ochoa,fr
+3938,Solanum,brevicaule,"Ochoa, CM",15573,Cagigao,CUZ,Chuquisaca,Oropeza,Between Sucre and La Glorieta,2800 m,Mar 1984,19°3'S,"65°16'60""W",Bolivia,Ochoa & Cagigao,fl
+3920,Solanum,brevicaule,"Spooner, DM",6526,"Willman García, F","BOLV, PTIS, WAG, WIS",Chuquisaca,Oropeza,"ca. 4 km W of junction of road from Sucre to Potosí, and road through Yotala, 1:250,000-scale map SE 20-13",2594 m,12 Feb 1993,"19°10'23""S","65°14'53""W",Bolivia,Spooner & Willman García,fl
+3948,Solanum,brevicaule,"Ugent, D",4937,"Cárdenas, M",F,Chuquisaca,Oropeza,"Villa María, a small farm about 10 km NE of Sucre (reached by Jeep but not serviced by a road)",2850 m,12 Apr 1963,19°1'S,65°10'W,Bolivia,Ugent & Cárdenas,fr
+3759,Solanum,brevicaule,"Ochoa, CM",11952,,CUZ,Chuquisaca,Sud Cinti,"Near Sajlina, along the road from Camargo to Culpina",2980 m,16 Mar 1978,20°48'S,65°W,Bolivia,Ochoa,
+3912,Solanum,brevicaule,"Hondelmann, W",133,"Astley, D; Moreira, A",K,Chuquisaca,Yamparáez,10 km from Tarabuco on the road to Icla,2930 m,12 Mar 1980,"19°13'60""S",64°52'W,Bolivia,Hondelmann et al.,fl
+3917,Solanum,brevicaule,"Ochoa, CM",15581,Cagigao,CUZ,Chuquisaca,Yamparáez,"Between Yotala and Calera, on road to Potosí",2900 m,Mar 1984,19°12'S,65°18'W,Bolivia,Ochoa & Cagigao,fl
+3922,Solanum,brevicaule,"van den Berg, RG",629,"Spooner, DM; Ugarte, ML","BOLV, PTIS, WAG",Chuquisaca,Yamparáez,"51 km east of center of town of Sucre, 16 km west of center of town of Tarabuco, on road to Zudañez, 1:250,000-scale map SE 20-13",2300 m,19 Jan 1994,"19°9'25""S","65°0'20""W",Bolivia,van den Berg et al.,fl
+3764,Solanum,brevicaule,"Cárdenas, M",4514,,K,Chuquisaca,Unknown,Near Camargo,2400 m,Feb 1949,20°39'S,65°13'W,Bolivia,Cárdenas,fr
+3760,Solanum,brevicaule,"Correll, DS",642,"Dodds, K; Brücher, H; Paxman, G",LL,Chuquisaca,Unknown,Rocky slopes about 25 km from Culpina on road to Camargo,NA,21 Feb 1960,20°45'S,65°10'W,Bolivia,Correll et al.,fl
+3786,Solanum,brevicaule,"Spooner, DM",6718,"Willman García, F","BOLV, PTIS, WAG, WIS","Chuquisaca, incorrectly Potosí",Nor Cinti,"In town of Pohona, 4.5 km S of rd diverting into Otavi, on rd to Camargo, 1:250,000-scale map SF 20-1",3175 m,24 Feb 1993,"20°7'28""S","65°19'51""W",Bolivia,Spooner & Willman García,fl
+4134,Solanum,brevicaule,"Spooner, DM",6773,"Willman García, F",,Cochabamba,Arani,"Farm in town of Tiraque, managed by Don Ricardo, 1:250,000-scale map SE 20-5",3285 m,5 Apr 1993,"17°25'6""S","65°43'27""W",Bolivia,Spooner & Willman García,fr
+4057,Solanum,brevicaule,"Van Soest, L",103,,K,Cochabamba,Arque,"About 90 km from Cochabamba on road to Oruro, Sayari (junction of old and new Cochabamba road)",3780 m,18 Feb 1980,17°42'S,66°28'W,Bolivia,Van Soest,
+4233,Solanum,brevicaule,"Ugent, D",4672,,MO,Cochabamba,Ayopaya,"Puente San Miguel, above Liriuni on the Cochabamba-Vizcachas road, about 25 km NNW of Cochabamba (air distance)",3800 m,9 Apr 1963,17°10'S,66°25'W,Bolivia,Ugent,
+4217,Solanum,brevicaule,"Ugent, D",4688,,K,Cochabamba,Ayopaya,"Puente San Miguel, above Liriuni on the Cochabamba-Vizcachas road, about 25 km NNW of Cochabamba (air distance)",3800 m,9 Apr 1963,17°10'S,66°25'W,Bolivia,Ugent,
+4219,Solanum,brevicaule,"Ugent, D",4690,,CUZ,Cochabamba,Ayopaya,"Puente San Miguel, above Liriuni on the Cochabamba-Vizcachas road, about 25 km NNW of Cochabamba (air distance)",3800 m,9 Apr 1963,17°10'S,66°25'W,Bolivia,Ugent,
+4223,Solanum,brevicaule,"Ugent, D",4696,,"CUZ, K, WIS",Cochabamba,Ayopaya,"Puente San Miguel, above Liriuni on the Cochabamba-Vizcachas road, about 25 km NNW of Cochabamba (air distance)",3800 m,9 Apr 1963,17°10'S,66°25'W,Bolivia,Ugent,
+4225,Solanum,brevicaule,"Ugent, D",4698,,GH,Cochabamba,Ayopaya,"Puente San Miguel, above Liriuni on the Cochabamba-Vizcachas road, about 25 km NNW of Cochabamba (air distance)",3800 m,9 Apr 1963,17°10'S,66°25'W,Bolivia,Ugent,fl
+4230,Solanum,brevicaule,"Ugent, D",4769,,WIS,Cochabamba,Ayopaya,"Puente San Miguel, above Liriuni on the Cochabamba-Vizcachas road, about 25 km NNW of Cochabamba (air distance)",3800 m,9 Apr 1963,17°10'S,66°25'W,Bolivia,Ugent,fl
+4231,Solanum,brevicaule,"Ugent, D",4770,,"F, US",Cochabamba,Ayopaya,"Puente San Miguel, above Liriuni on the Cochabamba-Vizcachas road, about 25 km NNW of Cochabamba (air distance)",3800 m,9 Apr 1963,17°10'S,66°25'W,Bolivia,Ugent,fl
+4065,Solanum,brevicaule,"Astley, D",11,,K,Cochabamba,Capinota,3 km past Itapaya on the road from Parotani to Capinota,2400 m,22 Mar 1974,17°40'S,"66°19'60""W",Bolivia,Astley,fl
+4054,Solanum,brevicaule,"Astley, D",14,,K,Cochabamba,Capinota,1 km past Charamoco on road from Parotani to Capinota,2400 m,22 Mar 1974,17°43'S,"66°16'60""W",Bolivia,Astley,fl
+4053,Solanum,brevicaule,"Astley, D",19,,PTIS,Cochabamba,Capinota,"Road to Parotani, 5 km from Capinota",2400 m,22 Mar 1974,17°43'S,"66°13'60""W",Bolivia,Astley,
+4092,Solanum,brevicaule,"Hawkes, JG",4420,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,Cochabamba,Capinota,"On road from Parotani to Capinota, 2 km past Itapaya",2400 m,15 Feb 1971,17°34'S,"66°20'60""W",Bolivia,Hawkes et al.,fl
+4084,Solanum,brevicaule,"Hawkes, JG",4424,"Hjerting, JP; Cribb, PJ; Huamán, Z","C, K",Cochabamba,Capinota,"On road from Parotani to Capinota, 1 km past Charamoco",2400 m,15 Feb 1971,17°36'S,"66°16'60""W",Bolivia,Hawkes et al.,fr
+4095,Solanum,brevicaule,"Hawkes, JG",6669,"Hjerting, JP; Avilés, I",C,Cochabamba,Capinota,2 km from Parotani on road to Capinota (1 km from new rad),2450 m,29 Mar 1980,17°34'S,"66°19'60""W",Bolivia,Hawkes et al.,
+4086,Solanum,brevicaule,"Hawkes, JG",6670,"Hjerting, JP; Avilés, I",C,Cochabamba,Capinota,"Charamoco, 1 km from village to south",2400 m,29 Mar 1980,17°36'S,"66°16'60""W",Bolivia,Hawkes et al.,fr
+4093,Solanum,brevicaule,"Hjerting, JP",4421,"Cribb, P; Huamán, Z",K,Cochabamba,Capinota,"On road from Parotani to Capinota, 2 km past Itapaya",2400 m,15 Feb 1971,17°34'S,"66°20'60""W",Bolivia,Hjerting et al.,fr
+4101,Solanum,brevicaule,"Hawkes, JG",4508,"Hjerting, JP; Cribb, PJ; Huamán, Z","C, K",Cochabamba,Carrasco,On road from Cochabamba to Santa Cruz at km 104.5,3000 m,27 Feb 1971,"17°31'60""S","65°10'60""W",Bolivia,Hawkes et al.,fl
+4103,Solanum,brevicaule,"Hawkes, JG",4510,"Hjerting, JP; Cribb, PJ; Huamán, Z","C, K",Cochabamba,Carrasco,On road from Cochabamba to Santa Cruz at km 104.5,3000 m,27 Feb 1971,"17°31'60""S","65°10'60""W",Bolivia,Hawkes et al.,
+4076,Solanum,brevicaule,"Hawkes, JG",6434,"Van Harten, AM; Landeo, J",C,Cochabamba,Carrasco,"13 km from Epizana on road to Aiquile, 1 km before Totora",2800 m,21 Feb 1980,"17°37'60""S",66°49'W,Bolivia,Hawkes et al.,fr
+4088,Solanum,brevicaule,"Hawkes, JG",6484,"Hjerting, JP; Avilés, I",K,Cochabamba,Carrasco,"Incallajta, 20 km S from the turning at km 121 on the main Cochabamba road to Santa Cruz (just a few km past Montepunco)",2900 m,26 Feb 1980,"17°34'60""S","65°21'60""W",Bolivia,Hawkes et al.,fl
+4146,Solanum,brevicaule,"Hawkes, JG",6628,"Hjerting, JP; Avilés, I",K,Cochabamba,Cercado,Grounds of the University of Cochabamba,2560 m,17 Mar 1980,"17°22'60""S","66°9'60""W",Bolivia,Hawkes et al.,fl
+4124,Solanum,brevicaule,"Ugent, D",4583,,WIS,Cochabamba,Cercado,"Cervecería Colón, about 2 km N of Cochabamba",2700 m,3 Apr 1963,"17°28'60""S",66°9'W,Bolivia,Ugent,fl
+4126,Solanum,brevicaule,"Ugent, D",4585,,US,Cochabamba,Cercado,"Cervecería Colón, about 2 km N of Cochabamba",2700 m,3 Apr 1963,"17°28'60""S",66°9'W,Bolivia,Ugent,
+4204,Solanum,brevicaule,"Hawkes, JG",6615,"Hjerting, JP; Avilés, I",K,Cochabamba,Chapare,35 km from Tranca de Sacaba on road to Palca,3800 m,15 Mar 1980,"17°13'60""S",66°3'W,Bolivia,Hawkes et al.,fl
+4249,Solanum,brevicaule,"Brooke, WMA ",3003,,BM,Cochabamba,Colomi,30 miles ENE of Cochabamba,3660 m,9 Feb 1949,17°S,65°30'W,Bolivia,Brooke,fl
+4190,Solanum,brevicaule,"Cárdenas, M",5518,,"K, LL",Cochabamba,Quillacollo,"Puente San Miguel, Tunari-Cochabamba",3800 m,1 Feb 1952,"17°16'60""S",66°28'W,Bolivia,Cárdenas,
+4079,Solanum,brevicaule,"Hawkes, JG",4347,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,Cochabamba,Quillacollo,46.5 km from Cochabamba on road to Oruro,2950 m,4 Feb 1971,17°37'S,"66°31'60""W",Bolivia,Hawkes et al.,fl
+4081,Solanum,brevicaule,"Hawkes, JG",4349,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,Cochabamba,Quillacollo,46 km from Cochabamba on road to Oruro,2950 m,4 Feb 1971,17°37'S,"66°31'60""W",Bolivia,Hawkes et al.,fr
+4160,Solanum,brevicaule,"Hawkes, JG",6468,"Hjerting, JP; Avilés, I","C, K",Cochabamba,Quillacollo,"22 km from Quillacollo on road to Morochata, by new Puente San Miguel",3650 m,25 Feb 1980,"17°19'60""S","66°20'60""W",Bolivia,Hawkes et al.,fr
+4178,Solanum,brevicaule,"Hawkes, JG",6650,"Hjerting, JP; Avilés, I",K,Cochabamba,Quillacollo,"25.5 km from Quillacollo on road to Morachata, below hairpin bend by river",3850 m,2 Apr 1980,17°19'S,66°22'W,Bolivia,Hawkes et al.,
+4035,Solanum,brevicaule,"Cárdenas, M",7609,"Cutler, HC; Gandarillas, H",GH,Cochabamba,Tarata,"Near Anzaldo, lands of Humberto Gandarillas",3500 m,8 Jan 1943,"17°49'60""S",65°55'W,Bolivia,Cárdenas et al.,
+4114,Solanum,brevicaule,"Balls, EK",6298,"Gourlay, WB; Hawkes, JG",K,Cochabamba,Unknown,Cerro de San Pedro. SE Cochabamba,2590 m,18 Mar 1939,17°30'S,66°9'W,Bolivia,Balls et al.,fl
+4109,Solanum,brevicaule,"Bang, AM",1100,,"G, K, WIS",Cochabamba,Unknown,No exact locality given but near Cochabamba,NA,1893,17°30'S,66°9'W,Bolivia,Bang,fr
+4024,Solanum,brevicaule,"Brooke, WMA ",3008,,BM,Cochabamba,Unknown,"Aguas Calientes Station, about half-way between Oruro and Cochabamba",3440 m,27 Jan 1949,18°S,66°30'W,Bolivia,Brooke,
+4027,Solanum,brevicaule,"Brooke, WMA ",3011,,BM,Cochabamba,Unknown,"Aguas Calientes Station, about half-way between Oruro and Cochabamba",3440 m,30 Jan 1949,18°S,66°30'W,Bolivia,Brooke,fl
+4290,Solanum,brevicaule,"Gentry, A",44359,"Solomon, JC; Zardini, E",MO,La Paz,Ingavi,"Vicinity of Hacienda Lacaya, about 20 km NW of Tambillo, near Lago Titicaca",3850 m,18 Jan 1984,"16°25'60""S",68°40'W,Bolivia,Gentry et al.,fr
+4259,Solanum,brevicaule,"Hawkes, JG",5269,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,La Paz,Inquisivi,Inquisivi,2500 m,Mar 1971,16°55'S,67°9'W,Bolivia,Hawkes et al.,fr
+4255,Solanum,brevicaule,"Ochoa, CM",15497,"Salas, A","CUZ, NY",La Paz,Inquisivi,"Canayapu, on the road from Quime to Inquisivi",2700 m,23 Feb 1984,16°57'S,"67°10'60""W",Bolivia,Ochoa & Salas,fr
+4258,Solanum,brevicaule,"Van Soest, L",179,,K,La Paz,Inquisivi,Just outside Inquisivi on road to Independencia,2740 m,26 Mar 1980,16°55'S,67°9'W,Bolivia,Van Soest,
+4253,Solanum,brevicaule,"Van Soest, L",179,,K,La Paz,Inquisivi,14 km from Inquisivi on road to Quime,2800 m,26 Mar 1980,16°58'S,67°12'W,Bolivia,Van Soest,fr
+4304,Solanum,brevicaule,"Mandon, G",399,,K,La Paz,Larecaja,Vicinity of Sorata,2680 m,Feb 1860,15°46'S,"68°37'60""W",Bolivia,Mandon,
+4261,Solanum,brevicaule,"Van Soest, L",52,,K,La Paz,Loayza,"20 km from Viloco on road to Tanapaca, on compound mission station near Tanapaca",3250 m,27 Feb 1980,"16°49'60""S","67°37'60""W",Bolivia,Van Soest,fl
+4309,Solanum,brevicaule,"Ochoa, CM",11820,,"CUZ, NY",La Paz,Manco Kapac,"Vicinity of Casani, near Copacabana",3850 m,24 Dec 1977,"15°19'60""S",68°13'W,Bolivia,Ochoa,
+4310,Solanum,brevicaule,"Ochoa, CM",11892,,C,La Paz,Manco Kapac,"Near Copacabana, Casani",3950 m,Feb 1978,"15°19'60""S",68°13'W,Bolivia,Ochoa,fr
+4292,Solanum,brevicaule,"Spooner, DM",6763,"Willman García, F","BOLV, PTIS",La Paz,Manco Kapac,"1 km from Tiquina on road to Copacabana, 1:250,000-scale map SE 19-3",3900 m,1 Apr 1993,"16°13'40""S","68°51'4""W",Bolivia,Spooner & Willman García,
+4289,Solanum,brevicaule,"Asplund, E",2044,,SUNIV,La Paz,Murillo,"La Paz, Challapampa",3700 m,26 Jan 1921,"16°28'60""S",68°9'W,Bolivia,Asplund,
+4284,Solanum,brevicaule,"Hawkes, JG",2,,K,La Paz,Murillo,La Paz Botanic Garden,3850 m,14 Mar 1974,"16°30'60""S","68°6'60""W",Bolivia,Hawkes,
+4211,Solanum,brevicaule,"Hawkes, JG",5028,"Hjerting, JP; Cribb, PJ; Huamán, Z",C,La Paz,Murillo,"Ovijuyo, field behind Instituto Nacional de Biología Animal",3650 m,2 Apr 1971,17°12'S,68°18'W,Bolivia,Hawkes et al.,
+4275,Solanum,brevicaule,"Petersen, E",1051,"Hjerting, JP","C, K",La Paz,Murillo,"Obrajes, a little above La Paz",3550 m,5 Mar 1953,"16°31'60""S",68°7'W,Bolivia,Petersen & Hjerting,fl
+4269,Solanum,brevicaule,"Van Soest, L",120,,C,La Paz,Murillo,"Road from La Paz to Mecapaca, Aranjuez, 1 km past the Instituto Biblico Nazareno, garden of the Vivero Forestal",3190 m,13 Mar 1980,16°33'S,"68°5'60""W",Bolivia,Van Soest,fl
+4210,Solanum,brevicaule,"Van Soest, L",99,,"C, K",La Paz,Murillo,"Below La Paz on road to Palca (Ovejuyo), near Instituto Nacional de Biología Animal",3570 m,8 Feb 1980,17°12'S,68°18'W,Bolivia,Van Soest,fr
+4283,Solanum,brevicaule,"Balls, EK",5895,"Gourlay, WB; Hawkes, JG","K, US",La Paz,Unknown,"Below La Paz, Calacoto, in the Obrajes Valley",3450 m,28 Jan 1939,"16°31'60""S","68°5'60""W",Bolivia,Balls et al.,
+4287,Solanum,brevicaule,"Balls, EK",5903,"Gourlay, WB; Hawkes, JG",K,La Paz,Unknown,Below La Paz,3505 m,29 Jan 1939,16°30'S,68°9'W,Bolivia,Balls et al.,fl
+4306,Solanum,brevicaule,"Brooke, WMA ",6427,,BM,La Paz,Unknown,"Gran Poder. Small gold mine about 40 km N of Sorata, in narrow wooded valley below Tacacoma",3050 m,4 Jun 1950,15°30'S,68°30'W,Bolivia,Brooke,fl
+3962,Solanum,brevicaule,"Asplund, E",3240,,SUNIV,Oruro,Abaroa,Challapata,3800 m,31 Mar 1921,18°54'S,66°46'W,Bolivia,Asplund,fr
+3963,Solanum,brevicaule,"Asplund, E",3303,,SUNIV,Oruro,Abaroa,Challapata,3800 m,31 Mar 1921,18°54'S,66°46'W,Bolivia,Asplund,fr
+4041,Solanum,brevicaule,"Van Soest, L",146,,K,Oruro,Cercado,2 km from La Joya on road to Lajma,3680 m,20 Mar 1980,17°46'S,"67°28'60""W",Bolivia,Van Soest,fr
+4016,Solanum,brevicaule,"Cárdenas, M",88,,PTIS,Oruro,Unknown,Poopó,3700 m,s.d.,"18°22'48""S","66°58'12""W",Bolivia,Cárdenas,fl
+3824,Solanum,brevicaule,"Astley, D",117,,K,Potosí,Frias,Cayara Valley,NA,4 Mar 1980,19°36'S,65°57'W,Bolivia,Astley,fl
+3863,Solanum,brevicaule,"Hawkes, JG",4333,"Hjerting, JP; Cribb, PJ; Huamán, Z","C, K",Potosí,Frias,"2 km before Tarapaya, 23 km on road from Potosí to Oruro",3500 m,3 Feb 1971,"19°29'34""S","65°47'38""W",Bolivia,Hawkes et al.,fl
+3834,Solanum,brevicaule,"Hawkes, JG",4585,"Hjerting, JP; Cribb, PJ; Huamán, Z",C,Potosí,Frias,Lecherías below Potosí,3900 m,7 Mar 1971,"19°35'1""S","65°45'11""W",Bolivia,Hawkes et al.,
+3883,Solanum,brevicaule,"Hawkes, JG",4597,"Hjerting, JP; Cribb, PJ; Huamán, Z","C, K",Potosí,Frias,Km 30 on road from Potosí to Oruro,3600 m,8 Mar 1971,"19°22'60""S","65°55'60""W",Bolivia,Hawkes et al.,
+3873,Solanum,brevicaule,"Hawkes, JG",5273,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,Potosí,Frias,"Region of Huarihuari de Potosí, 35 km towards Don Diego",3600 m,Apr 1970,"19°26'54""S","65°35'29""W",Bolivia,Hawkes et al.,
+3835,Solanum,brevicaule,"Hawkes, JG",5715,"Van Harten, AM; Landeo, J",K,Potosí,Frias,NW of Hacienda Cayara,3540 m,28 Mar 1974,"19°34'60""S",65°45'W,Bolivia,Hawkes et al.,fl
+3830,Solanum,brevicaule,"Hondelmann, W",106,"Astley, D; Moreira, A","C, K",Potosí,Frias,4 km from Casa Cayara to Potosí on the old road,3350 m,4 Mar 1980,19°36'S,65°55'W,Bolivia,Hondelmann et al.,fr
+3797,Solanum,brevicaule,"Hondelmann, W",108,"Astley, D; Moreira, A",K,Potosí,Frias,10 km from Casa Cayara on the old road to Potosí,3350 m,4 Mar 1980,19°54'S,"65°50'60""W",Bolivia,Hondelmann et al.,fr
+3894,Solanum,brevicaule,"Hondelmann, W",62,"Astley, D; Moreira, A",K,Potosí,Frias,35 km from Potosí on road to Yocalla and Oruro,3500 m,28 Feb 1980,"19°19'60""S",65°58'W,Bolivia,Hondelmann et al.,fl
+3862,Solanum,brevicaule,"Ross, H",189,Vidaurre,K,Potosí,Frias,Tarapaya,3900 m,2 Mar 1959,"19°29'34""S","65°47'38""W",Bolivia,Ross & Vidaurre,fl
+3837,Solanum,brevicaule,"Zavaleta, M",244,,C,Potosí,Frias,Wila kollu,NA,20 May 1963,"19°34'28""S","65°57'43""W",Bolivia,Zavaleta,fr
+3791,Solanum,brevicaule,"Hawkes, JG",4725,"Hjerting, JP; Cribb, PJ; Huamán, Z","C, K",Potosí,Linares,29 km rom Vitichi on road to Cucho Ingenio,3200 m,16 Mar 1971,20°S,65°37'W,Bolivia,Hawkes et al.,
+3775,Solanum,brevicaule,"Hondelmann, W",157,"Astley, D; Moreira, A",K,Potosí,Linares,"96.5 km from Potosí, on road to Camargo",3060 m,21 Mar 1980,20°19'S,"65°22'60""W",Bolivia,Hondelmann et al.,
+3811,Solanum,brevicaule,"Hondelmann, W",99,"Astley, D; Moreira, A",K,Potosí,Linares,47 km from Potosí on a road to Puna via Chaqui,3500 m,3 Mar 1980,19°43'S,"65°35'60""W",Bolivia,Hondelmann et al.,
+3763,Solanum,brevicaule,"Cárdenas, M",s.n.,,K,Potosí,Nor Chichas,,NA,s.d.,20°40'S,66°W,Bolivia,Cárdenas,fr
+3899,Solanum,brevicaule,"Hondelmann, W",211,"Astley, D; Moreira, A",K,Potosí,Saavedra,200 m from the main road Betanzos-Sucre following a side road to Quivincha,3240 m,3 Apr 1980,"19°19'60""S",65°22'W,Bolivia,Hondelmann et al.,
+3887,Solanum,brevicaule,"Hondelmann, W",58,"Astley, D; Moreira, A",K,Potosí,Saavedra,45 km from Betanzos on new road to Siporo,3200 m,26 Feb 1980,19°22'S,65°27'W,Bolivia,Hondelmann et al.,
+3810,Solanum,brevicaule,"Hondelmann, W",98,"Astley, D; Moreira, A",K,Potosí,Saavedra,41 km from Potosí on a road to Puna via Chaqui,3400 m,3 Mar 1980,"19°43'60""S",65°31'W,Bolivia,Hondelmann et al.,fl
+3836,Solanum,brevicaule,"Ochoa, CM",11940,,"C, CUZ, K",Potosí,Saavedra,"Cancha Cancha, between Millares and Betanzos",3030 m,Feb 1978,"19°34'60""S","65°16'60""W",Bolivia,Ochoa,
+3752,Solanum,brevicaule,"Astley, D",66,,K,Potosí,Sud Chichas,45 km from Tupiza on the road to Cotagaita,NA,3 Apr 1974,21°4'S,65°42'W,Bolivia,Astley,fr
+3895,Solanum,brevicaule,"Correll, DS",625,"Dodds, K; Brücher, H; Paxman, G","K, LL",Potosí,Unknown,About 50 km from Sucre on road to Potosí,NA,17 Feb 1960,"19°19'60""S","65°31'60""W",Bolivia,Correll et al.,fl
+4004,Solanum,brevicaule,"Ochoa, CM",15546,"Salas, A",CUZ,Santa Cruz,Valle Grande,"Cincho, between Vallegrande and Pucará on talus Slope, some 100m below highway",2800 m,28 Feb 1984,18°36'S,64°9'W,Bolivia,Ochoa & Salas,fl
+3745,Solanum,brevicaule,"Hawkes, JG",4651,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,Tarija,Mendéz,"17 km Tarija on road to Iscayachi, Cuesta de Sama",3400 m,11 Mar 1971,"21°28'60""S","65°1'60""W",Bolivia,Hawkes et al.,fl
+3748,Solanum,brevicaule,"Petersen, E",1008,"Hjerting, JP",K,Tarija,Mendéz,Between Obispo and Las Carreras,3150 m,23 Feb 1953,21°22'S,"65°10'60""W",Bolivia,Petersen & Hjerting,
+3749,Solanum,brevicaule,"Petersen, E",1010,"Hjerting, JP",K,Tarija,Mendéz,"Mellem Obispo, Las Carreras",2500 m,23 Feb 1953,21°22'S,"65°10'60""W",Bolivia,Petersen & Hjerting,fr
+3750,Solanum,brevicaule,"Cárdenas, M",5516,,LL,Tarija,Unknown,Between Oploca and Oro Ingenio,2700 m,1 Mar 1952,21°19'S,"65°49'60""W",Bolivia,Cárdenas,
+1712,Solanum,brevicaule,"Vargas, C",7082,,"CUZV, K, LL",Cusco,Acomayo,Acos,3150 m,1 Mar 1948,"13°57'3""S","71°44'14""W",Peru,Vargas,fl
+1509,Solanum,brevicaule,"Hawkes, JG",5482,"Van Harten, AM; Landeo, J",K,Cusco,Anta,"Huarocondo, on railway from Cusco to Machupicchu",2800 m,11 Mar 1974,13°24'S,"72°15'60""W",Peru,Hawkes et al.,
+1531,Solanum,brevicaule,"Ochoa, CM",2174,,"CUZ, US",Cusco,Anta,"Chacan, on Cusco-Urubamba Road",3500 m,11 Feb 1960,"13°25'38""S","72°8'48""W",Peru,Ochoa,fl
+1558,Solanum,brevicaule,"Ugent, D",3733,"Ugent, V","CUZ, WIS",Cusco,Calca,"km 19 on the Cusco-Pisac Road, 12 km SW of Pisac",NA,17 Feb 1963,"13°28'60""S","71°55'60""W",Peru,Ugent & Ugent,fl
+1501,Solanum,brevicaule,"Ugent, D",4466,"Ugent, V","CUZ, WIS",Cusco,Calca,"Coya, km 39 between Calca and Pisac, 8 km NWW of Pisac by road",NA,17 Mar 1963,"13°22'60""S",71°55'W,Peru,Ugent & Ugent,fl
+1429,Solanum,brevicaule,"Ochoa, CM",2212,,CUZ,Cusco,Paucartambo,"Challabamba, about 15 km N of Paucartambo following the Paucartambo-Challabamba Road",2900 m,12 Feb 1960,"13°12'15""S","71°39'16""W",Peru,Ochoa,
+1412,Solanum,brevicaule,"Ochoa, CM",13647,"Rodríguez, G","CUZ, US",Cusco,Paucartambo,"Ccaratuyocc, going toward Acjanacu on the Paucartambo-Pilcopata railroad, before Pillahuata and before the detour to Tres Cruces",3350 m,24 Feb 1980,13°10'S,71°25'W,Peru,Ochoa & Rodríguez,
+1525,Solanum,brevicaule,"Ochoa, CM",13718,,"CUZ, F, GH, US, USM",Cusco,Quispicanchi,"between Acopata and Muyurina, near Quiquijana",3200 m,12 Mar 1980,13°25'S,71°W,Peru,Ochoa,fl
+1453,Solanum,brevicaule,"Ochoa, CM",13588,,"CUZ, GH, US, USM",Cusco,Urubamba,"between km 86 of Cusco-Machupicchu railroad and Punchay-Unuyocc, before Ccorihuayrachina",2675 m,5 Feb 1980,13°16'S,72°22'W,Peru,Ochoa,fr
+1396,Solanum,brevicaule,"Ochoa, CM",13786,,"CUZ, US, USM",Cusco,Urubamba,near station FFCC de Machupicchu,2500 m,15 Mar 1980,13°9'S,72°31'W,Peru,Ochoa,fr
+1225,Solanum,buesii,"Ochoa, CM",14365,,CUZ,Cusco,La Convención,"San Luis, near Hacienda Huyro, near km 146, Cusco-Quillabamba Road",3200 m,24 Mar 1981,12°S,73°W,Peru,Ochoa,fl
+1436,Solanum,buesii,"Spooner, DM",7235,"Salas, A","CIP, MOL, PTIS, WAG",Cusco,Urubamba,"about Río Pacaymayo, at village of Pacaymayo, at crossing of River with Inca Trail N and W of Machupicchu",3600 m,13 Mar 1998,"13°13'60""S",72°30'W,Peru,Spooner & Salas,fr
+2028,Solanum,cajamarquense,"Leiva, S",1829,"Sagástegui, A","F, HAO",Cajamarca,Contumazá,above Pampa de la Sal,3800 m,14 May 1996,"7°22'8""S",78°49'W,Peru,Leiva & Sagástegui,fl
+4366,Solanum,candolleanum,"Ochoa, CM",14959,"Salas, A","CUZ, NY",La Paz,Franz Tamayo,"Leitique, on the road between Pelechuco and Apolo",3000 m,5 Feb 1983,14°30'S,"68°19'60""W",Bolivia,Ochoa & Salas,fr
+4363,Solanum,candolleanum,"Ochoa, CM",14984,"Salas, A",CUZ,La Paz,Franz Tamayo,Vicinities of Queara,3440 m,7 Feb 1983,"14°40'60""S",69°4'W,Bolivia,Ochoa & Salas,fr
+4368,Solanum,candolleanum,"Ochoa, CM",15002,"Salas, A","CUZ, NY",La Paz,Franz Tamayo,"Toro Toro, between Ayamachay and Puina",3400 m,10 Feb 1983,14°30'S,"68°19'60""W",Bolivia,Ochoa & Salas,fl
+4359,Solanum,candolleanum,"Ochoa, CM",15012,"Salas, A",CUZ,La Paz,Franz Tamayo,"Above Pauchinta Cucho, in route Pauchinta Cucho - Puina",3600 m,10 Feb 1983,"15°13'60""S",68°25'W,Bolivia,Ochoa & Salas,fl
+4320,Solanum,candolleanum,"Hawkes, JG",6719,"Avilés, I; Hoopes, R",K,La Paz,Larecaja,"30.6 km from Sorata on the road to Achacachi, near the highest point",4000 m,10 Mar 1981,"15°54'60""S","68°39'60""W",Bolivia,Hawkes et al.,
+4325,Solanum,candolleanum,"Mandon, G",397,,K,La Paz,Larecaja,Vicinity Sorata,NA,1 Nov 1818,15°46'S,"68°37'60""W",Bolivia,Mandon,
+4343,Solanum,candolleanum,"Ochoa, CM",11913,"Salas, A","CUZ, F, NY",La Paz,Larecaja,"District of Sorata, near the mines of Martinsito",4000 m,9 Mar 1978,15°36'S,68°48'W,Bolivia,Ochoa & Salas,fr
+4327,Solanum,candolleanum,"Ochoa, CM",15469,"Salas, A",CUZ,La Paz,Larecaja,"Pongopata, in route Sorata-Ancoma, about 2 K before intersection of Llipichi",3900 m,17 Feb 1983,15°46'S,"68°36'60""W",Bolivia,Ochoa & Salas,fl
+4335,Solanum,candolleanum,"Petersen, E",1606,"Hjerting, JP",K,La Paz,Larecaja,Between Sorata and Tacacoma,4050 m,23 May 1953,"15°40'60""S",68°40'W,Bolivia,Petersen & Hjerting,
+4331,Solanum,candolleanum,"Spooner, DM",6769,"Willman García, F","BOLV, PTIS",La Paz,Larecaja,"17 km N of town square of Sorata on road to Tacacoma, 1:250,000-sclae map SD 19-15",3860 m,2 Apr 1993,"15°44'6""S","68°38'11""W",Bolivia,Spooner & Willman García,fl
+4323,Solanum,candolleanum,"Hjerting, JP",5004,"Cribb, P; Huamán, Z",K,La Paz,Omasuyos,"21 km from Achacachi on road to Sorata, E-facing slope",4150 m,31 Jan 1971,15°52'S,68°39'W,Bolivia,Hjerting et al.,fr
+4349,Solanum,candolleanum,Bolivian Ministry Of Agriculture,s.n.,,PTIS,La Paz,Unknown,"Near Tacacoma, Kotanani",NA,31 Mar 1957,"15°34'60""S",68°43'W,Bolivia,Bolivian Ministry Of Agriculture,fr
+873,Solanum,candolleanum,"Ochoa, CM",15189,,CUZ,Ancash,Aija,"near Monserrate bridge in the vicinity of Succhapampa, just at start ascending the hill of Mellizo in path from Huayán to Aija",2800 m,25 Apr 1983,9°49'S,"77°40'60""W",Peru,Ochoa,
+838,Solanum,candolleanum,"Smith, DN",9029,,"CUZ, F, MO, USM",Ancash,Yungay,Colcabamba,3600 m,10 Jan 1985,"9°34'60""S",77°49'W,Peru,Smith,
+1707,Solanum,candolleanum,"Ochoa, CM",13806,,CUZ,Apurímac,Abancay,hills E of Tambobamba,3550 m,23 Mar 1980,"13°56'43""S","72°10'17""W",Peru,Ochoa,fl
+1652,Solanum,candolleanum,"Ochoa, CM",14334,,"CUZ, GH, NY",Apurímac,Abancay,"low sides of Cerro Inca Ccacca, near Liwirco",3700 m,17 Mar 1981,"13°38'2""S","72°52'53""W",Peru,Ochoa,fr
+1648,Solanum,candolleanum,"Ochoa, CM",14383,,"CUZ, NY",Apurímac,Abancay,"areas below Cerro Quisapata, 0.5 km W of Abancay",3200 m,30 Mar 1981,"13°37'60""S","72°52'60""W",Peru,Ochoa,fr
+1692,Solanum,candolleanum,"Ochoa, CM",2218,,CUZ,Apurímac,Abancay,"above Lambrama, on rocky hills",3200 m,20 Feb 1960,13°52'S,72°46'W,Peru,Ochoa,fl
+1617,Solanum,candolleanum,"Ochoa, CM",2259,,CUZ,Apurímac,Abancay,"2 km below Curahuasi, on the Curahuasi-Cusco Road",2000 m,13 Feb 1960,13°33'S,72°42'W,Peru,Ochoa,fl
+1670,Solanum,candolleanum,"Ochoa, CM",2265,,CUZ,Apurímac,Abancay,"near Pachapujio, between Ticabamba and Tambobamba",2200 m,18 Feb 1960,"13°43'60""S",72°30'W,Peru,Ochoa,fr
+1647,Solanum,candolleanum,"Ochoa, CM",2269,,CUZ,Apurímac,Abancay,between Cotabambas and Huanipaca ascending by Tambobamba,2500 m,20 Feb 1960,"13°37'60""S","72°37'60""W",Peru,Ochoa,fl
+1575,Solanum,candolleanum,"Ochoa, CM",7728,,"CUZ, K",Apurímac,Abancay,"Huanipaca, between Ccorimarca and Liwirco",3300 m,Apr 1975,13°30'S,"72°55'60""W",Peru,Ochoa,fl
+1639,Solanum,candolleanum,"Ochoa, CM",14336,,CUZ,Apurímac,Andahuaylas,vicinity of Lake Pacucha,2900 m,Mar 1981,13°37'S,73°21'W,Peru,Ochoa,fr
+1657,Solanum,candolleanum,"Vargas, C",8690,,"K, LL",Apurímac,Andahuaylas,Moyabamba,3650 m,4 Jan 1950,13°40'S,73°25'W,Peru,Vargas,fr
+1589,Solanum,candolleanum,"Ochoa, CM",3294,,CUZ,Apurímac,Antabamba,"Tormanya, near Mollebamba, Dist. Antabamba",3300 m,25 Mar 1972,13°31'S,73°33'W,Peru,Ochoa,fl
+1797,Solanum,candolleanum,"Ochoa, CM",13811,,"CUZ, USM",Apurímac,Aymaraes,between Chalhuanca and Cotaruse,3350 m,20 Mar 1980,14°21'S,"73°13'60""W",Peru,Ochoa,fl
+1671,Solanum,candolleanum,"Ochoa, CM",13688,,"CUZ, US, USM",Apurímac,Cotabambas,"Ccochapata, going from Cotabambas to Río Apurimac",3000 m,Feb 1980,"13°43'60""S","72°21'60""W",Peru,Ochoa,fr
+1684,Solanum,candolleanum,"Salas, A",7239,,"CIP, MOL, PTIS, WAG",Apurímac,Cotabambas,"Quellomayo, 39 km SE of center of town of Cotabambas, about 10 km NW of town of Tambobamba, about 50 m E of road",4050 m,21 Mar 1998,"13°50'16""S","72°15'8""W",Peru,Salas,fr
+1777,Solanum,candolleanum,"Ochoa, CM",13731,,CUZ,Apurímac,Grau,"Mamara, Molino Huayck'o in route from Caballo de Mamara to Totora",3600 m,6 Mar 1980,"14°13'46""S","72°35'10""W",Peru,Ochoa,
+1782,Solanum,candolleanum,"Ochoa, CM",13733,,"CUZ, F",Apurímac,Grau,"Huanchojlla, between Mamara-Totora",3340 m,6 Mar 1980,14°15'S,"72°34'60""W",Peru,Ochoa,
+1772,Solanum,candolleanum,"Ochoa, CM",13738,,CUZ,Apurímac,Grau,"Maltapay, between Turpay and San Antonio",3400 m,8 Mar 1980,14°12'S,72°37'W,Peru,Ochoa,fr
+1748,Solanum,candolleanum,"Ochoa, CM",13749,,MOL,Apurímac,Grau,"Pucapata, on the path from Vilcabamba to Ayrihuanca",3200 m,20 Mar 1980,14°6'S,"72°36'60""W",Peru,Ochoa,fl
+1743,Solanum,candolleanum,"Ochoa, CM",2234,,CUZ,Apurímac,Grau,"Huacansagua, between Chuquibambilla and Vilcabamba",1600 m,26 Feb 1960,"14°4'60""S","72°49'60""W",Peru,Ochoa,fr
+1754,Solanum,candolleanum,"Ochoa, CM",2436,,CUZ,Apurímac,Grau,"near Alcochimpa, between Chuquibambilla and Vilcabamba, Chuquibambilla-Ayrihuanca Road",3000 m,1 Apr 1962,14°7'S,"72°37'60""W",Peru,Ochoa,fr
+1745,Solanum,candolleanum,"Ochoa, CM",3653,,"CUZ, MOL, USM",Apurímac,Grau,"Puyshu, between Chuquibambilla and Vilcabamba, descending to Vilcabamba",2950 m,Apr 1972,"14°4'60""S","72°36'60""W",Peru,Ochoa,
+1994,Solanum,candolleanum,"Guenther, E",1414,"Buchtien, O",CUZ,Arequipa,Arequipa,near Arequipa,2000 m,10 Feb 1923,"16°23'56""S","71°32'6""W",Peru,Guenther & Buchtien,fl
+1919,Solanum,candolleanum,"Ochoa, CM",14275,,CUZ,Arequipa,Caylloma,"Anajpampa, between Sibayo and Tute",3660 m,6 Mar 1981,15°31'S,71°30'W,Peru,Ochoa,fl
+1361,Solanum,candolleanum,"Balls, EK",6931,"Hawkes, JG","C, CUZ, K",Ayacucho,Cangallo,"Pallcca, on the ascent from Río Pampas to Ayacucho",3200 m,24 May 1939,"12°58'60""S",73°49'W,Peru,Balls & Hawkes,fr
+1502,Solanum,candolleanum,"Ochoa, CM",11058,,"F, NY",Ayacucho,Huamanga,Alpachaca,3800 m,1 Jan 1977,"13°22'60""S",74°16'W,Peru,Ochoa,fl
+1488,Solanum,candolleanum,"Ochoa, CM",2146,,"CUZ, K",Ayacucho,Huamanga,"descending from the summit of Ccollacasa toward Ocros, on the Ayacucho-Andahuaylas Road",3800 m,8 Feb 1958,"13°19'60""S",73°52'W,Peru,Ochoa,fl
+1358,Solanum,candolleanum,"Ochoa, CM",2616,,CUZ,Ayacucho,Huanta,"Ckulluchaca, about 5 km E of Huanta",3000 m,13 Mar 1967,"12°55'60""S",74°12'W,Peru,Ochoa,
+1649,Solanum,candolleanum,"Ochoa, CM",3298,,CUZ,Ayacucho,La Mar,"between Tincocc and Cascajal, near Tapuna, on the road from Huanta toward the forest",3850 m,1 Apr 1972,"13°37'60""S","74°16'60""W",Peru,Ochoa,fl
+1845,Solanum,candolleanum,"Ochoa, CM",13832,,CUZ,Ayacucho,Lucanas,"in front of Pomantaca, Pampas Galeras in route to Lucanas",3800 m,9 Apr 1980,14°37'S,"74°4'60""W",Peru,Ochoa,
+1885,Solanum,candolleanum,"Ochoa, CM",2993,,CUZ,Ayacucho,Parinacochas,"between Trapiche and Cuncalla, near Coracora in route to Ccolli",3600 m,15 Apr 1971,"15°1'60""S","73°46'60""W",Peru,Ochoa,
+1891,Solanum,candolleanum,"Ochoa, CM",2998,,CUZ,Ayacucho,Parinacochas,near the right bank of Chilcahuayco River and lower levels of Ckeccacha Orcco,3600 m,15 Apr 1971,"15°4'60""S",73°30'W,Peru,Ochoa,
+1887,Solanum,candolleanum,"Ochoa, CM",3260,,CUZ,Ayacucho,Parinacochas,"near margins of Tastamayo River, Coracora-Chumpi Road",3200 m,15 Mar 1972,15°3'S,73°46'W,Peru,Ochoa,
+1591,Solanum,candolleanum,"Ortega, R",60,,CUZ,Cusco,Acomayo,"Conchacalla, Dist. Pomacanchi",3700 m,Feb 1982,13°31'S,72°13'W,Peru,Ortega,
+1676,Solanum,candolleanum,"Ortega, R",92,,CUZ,Cusco,Acomayo,near Pomacanchi-San Juan de Conchacalla Road,NA,Feb 1982,"13°46'60""S","71°52'60""W",Peru,Ortega,fl
+1577,Solanum,candolleanum,"Ochoa, CM",13691,,"CUZ, GH, NY",Cusco,Anta,"near Paso de Jatunhuaylla, on Anta to Cochabambas Road",3900 m,2 Mar 1980,13°30'S,"72°19'60""W",Peru,Ochoa,
+1432,Solanum,candolleanum,"Ochoa, CM",13707,,CUZ,Cusco,Calca,"near Ckosñiriti, in rocky slopes of Calca-Lares Road",3700 m,9 Mar 1980,13°13'S,72°W,Peru,Ochoa,
+1542,Solanum,candolleanum,"Ochoa, CM",13771,,CUZ,Cusco,Calca,"between Pisac and Sóndor, via Machacancha",NA,17 Mar 1980,13°27'S,72°7'W,Peru,Ochoa,
+1388,Solanum,candolleanum,"Ochoa, CM",14316,,"F, NY",Cusco,Calca,"Totora, Calca-Amparaes Road, between Machacancha and El Paso or Abra de Chaiña",3600 m,14 Mar 1981,"13°5'60""S","71°47'60""W",Peru,Ochoa,fl
+1850,Solanum,candolleanum,"Ortega, R",4,"Lovaton, G; Guzman, E",CUZ,Cusco,Canas,"near Santo Domingo bridge, above Apurimac River (type locality of S. canasense) in route Yauri-Santo Tomas",3820 m,1 Apr 1984,"14°37'60""S",71°46'W,Peru,Ortega et al.,
+1613,Solanum,candolleanum,"Iltis, HH",1203,"Ugent, D","F, GH, K, MO, US, WIS",Cusco,Cusco,"3.5 km NW of Saylla, railroad km 324, near small stream, Cusco-Oropesa Road",3159 m,7 Jan 1963,"13°31'60""S",71°52'W,Peru,Iltis & Ugent,fr
+1562,Solanum,candolleanum,"Ugent, D",4116,,WIS,Cusco,Cusco,"stone quarry near Grupo Arqueológico, 4.5 km N of Cusco, on Cusco-Pisac Road, and 0.64 km E on turn-off to the ruins, about mid-way between the ruins of Sacsayhuamán and Tambomachay",3600 m,6 Mar 1963,"13°28'60""S","71°55'60""W",Peru,Ugent,
+1868,Solanum,candolleanum,"Ochoa, CM",12042,"Pacheco, LA","CUZ, US",Cusco,Espinar,"Pockera, near Espinar",3950 m,4 Apr 1978,"14°47'29""S","71°24'45""W",Peru,Ochoa & Pacheco,
+1889,Solanum,candolleanum,"Ortega, R",25,"Lovaton, G; Guzman, E",CUZ,Cusco,Espinar,"Suycutambo, to 400 m from Sanimayo bridge, in left margin of road to Suycutambo, between 2 rocky hills",3650 m,1 Apr 1984,"15°4'8""S","71°44'57""W",Peru,Ortega et al.,fl
+1667,Solanum,candolleanum,"Ochoa, CM",13582,,CUZ,Cusco,Paruro,between Yaurisque-Paruro,3550 m,1 Feb 1980,13°43'S,"71°52'60""W",Peru,Ochoa,fl
+1678,Solanum,candolleanum,"Spooner, DM",7221,"Salas, A","CIP, MOL, PTIS, WAG",Cusco,Paruro,"13.1 km S of Paruro on road to Colcha, at a place, no homes, called Cortina",2590 m,8 Mar 1998,"13°49'28""S","71°49'41""W",Peru,Spooner & Salas,
+1458,Solanum,candolleanum,"Ugent, D",4414,"Ugent, V; Vargas, C",K,Cusco,Paucartambo,"about 3 km NE of Paucartambo, km 80 on the Paucartambo-Pillahuata Road",2980 m,13 Mar 1963,13°18'S,"71°34'60""W",Peru,Ugent et al.,
+1614,Solanum,candolleanum,"Ochoa, CM",13725,,CUZ,Cusco,Quispicanchi,"near Jaucat, between Chuquicahuana and Cusipata bridge",3500 m,12 Mar 1980,"13°32'34""S","72°4'47""W",Peru,Ochoa,fr
+1481,Solanum,candolleanum,"Ochoa, CM",14,"Salas, A","K, PTIS",Cusco,Urubamba,"near Calca, Quebrada de Chochoc",NA,s.d.,"13°19'48""S",71°57'W,Peru,Ochoa & Salas,fl
+1464,Solanum,candolleanum,"Spooner, DM",7214,"Salas, A","CIP, MOL, PTIS, WAG",Cusco,Urubamba,"about 100 m S of bridge over Río Urubamba, straight uphill, can be reached by dirt road, S of dirt road, above town of Tarapata",2900 m,4 Mar 1998,"13°18'46""S","72°6'37""W",Peru,Spooner & Salas,fl
+1308,Solanum,candolleanum,"Salas, A",7307,"Spooner, D; Torres Maita, RV; Schüler, K","CIP, MOL, PTIS, WAG",Huancavelica,Tayacaja,"Caratowayco, 2 km E of Colcabamba, 100 m above the road",3300 m,12 Mar 1999,"12°24'22""S","74°39'43""W",Peru,Salas et al.,fr
+1316,Solanum,candolleanum,"Salas, A",7309,"Spooner, D; Torres Maita, RV; Schüler, K","CIP, MOL, PTIS, WAG",Huancavelica,Tayacaja,"local place called Luychucaca, 8 km N of Quichua, 100 m above the road",3400 m,13 Mar 1999,"12°26'42""S","74°46'52""W",Peru,Salas et al.,fl
+914,Solanum,candolleanum,"Ochoa, CM",13853,,CUZ,Huánuco,Ambo,"km 371 of Cerro de Pasco-Huánuco Road, between Ambo and San Rafael",2420 m,19 Apr 1980,10°7'S,76°13'W,Peru,Ochoa,fl
+935,Solanum,candolleanum,"Ochoa, CM",14557,,"CUZ, F, USM",Huánuco,Ambo,"Tecte, between San Rafael and Ambo",2520 m,8 Feb 1982,10°16'S,76°9'W,Peru,Ochoa,fr
+933,Solanum,candolleanum,"Ochoa, CM",47,,CUZ,Huánuco,Ambo,between Ambo and San Rafael,2400 m,30 Apr 1967,"10°13'60""S",76°12'W,Peru,Ochoa,
+818,Solanum,candolleanum,"Ochoa, CM",2651,,CUZ,Huánuco,Dos de Mayo,among Huánuco Viejo Ruins,3675 m,30 Apr 1967,9°30'S,"75°49'60""W",Peru,Ochoa,fr
+931,Solanum,candolleanum,"Ochoa, CM",3655,,CUZ,Huánuco,Huamalíes,"Casacancha, near Urpish",3200 m,May 1972,"10°11'45""S","76°19'45""W",Peru,Ochoa,fl
+1141,Solanum,candolleanum,"Holt, P",6,,K,Junín,Colpa,"above Cochas, 15 km N of Huancayo",3840 m,9 Dec 1975,11°40'S,75°6'W,Peru,Holt,fr
+1052,Solanum,candolleanum,"Ochoa, CM",11852,,CUZ,Junín,Concepción,"Taptapa, above Sayhua, in path from Runatullo to Andamarca",3800 m,22 Jan 1978,"11°23'59""S","75°35'9""W",Peru,Ochoa,
+1082,Solanum,candolleanum,"Ochoa, CM",11843,"Centeno, V","CUZ, USM",Junín,Concepción,"lower sides of Chijchi, shoulders of the Concepción-Comas-Satipo Road",3650 m,1 Jan 1978,11°30'S,75°W,Peru,Ochoa & Centeno,fl
+1245,Solanum,candolleanum,"Correll, DS",731,"Smith, EE",LL,Junín,Huancayo,"road to central cattle farm, Huancayo",3550 m,16 Mar 1960,12°4'S,"75°13'60""W",Peru,Correll & Smith,fl
+1157,Solanum,candolleanum,"Ochoa, CM",13166,,"CUZ, F, NY",Junín,Jauja,"Huachupa, between Masma and Los Molinos, along Jauja-Querus Road, near Querus River",3580 m,9 Feb 1978,"11°43'60""S",75°24'W,Peru,Ochoa,fr
+1167,Solanum,candolleanum,"Ochoa, CM",15305,,CUZ,Junín,Jauja,Huaspi Creek toward Marco,3400 m,30 Jan 1984,11°45'S,75°34'W,Peru,Ochoa,fl
+1201,Solanum,candolleanum,"Ochoa, CM",277,,CUZ,Junín,Jauja,"Iscos Creek, near Apata",3300 m,Feb 1948,11°52'S,"75°21'60""W",Peru,Ochoa,fl
+1064,Solanum,candolleanum,"Ochoa, CM",13121,,"CUZ, F, GH, NY",Junín,Tarma,"above Bellavista, going on the detour of the Tarma-Chanchamayo Road to the heights of Palca towards Hacienda Maraynioc",3000 m,27 Jan 1979,"11°25'11""S","75°41'27""W",Peru,Ochoa,fl
+1123,Solanum,candolleanum,"Ochoa, CM",13124,,"CUZ, GH, NY",Junín,Tarma,between Bellavista and Hacienda Maraynioc,3400 m,27 Jan 1979,11°37'S,75°28'W,Peru,Ochoa,
+1051,Solanum,candolleanum,"Ochoa, CM",300,,CUZ,Junín,Tarma,"vicinity of Tapo, Palca to La Hacienda Maco Road",3500 m,6 Mar 1948,"11°23'26""S","75°33'49""W",Peru,Ochoa,fr
+689,Solanum,candolleanum,"Lecca, J",s.n.,,CUZ,La Libertad,Pataz,vicinity of Tayabamba,3250 m,1973,"8°16'37""S","77°17'47""W",Peru,Lecca,fl
+956,Solanum,candolleanum,"Ochoa, CM",14673,,CUZ,Lima,Cajatambo,"Crus-circa, above Utcas, between Cajatambo and Cajamarquilla",3400 m,12 Apr 1982,"10°28'60""S","77°1'60""W",Peru,Ochoa,fr
+1034,Solanum,candolleanum,"Ochoa, CM",11306,,CUZ,Lima,Canta,"near Huaros, margins of Tarcora Creek",3700 m,11 Mar 1977,"11°16'60""S","76°31'60""W",Peru,Ochoa,fl
+1213,Solanum,candolleanum,"Ochoa, CM",13182,,"CUZ, F, NY",Lima,Huarochirí,between Millioc and Marcapomacocha,4200 m,16 Feb 1979,11°55'S,76°25'W,Peru,Ochoa,fr
+1149,Solanum,candolleanum,"Ochoa, CM",14516,,"CUZ, F",Lima,Huarochirí,"Bellavista, between Chicla and Casapalca on Lima-Oroya Road",4000 m,Feb 1982,"11°42'23""S","76°16'6""W",Peru,Ochoa,fl
+1235,Solanum,candolleanum,"Correll, DS",722,"Smith, EE","F, K, LL, NY, SUNIV",Lima,Sisicaya,above Río Blanco at km 110,3550 m,15 Mar 1960,"12°0'14""S","76°38'20""W",Peru,Correll & Smith,
+1276,Solanum,candolleanum,"Ochoa, CM",2589,,CUZ,Lima,Yauyos,"Ampi, near Huancaya",3200 m,15 Mar 1965,"12°3'8""S","75°53'10""W",Peru,Ochoa,
+1277,Solanum,candolleanum,"Ochoa, CM",3891,,CUZ,Lima,Yauyos,between Peroyda and the right margin of Pucayacu River,3340 m,Mar 1990,"12°13'12""S","75°51'10""W",Peru,Ochoa,
+1281,Solanum,candolleanum,"Ochoa, CM",14651,"Salas, A",CUZ,Lima,Yauyos,"lower declines of Mount Uman Huaro near Tomas, in margins of Alis River and N of Laraos",3600 m,5 Apr 1982,"12°14'19""S","75°44'43""W",Peru,Ochoa & Salas,
+982,Solanum,candolleanum,"Hawkes, JG",6345,"Jackson, MT; Landeo, J",K,Pasco,Pasco,E fork of old road from from Cerro de Pasco at 9.3 km towards Huánuco,3850 m,29 Mar 1975,10°40'S,"76°4'60""W",Peru,Hawkes et al.,fr
+1958,Solanum,candolleanum,"Ochoa, CM",11888,,"CUZ, US",Puno,Chucuito,near Chucuito,3840 m,25 Feb 1978,"15°52'60""S","69°52'60""W",Peru,Ochoa,
+1866,Solanum,candolleanum,"Vargas, C",8270,,"K, LL",Puno,Lampa,Muñani,4150 m,1 Mar 1949,14°46'S,69°57'W,Peru,Vargas,
+1917,Solanum,candolleanum,"Hawkes, JG",5063,"Hjerting, JP; Cribb, PJ; Huamán, Z","C, K",Puno,Puno,"Parcialidad Huaraya, fundo huerta, NE of Puno, Herrerapata",3950 m,6 Apr 1971,"15°22'60""S",69°28'W,Peru,Hawkes et al.,fl
+1932,Solanum,candolleanum,"Hawkes, JG",5064,"Hjerting, JP; Cribb, PJ; Huamán, Z","C, K",Puno,Puno,"Huerta, 6 km from Puno to Juliaca on path by lake side",3900 m,6 Apr 1971,15°40'S,"70°10'60""W",Peru,Hawkes et al.,
+1779,Solanum,candolleanum,"Ochoa, CM",15082,"Salas, A",CUZ,Puno,Sandia,Kkakkapata,3500 m,19 Feb 1983,"14°13'60""S","69°25'60""W",Peru,Ochoa & Salas,
+1,Solanum,candolleanum,"Sharpe, JE",147,,K,Puno,Santa Lucía,Santa Lucía,4270 m,20 Feb 1940,15°42'S,"70°36'60""W",Peru,Sharpe,fr
+819,Solanum,cantense,"Ochoa, CM",2723,,"CUZ, GH, MOL, US",Ancash,Aija,"Casablanca, above Cacap, about 4 km from Huayán, on rocky Huayán to Tacarpo Road",3100 m,7 Apr 1970,9°30'S,"78°7'60""W",Peru,Ochoa,fr
+992,Solanum,cantense,"Ochoa, CM",14682,"Salas, A",CUZ,Lima,Cajatambo,"Mancocona, 3 km W of Caujul",3400 m,Apr 1982,10°48'S,"77°1'60""W",Peru,Ochoa & Salas,fr
+1060,Solanum,cantense,"Hawkes, JG",2451,,K,Lima,Canta,"Huarimayo, 14 km from Puente San José, Cuesta de Huamantanga",2700 m,9 Apr 1964,11°25'S,76°45'W,Peru,Hawkes,
+1070,Solanum,cantense,"Hawkes, JG",2466,,K,Lima,Canta,above Canta on road to Cerro de Pasco,2850 m,12 Apr 1964,11°28'S,76°37'W,Peru,Hawkes,
+1328,Solanum,cantense,"Ochoa, CM",2610,,CUZ,Lima,Yauyos,pampas near Yauyos,3000 m,17 Mar 1965,"12°37'60""S","75°52'60""W",Peru,Ochoa,fr
+4392,Solanum,chacoense,"Cabrera, AL",6309,,"NY, SI",Buenos Aires,La Plata,Villa Elisa,0 m,9 Mar 1940,34°51'S,"58°3'60""W",Argentina,Cabrera,
+4397,Solanum,chacoense,"Hjerting, JP",3026,"Rahn, K","C, K",Buenos Aires,Unknown,Castelar,20 m,9 Dec 1965,"34°39'60""S","58°39'60""W",Argentina,Hjerting & Rahn,
+4402,Solanum,chacoense,"Ratera, EL",1200,,BA,Buenos Aires,Unknown,Villa Ortuzar,0 m,20 Apr 1943,"34°35'23""S","58°28'60""W",Argentina,Ratera,fr
+4647,Solanum,chacoense,"Brizuela, J",1364,,"BR, L, LIL",Catamarca,Ancasti,Los Barriales,0 m,22 Apr 1950,"28°42'60""S","65°36'60""W",Argentina,Brizuela,fl
+4767,Solanum,chacoense,"Barboza, GE",1131,"Matesevach, AM; Filippa, EM; Marini, E",CORD,Catamarca,Andalgalá,Yunca Suma,1470 m,23 Jan 2005,"27°23'8""S","65°58'54""W",Argentina,Barboza et al.,fr
+4719,Solanum,chacoense,"Petersen, E",23,"Hjerting, JP","C, K",Catamarca,Andalgalá,Estancia El Suncho,1650 m,4 Feb 1949,27°36'S,"66°18'60""W",Argentina,Petersen & Hjerting,fl
+4775,Solanum,chacoense,"Petersen, E",32,"Hjerting, JP","C, K",Catamarca,Andalgalá,Estancia Yunca Suma,1450 m,21 Feb 1950,27°21'S,66°24'W,Argentina,Petersen & Hjerting,fl
+4690,Solanum,chacoense,"Okada, KA",4944,"Lucarini, O",BAL,Catamarca,Belén,Río Infiernillo,1240 m,9 Apr 1973,28°S,66°57'W,Argentina,Okada & Lucarini,fl
+4663,Solanum,chacoense,"Okada, KA",6090,,BAL,Catamarca,Capital,,1200 m,s.d.,"28°25'60""S","65°46'60""W",Argentina,Okada,fl
+4605,Solanum,chacoense,"Brizuela, A",1154,,"LIL, W",Catamarca,La Paz,La Huerta,0 m,24 Apr 1947,29°15'S,65°15'W,Argentina,Brizuela,fr
+4808,Solanum,chacoense,"Brücher, H",506,,LL,Catamarca,Mesada,,1700 m,Feb 1949,"27°6'60""S","67°39'60""W",Argentina,Brücher,
+4660,Solanum,chacoense,"Hawkes, JG",3429,"Hjerting, JP; Rahn, K","C, K",Catamarca,Paclín,Catamarca,750 m,9 Feb 1966,"28°27'60""S","65°46'60""W",Argentina,Hawkes et al.,fl
+4688,Solanum,chacoense,"Hoffmann, W",1739,,BAL,Catamarca,Paclín,El Durazno,1100 m,1970,"28°3'60""S","65°34'60""W",Argentina,Hoffmann,fl
+4683,Solanum,chacoense,"Hunziker, AT",21060,"Di Fulvio, TE","CORD, K",Catamarca,Paclín,Totoral,900 m,8 Apr 1971,28°9'S,"65°35'60""W",Argentina,Hunziker & Di Fulvio,fr
+4695,Solanum,chacoense,"Hoffmann, W",1740,,BAL,Catamarca,Pomán,Sierra de Ambato,700 m,1970,"27°54'60""S","66°3'60""W",Argentina,Hoffmann,fr
+4681,Solanum,chacoense,"Okada, KA",4951,"Lucarini, O",BAL,Catamarca,Pomán,,1360 m,11 Apr 1973,"28°14'24""S","66°7'12""W",Argentina,Okada & Lucarini,fl
+4671,Solanum,chacoense,"Okada, KA",4954,"Lucarini, O ","BAL, PTIS",Catamarca,Pomán,Rosario de Colana,1600 m,11 Apr 1973,"28°21'60""S","66°9'60""W",Argentina,Okada & Lucarini,
+4687,Solanum,chacoense,"Correll, DS",712,"Dodds, K; Brücher, H; Paxman, G","LL, US",Catamarca,Unknown,Colpes,0 m,1 Mar 1960,"28°4'60""S",66°12'W,Argentina,Correll et al.,fl
+4765,Solanum,chacoense,"Hjerting, JP",6377,,PTIS,Catamarca,Unknown,Las Juntas,1550 m,3 Apr 1972,"27°25'48""S",66°W,Argentina,Hjerting,fr
+4603,Solanum,chacoense,"Schickendantz, F",56,,CORD,Catamarca,Unknown,Carrizal,NA,1 Dec 1875,"29°15'60""S","65°31'60""W",Argentina,Schickendantz,fr
+4780,Solanum,chacoense,"Schulz, AG",3514,,CTES,Chaco,1º de Mayo,Colonia Benitez,NA,18 Sep 1942,"27°19'60""S","58°55'60""W",Argentina,Schulz,
+4792,Solanum,chacoense,"Schulz, AG",73648,,BA,Chaco,1º de Mayo,Colonia Benitez,NA,12 May 1961,"27°19'60""S","58°55'60""W",Argentina,Schulz,fl
+4872,Solanum,chacoense,"Pérez, B",374,,MO,Chaco,25 de mayo,Colonia Uriburu,NA,14 May 1977,"26°32'24""S","60°4'12""W",Argentina,Pérez,
+4790,Solanum,chacoense,"Schulz, AG",18940,,"CTES, MO",Chaco,Unknown,Colonia Benitez,NA,5 Apr 1975,"27°19'60""S","58°55'60""W",Argentina,Schulz,fr
+4467,Solanum,chacoense,"Kurtz, F",2564,,CORD,Córdoba,Capital,Molinos,0 m,22 Oct 1885,31°51'S,"64°22'60""W",Argentina,Kurtz,
+4545,Solanum,chacoense,"Zygadlo, JA",21,,CORD,Córdoba,Colón,Agua de Oro,NA,14 Jan 1990,"31°3'60""S",64°18'W,Argentina,Zygadlo,fr
+4573,Solanum,chacoense,"Hunziker, AT",8795,,CORD,Córdoba,Cruz del Eje,Sierra Achala,1700 m,2 Feb 1951,"30°43'16""S","64°48'36""W",Argentina,Hunziker,fl
+4575,Solanum,chacoense,"Hunziker, AT",9731,,CORD,Córdoba,Ischilin,Copacabana,0 m,25 Jan 1952,30°39'S,"64°30'60""W",Argentina,Hunziker,fr
+4468,Solanum,chacoense,"Brücher, H",s.n.,"Brücher, O",LL,Córdoba,Manfredi,Manfredi,NA,1956,"31°49'60""S",63°45'W,Argentina,Brücher & Brücher,
+4524,Solanum,chacoense,"Hunziker, AT",9852,,CORD,Córdoba,Minas,Río Jaime,0 m,18 Feb 1952,31°18'S,"65°5'60""W",Argentina,Hunziker,fr
+4502,Solanum,chacoense,"Cabrera, AL",29662,,SI,Córdoba,Punilla,Villa del Lago,NA,1 Nov 1978,31°24'S,"64°30'60""W",Argentina,Cabrera,
+4482,Solanum,chacoense,"Hosseus, CC",613,,CORD,Córdoba,Punilla,Copina,1450 m,27 Nov 1942,"31°33'60""S",64°42'W,Argentina,Hosseus,fr
+4531,Solanum,chacoense,"Castellanos, A",s.n.,,LIL,Córdoba,Río Primero,Buey Muerto,0 m,5 Nov 1952,"31°12'60""S","63°18'60""W",Argentina,Castellanos,fr
+4538,Solanum,chacoense,"Di Fulvio, TE",829,,CORD,Córdoba,Río Primero,Between Río Primero and Santa Rosa de Río Primero,NA,18 Apr 1987,31°9'S,"65°11'24""W",Argentina,Di Fulvio,
+4533,Solanum,chacoense,"Stuckert, TJ",23129,,CORD,Córdoba,Río Primero,Estancia San Teodoro,NA,Jan 1915,"31°12'60""S","63°18'60""W",Argentina,Stuckert,fl
+4475,Solanum,chacoense,"Subils, R",3386,,CORD,Córdoba,Río Segundo,Pilar,NA,14 Oct 1984,"31°40'60""S",63°54'W,Argentina,Subils,fl
+4506,Solanum,chacoense,"Hawkes, JG",3198,"Hjerting, JP; Rahn, K","BAL, C, K",Córdoba,San Javier,Córdoba,650 m,10 Oct 1967,31°24'S,"64°10'60""W",Argentina,Hawkes et al.,fr
+4586,Solanum,chacoense,"Balegno, B",342,,LIL,Córdoba,Sobremonte,San Francisco del Chanar,0 m,8 Dec 1944,"29°46'60""S","63°55'60""W",Argentina,Balegno,fr
+4587,Solanum,chacoense,"Bartlett, HH",19870,,"GH, LL, NY, P, UC, US",Córdoba,Unknown,Gutenberg,0 m,1 Apr 1943,"29°43'60""S","63°30'60""W",Argentina,Bartlett,fr
+4527,Solanum,chacoense,"Bruch, C",s.n.,,LP,Córdoba,Unknown,Unquillo,0 m,1 Jan 1926,"31°13'60""S","64°18'60""W",Argentina,Bruch,fl
+4516,Solanum,chacoense,"Kurtz, F",4805,,CORD,Córdoba,Unknown,Las Cañadas,0 m,s.d.,"31°21'60""S","65°15'60""W",Argentina,Kurtz,fl
+4477,Solanum,chacoense,"Millán, AR",626,,BA,Córdoba,Unknown,Alta Gracia,0 m,29 Nov 1926,"31°39'60""S","64°25'60""W",Argentina,Millán,fr
+4458,Solanum,chacoense,"Ruiz Leal, A",12453,,MERL,Córdoba,Unknown,San Javier,0 m,8 May 1949,"32°1'60""S",65°3'W,Argentina,Ruiz Leal,
+4438,Solanum,chacoense,"Stuckert, TJ",3505,,"CORD, G",Córdoba,Unknown,El Paraiso,0 m,30 Oct 1897,"32°51'60""S",64°3'W,Argentina,Stuckert,fr
+4489,Solanum,chacoense,"Stuckert, TJ",8778,,CORD,Córdoba,Unknown,Sierra de Córdoba,0 m,5 Mar 1900,31°30'S,65°W,Argentina,Stuckert,fr
+4514,Solanum,chacoense,"Stuckert, TJ",9119,,"CORD, G",Córdoba,Unknown,Córdoba,0 m,31 Mar 1900,31°24'S,"64°10'60""W",Argentina,Stuckert,fr
+4743,Solanum,chacoense,"González, JM ",4,,"BAL, PTIS",Corrientes,Capital,Corrientes,55 m,14 Nov 1973,"27°27'60""S","58°49'60""W",Argentina,González,fr
+4746,Solanum,chacoense,"González, JM ",8,,"BA, CTES, JUA",Corrientes,Capital,Corrientes,NA,17 May 1973,"27°27'60""S","58°49'60""W",Argentina,González,fl
+4749,Solanum,chacoense,"Schinini, A",8719,,CTES,Corrientes,Capital,Perichon,NA,7 Apr 1974,"27°27'60""S","58°49'60""W",Argentina,Schinini,fr
+4582,Solanum,chacoense,"Schinini, A",24952,"Carnevali, R","CTES, K, NY, WIS",Corrientes,Esquina,Esquina,NA,4 Dec 1986,"30°0'60""S","59°31'60""W",Argentina,Schinini & Carnevali,
+4591,Solanum,chacoense,"Okada, KA",7280,"Clausen, AM","BAL, PTIS",Corrientes,Paso de los Libres,Yapeyu,60 m,25 Jun 1980,"29°27'60""S","56°48'60""W",Argentina,Okada & Clausen,fl
+4770,Solanum,chacoense,"Krapovickas, A",25409,"Cristóbal, CL",CTES,Corrientes,San Cosme,Puerto Gonzalez,NA,19 May 1974,"27°22'15""S","58°30'41""W",Argentina,Krapovickas & Cristóbal,fr
+4648,Solanum,chacoense,"Pedersen, TM",12453,,"C, CORD",Corrientes,San Roque,,NA,13 Apr 1979,28°42'S,"58°37'60""W",Argentina,Pedersen,
+4741,Solanum,chacoense,"González, JM",4,,"CTES, LIL, PTIS, WIS",Corrientes,Unknown,,55 m,12 Aug 1972,"27°28'12""S","58°49'48""W",Argentina,González,fl
+4934,Solanum,chacoense,"Morel, I",2671,,LIL,Formosa,Pilcomayo,Puesto Porteño,0 m,24 Apr 1947,"25°16'22""S","57°43'22""W",Argentina,Morel,
+4924,Solanum,chacoense,"Morel, I",3357,,Lil,Formosa,Pilcomayo,Riacho Negro,0 m,11 Jul 1947,"25°30'60""S",57°36'W,Argentina,Morel,fl
+5061,Solanum,chacoense,"Cabrera, AL",17500,,LP,Jujuy,Capital,Quebrada de Yala,NA,12 Jan 1966,"24°3'60""S","65°22'60""W",Argentina,Cabrera,fr
+5059,Solanum,chacoense,"Clausen, AM",1734,,BAL,Jujuy,Capital,Quebrada de Yala,NA,3 Nov 2006,"24°6'60""S","65°22'60""W",Argentina,Clausen,
+5062,Solanum,chacoense,"Krapovickas, A",30729,"Schinini, A","CTES, JUA",Jujuy,Capital,Río Lozano,NA,29 Mar 1977,"24°3'60""S","65°22'60""W",Argentina,Krapovickas & Schinini,
+5072,Solanum,chacoense,"Hoffmann, W",1533,,BAL,Jujuy,Santa Bárbara,Palma Sola,750 m,1970,"23°58'60""S",64°18'W,Argentina,Hoffmann,fl
+5032,Solanum,chacoense,"Rotman, A",1282,,JUA,Jujuy,Santa Bárbara,,910 m,17 Dec 1998,"24°13'60""S",64°13'W,Argentina,Rotman,
+5098,Solanum,chacoense,"Petersen, E",349,"Hjerting, JP",K,Jujuy,Tilcara,Tilcara,2300 m,23 Mar 1952,"23°40'60""S","65°25'60""W",Argentina,Petersen & Hjerting,
+5089,Solanum,chacoense,"Hoffmann, W",1554,,BAL,Jujuy,Tumbaya,Saladillo,3700 m,1970,"23°48'60""S","65°18'60""W",Argentina,Hoffmann,
+5088,Solanum,chacoense,"Okada, KA",7546,"García, O",PTIS,Jujuy,Tumbaya,Tumbaya,2000 m,30 Mar 1983,23°51'S,"65°27'60""W",Argentina,Okada & García,fr
+5078,Solanum,chacoense,"Brücher, H",1106,"Brücher, O","CORD, MERL",Jujuy,Unknown,Volcán,0 m,1 Apr 1963,23°54'S,65°27'W,Argentina,Brücher & Brücher,fr
+5097,Solanum,chacoense,"Cabrera, AL",14425,,LP,Jujuy,Unknown,Sala,0 m,11 May 1962,23°42'S,"65°36'60""W",Argentina,Cabrera,fr
+4377,Solanum,chacoense,Steibel,3872,Troiani,CORD,La Pampa,Conelo,Winifreda,NA,26 Feb 1976,36°15'S,"64°13'60""W",Argentina,Steibel & Troiani,
+4625,Solanum,chacoense,"Okada, KA",6892,,BAL,La Rioja,Capital,El Duraznillo,1100 m,17 May 1978,"29°8'24""S","66°30'36""W",Argentina,Okada,fr
+4599,Solanum,chacoense,"Okada, KA",6045,"Bellos, E",BAL,La Rioja,Capital,Sierra de Velasco,2120 m,9 Mar 1975,29°18'S,"66°55'60""W",Argentina,Okada & Bellos,
+4619,Solanum,chacoense,"Okada, KA",6118,"Bellos, E","BAL, WIS",La Rioja,Capital,El Duraznillo,1300 m,15 Apr 1975,"29°8'24""S","66°30'36""W",Argentina,Okada & Bellos,fl
+4592,Solanum,chacoense,"Okada, KA",5319,"Ross, H; Mendiburu, A; Bellos, E","BAL, PTIS",La Rioja,Capital,Quebrada del Sauce,700 m,24 Feb 1974,"29°25'60""S","66°50'60""W",Argentina,Okada et al.,fr
+4661,Solanum,chacoense,"Hawkes, JG",3990,"Hjerting, JP; Rahn, K","C, K",La Rioja,Capital (border with Catamarca),"Chumbicha, quebrada de Sebila",700 m,4 Mar 1966,"28°27'36""S","66°12'36""W",Argentina,Hawkes et al.,fr
+4606,Solanum,chacoense,"Hoffmann, W",1750,,BAL,La Rioja,Chilecito,Loma Larga,1300 m,s.d.,"29°13'12""S","67°20'24""W",Argentina,Hoffmann,
+4602,Solanum,chacoense,"Biurrun, F",3153,,CTES,La Rioja,Sanagasta,,NA,19 Feb 1990,"29°16'60""S","67°1'60""W",Argentina,Biurrun,fr
+4628,Solanum,chacoense,"Hawkes, JG",2838,"Hjerting, JP; Rahn, K","BAL, PTIS",La Rioja,Sanagasta,Huaco acajou,1300 m,s.d.,"29°6'60""S","67°6'60""W",Argentina,Hawkes et al.,
+4629,Solanum,chacoense,"Okada, KA",6126,"Bellos, E",BAL,La Rioja,Sanagasta,La Cumbre,1100 m,16 Apr 1975,"29°6'60""S","67°6'60""W",Argentina,Okada & Bellos,fl
+4581,Solanum,chacoense,"Ruiz Leal, A",1451,"Roig, F",MERL,La Rioja,Unknown,Patquia,NA,11 Apr 1955,"30°2'60""S","66°52'60""W",Argentina,Ruiz Leal & Roig,fl
+4798,Solanum,chacoense,"Lillieskold, J",s.n.,,SUNIV,Misiones,Candelaria,Bonpland,0 m,s.d.,"27°16'48""S","55°17'24""W",Argentina,Lillieskold,fl
+4751,Solanum,chacoense,"Subils, R",4266,"Moscone, E",CORD,Misiones,Candelaria,,NA,13 Jun 1988,"27°27'60""S","55°43'60""W",Argentina,Subils & Moscone,fr
+4739,Solanum,chacoense,"Schwindt, E",3255,,"CORD, LP",Misiones,Guaraní,Guaraní,420 m,2 Mar 1950,27°30'S,55°10'W,Argentina,Schwindt,fl
+4890,Solanum,chacoense,"Montes, JE",10766,,LP,Misiones,Iguazu,Puerto delicia,0 m,19 Dec 1950,26°12'S,"54°34'60""W",Argentina,Montes,fl
+5105,Solanum,chacoense,"Krapovickas, A",30887,"Schinini, A",CTES,salta,Orán,Río Pescado,NA,3 Apr 1977,22°57'S,"64°20'60""W",Argentina,Krapovickas & Schinini,
+4917,Solanum,chacoense,"Meyer, T",2036,"Cuezzo, AR; Legname, RP",CTES,Salta,Candelaria,Pampa Grande,0 m,17 Feb 1962,25°49'S,65°30'W,Argentina,Meyer et al.,fl
+5007,Solanum,chacoense,"Balls, EK",5936,"Gourlay, WB; Hawkes, JG",K,Salta,Capital,Salta,1500 m,7 Feb 1939,"24°46'60""S","65°24'60""W",Argentina,Balls et al.,fl
+5011,Solanum,chacoense,"Juárez, F",2005,,CORD,Salta,Capital,Salta,NA,17 Apr 1990,24°45'S,"65°22'60""W",Argentina,Juárez,fl
+4945,Solanum,chacoense,"Hjerting, JP",302,"Petersen, E; Rahn, K",C,Salta,Chicoana,Escoipe,2100 m,22 Feb 1956,"25°9'60""S","65°45'60""W",Argentina,Hjerting et al.,
+4969,Solanum,chacoense,"Hjerting, JP",309,"Petersen, E; Rahn, K",C,Salta,Chicoana,La Hosteria,2350 m,22 Feb 1956,25°6'S,"65°31'12""W",Argentina,Hjerting et al.,fr
+4968,Solanum,chacoense,"Okada, KA",7497,"García, O",PTIS,Salta,Chicoana,Chicoana,2700 m,20 Mar 1983,25°6'S,65°33'W,Argentina,Okada & García,fl
+4951,Solanum,chacoense,"Okada, KA",4907,"Lucarini, O ","BAL, PTIS",Salta,Chicoana,Quebrada de Escoipe,2500 m,4 Apr 1973,"25°9'60""S","65°45'60""W",Argentina,Okada & Lucarini,fr
+5017,Solanum,chacoense,"Hjerting, JP",17,"Petersen, E; Rahn, K","C, K",Salta,General Martin,Caldera,1450 m,27 Jan 1956,24°36'S,"65°22'60""W",Argentina,Hjerting et al.,fl
+5026,Solanum,chacoense,"Hawkes, JG",3910,"Hjerting, JP; Rahn, K","C, K",Salta,General M. M. De Guemes,La Cornisa,1480 m,18 Mar 1966,24°18'S,65°12'W,Argentina,Hawkes et al.,
+4910,Solanum,chacoense,"Hawkes, JG",3629,"Hjerting, JP; Rahn, K","C, K",Salta,Guachipas,Pampa Grande,1100 m,15 Feb 1971,"25°49'60""S",65°30'W,Argentina,Hawkes et al.,fl
+4914,Solanum,chacoense,"Hawkes, JG",3679,"Hjerting, JP; Rahn, K","C, K",Salta,Guachipas,Pampa Grande,1750 m,3 Mar 1966,"25°49'60""S",65°30'W,Argentina,Hawkes et al.,fl
+4915,Solanum,chacoense,"Hawkes, JG",3682,"Hjerting, JP; Rahn, K","C, K",Salta,Guachipas,Pampa Grande,1920 m,4 Mar 1966,"25°49'60""S",65°30'W,Argentina,Hawkes et al.,fr
+4909,Solanum,chacoense,"Okada, KA",2971,,BAL,Salta,Guachipas,Pampa Grande,1750 m,27 Feb 1967,"25°49'60""S",65°30'W,Argentina,Okada,
+4903,Solanum,chacoense,"Spooner, DM",1441,"Clausen, AM","BAL, PTIS",Salta,Guachipas,Pampa Grande,1694 m,12 Apr 2001,"25°49'60""S",65°30'W,Argentina,Spooner & Clausen,fl
+5018,Solanum,chacoense,"Krapovickas, A",30360,"Schinini, A",CTES,Salta,La Caldera,Quebrada del Gallinato,NA,20 Mar 1977,"24°34'60""S","65°24'60""W",Argentina,Krapovickas & Schinini,fl
+5103,Solanum,chacoense,"Eyerdam, WJ",22640,"Beetle, AA","GH, K, UC",Salta,Orán,Río Tartagal,900 m,26 Oct 1938,23°6'S,"64°31'60""W",Argentina,Eyerdam & Beetle,fl
+5099,Solanum,chacoense,"Hunziker, AT",2012,,US,Salta,Orán,Urundel,0 m,12 May 1942,23°33'S,"64°24'60""W",Argentina,Hunziker,fr
+5002,Solanum,chacoense,"Okada, KA",7640,"García, O","BAL, C",Salta,Rosario de Lerma,Quebrada del toro,2000 m,24 Apr 1983,"24°49'60""S","65°42'60""W",Argentina,Okada & García,fl
+4995,Solanum,chacoense,"Okada, KA",4851,"Lucarini, O ","BAL, PTIS",Salta,Rosario de Lerma,Quebrada del toro,2280 m,26 Mar 1973,"24°49'60""S","65°42'60""W",Argentina,Okada & Lucarini,fl
+5108,Solanum,chacoense,"Hoffmann, W",1974,,BAL,Salta,Santa Victoria,Río Nogolan,1580 m,12 Mar 1971,22°33'S,"64°31'60""W",Argentina,Hoffmann,fr
+5116,Solanum,chacoense,"Hoffmann, W",2020,,BAL,Salta,Santa Victoria,Pucará,2250 m,25 Mar 1971,22°12'S,64°57'W,Argentina,Hoffmann,fr
+5114,Solanum,chacoense,"Sleumer, H",3880,,LL,Salta,Santa Victoria,Santa Victoria,1550 m,8 Feb 1953,22°15'S,"64°57'60""W",Argentina,Sleumer,
+4932,Solanum,chacoense,"Hjerting, JP",357,"Petersen, E; Rahn, K","C, K",Salta,Unknown,Ampascachi,1200 m,24 Feb 1956,"25°19'60""S","65°31'60""W",Argentina,Hjerting et al.,
+4957,Solanum,chacoense,"Ruiz Leal, A",21232,,MERL,Salta,Unknown,Quebrada de Escoipe,0 m,2 Dec 1960,"25°9'60""S","65°45'60""W",Argentina,Ruiz Leal,
+4426,Solanum,chacoense,"Ruiz Leal, A",1342,,MERL,San Luis,Capital,El Trapiche,NA,5 Mar 1957,"33°6'60""S","66°4'60""W",Argentina,Ruiz Leal,
+4439,Solanum,chacoense,"Del Vito, LA",646,Wihenstein,MERL,San Luis,Coronel Pringles,Carolina,NA,5 Feb 1984,"32°47'60""S","66°5'60""W",Argentina,Del Vito & Wihenstein,
+4386,Solanum,chacoense,"Anderson, DL",2659,,CORD,San Luis,Gobernador Dupuy,Estancia El Aguila,NA,6 Dec 1972,"35°3'60""S",66°30'W,Argentina,Anderson,
+4450,Solanum,chacoense,"Digilio, AP",2061,"Grassi, MM",LP,San Luis,Junín,Merlo,1000 m,5 Feb 1947,32°21'S,"65°1'60""W",Argentina,Digilio & Grassi,fr
+4406,Solanum,chacoense,"Brücher, H",6003,"Brücher, O",M,San Luis,Villa Mercedes,Río Quinto,NA,May 1973,33°51'S,"65°15'60""W",Argentina,Brücher & Brücher,fl
+4433,Solanum,chacoense,"Castellanos, A",0,,BA,San Luis,Unknown,Estancia Pancanta,0 m,21 Feb 1925,"32°58'60""S","66°10'60""W",Argentina,Castellanos,fl
+4440,Solanum,chacoense,"Castellanos, A",s.n.,,BA,San Luis,Unknown,Peñón Colorado,NA,20 Dec 1929,"32°44'60""S","66°2'60""W",Argentina,Castellanos,fl
+4847,Solanum,chacoense,"Lindner, E",s.n.,,JE,Santa Fé,Unknown,Colonia Esperanza,0 m,1896,"26°48'60""S","59°57'60""W",Argentina,Lindner,fl
+4703,Solanum,chacoense,"Petersen, E",60,"Hjerting, JP",K,Santiago del Estero,Banda,La Banda,200 m,10 Apr 1949,"27°43'60""S",64°15'W,Argentina,Petersen & Hjerting,fr
+4650,Solanum,chacoense,"Okada, KA",5345,,BAL,Santiago del Estero,Loreto,Isla Verde,1640 m,s.d.,28°39'S,64°9'W,Argentina,Okada,
+4589,Solanum,chacoense,"Garcia, P",873,,"GH, LIL, NY",Santiago del Estero,Ojo de Agua,Ojo de Agua,0 m,15 Apr 1945,"29°30'60""S",63°42'W,Argentina,Garcia,fl
+4846,Solanum,chacoense,"Krapovickas, A",27855,"Cristóbal, CL;  González, JM",CTES,Tucumán,Capital,El Cadillal,NA,27 Mar 1975,"26°48'60""S","65°12'60""W",Argentina,Krapovickas et al.,fl
+4845,Solanum,chacoense,"Venturi, S",2246,,US,Tucumán,Capital,Munecas,550 m,16 Dec 1923,"26°48'60""S","65°12'60""W",Argentina,Venturi,fr
+4819,Solanum,chacoense,"Hjerting, JP",396,"Petersen, E; Rahn, K","C, K",Tucumán,Tafí del Valle,Mollar,1900 m,27 Feb 1956,26°57'S,"65°42'60""W",Argentina,Hjerting et al.,fl
+4820,Solanum,chacoense,"Hjerting, JP",398,"Petersen, E; Rahn, K","C, K",Tucumán,Tafí del Valle,Mollar,1900 m,27 Feb 1956,26°57'S,"65°42'60""W",Argentina,Hjerting et al.,fl
+4856,Solanum,chacoense,"Lorentz, PG",1050,"Hieronymus, GH","CORD, F, G, GOET, K, M ",Tucumán,Tafí del Valle,Siambon,0 m,Jan 1873,"26°43'60""S","65°43'60""W",Argentina,Lorentz & Hieronymus,fl
+4855,Solanum,chacoense,"Olea, D",302,,"F, GH",Tucumán,Tafí del Valle,Siambon,0 m,1 Mar 1945,"26°43'60""S","65°43'60""W",Argentina,Olea,
+4827,Solanum,chacoense,"Petersen, E",14,"Hjerting, JP","C, K",Tucumán,Tafí del Valle,Parque Aconquija,1150 m,13 Mar 1949,"26°51'60""S","65°40'60""W",Argentina,Petersen & Hjerting,fl
+4818,Solanum,chacoense,"Petersen, E",47,"Hjerting, JP",K,Tucumán,Tafí del Valle,Mollar,1950 m,25 Feb 1949,26°57'S,"65°42'60""W",Argentina,Petersen & Hjerting,fl
+4873,Solanum,chacoense,"Venturi, S",221,,"D, GH, NY,US",Tucumán,Tafí del Valle,Yerba Buena,750 m,26 Feb 1920,"26°31'60""S","65°58'60""W",Argentina,Venturi,fl
+4888,Solanum,chacoense,"Clausen, AM",1746,"Stábile, A",BAL,Tucumán,Trancas,Los Ralos,359 m,9 Mar 2007,"26°12'60""S","65°16'60""W",Argentina,Clausen & Stábile,fl
+4884,Solanum,chacoense,"Petersen, E",6,"Hjerting, JP",K,Tucumán,Trancas,Gualinchay,1600 m,2 Nov 1948,26°18'S,65°39'W,Argentina,Petersen & Hjerting,fr
+4892,Solanum,chacoense,"Petersen, E",6,"Hjerting, JP",C,Tucumán,Trancas,Barburin,1150 m,28 Nov 1948,26°9'S,"65°30'60""W",Argentina,Petersen & Hjerting,fr
+4886,Solanum,chacoense,"Petersen, E",84,"Hjerting, JP",K,Tucumán,Trancas,Tacanas,1350 m,11 Jun 1949,"26°15'60""S",65°33'W,Argentina,Petersen & Hjerting,
+4893,Solanum,chacoense,"Petersen, E",85,"Hjerting, JP","C, K",Tucumán,Trancas,Barburin,1000 m,13 Jun 1949,26°9'S,"65°30'60""W",Argentina,Petersen & Hjerting,fl
+4735,Solanum,chacoense,"Brücher, H",508,,LL,Tucumán,Unknown,Río Chico,600 m,Oct 1949,27°33'S,"65°1'60""W",Argentina,Brücher,
+4853,Solanum,chacoense,"Ruiz Leal, A",21203,,MERL,Tucumán,Unknown,San Miguel de Tucumán,0 m,30 Nov 1960,26°46'S,65°19'W,Argentina,Ruiz Leal,fr
+5163,Solanum,chacoense,"Hawkes, JG",6441,"Hjerting, JP; Avilés, I",K,Cochabamba,Campero,"Road branching westwards at 17 km from Aiquile towards Sucre, 3.5 km along road, near large ruined building",2150 m,22 Feb 1980,"18°15'60""S","65°13'60""W",Bolivia,Hawkes et al.,fl
+5171,Solanum,chacoense,"Spooner, DM",6771,"Willman García, F",BOLV,"Cochabamba, incorrectly La Paz",Chapare,"Locotal, 88.2 km E and N of Cochabamba (by road marker on side of building), road to Villa Tunari, then ca 2 km W of road, upstream of Río Ronco, along the newly cut path for the water line project, 1:250,000-scale map SE 20-5",1850 m,5 Apr 1993,"17°10'60""S",65°48'W,Bolivia,Spooner & Willman García,
+5186,Solanum,chacoense,"Buchtien, O",617,,"BM, K, SUNIV",La Paz,Nor Yungas,Milluguaya,1300 m,1 Jul 1917,16°21'S,67°37'W,Bolivia,Buchtien,
+5187,Solanum,chacoense,"van den Berg, RG",603,"Spooner, DM; Ugarte, ML","BOLV, PTIS, WAG",La Paz,Nor Yungas,"Near Yolosa, ca 8 km south of Coroico, from intersection of roads to Yolosa and Coroico-Caranavi road, go 0.25 km towards Yolosa, then turn left up hill for 1 km, banana plantation on right, 1:250,000-scale map SE 19-3",1320 m,5 Jan 1994,"16°14'38""S","67°44'5""W",Bolivia,van den Berg et al.,
+5162,Solanum,chacoense,"Ochoa, CM",12026,,CUZ,Santa Cruz,Valle Grande,Playa Grande following route of Quebrada Seca toward Ariruma,1800 m,24 Mar 1978,"18°17'54""S","64°15'50""W",Bolivia,Ochoa,fr
+5156,Solanum,chacoense,"Ochoa, CM",15598,,US,Santa Cruz,Valle Grande,"Near El Tajo, about 1 km N of Quebrada Seca on road to Comarapa",1800 m,1 Apr 1984,18°30'S,64°10'W,Bolivia,Ochoa,
+5157,Solanum,chacoense,"Vargas, IG",89,,"MO, NY",Santa Cruz,Valle Grande,Chaquilagunilla,2080 m,6 Feb 1989,18°30'S,"64°4'60""W",Bolivia,Vargas,
+5118,Solanum,chacoense,"Hondelmann, W",181,"Astley, D; Moreira, A",K,Tarija,Arce,59.5 km from Bermejo on road to Tarija,720 m,29 Mar 1980,22°10'S,"64°19'60""W",Bolivia,Hondelmann et al.,fl
+5221,Solanum,chacoense,"Henschen, SE",1623,"Regnell, AF",UPS,Minas Gerais,Unknown,Caldas,NA,27 Oct 1868,"21°55'60""S","46°22'60""W",Brasil,Henschen & Regnell,fl
+5223,Solanum,chacoense,"Mosén, H",4294,,O,Minas Gerais,Unknown,Caldas,0 m,18 Oct 1873,"21°55'60""S","46°22'60""W",Brasil,Mosén,
+5210,Solanum,chacoense,"Reitz, PR",17698,"Klein, R","NY, US",Paraná,Guarapuava,Río Cavernoso,800 m,15 Dec 1965,25°42'S,"52°24'60""W",Brasil,Reitz & Klein,fr
+5213,Solanum,chacoense,"Hatschbach, G",35715,,Z,Paraná,Laranjeiras do Sul,Barra Río Sossego,NA,4 Jan 1975,25°25'S,52°25'W,Brasil,Hatschbach,fl
+5206,Solanum,chacoense,"Hatschbach, G",43478,,"F, HBG, MO, US, Z",Paraná,Ponte Serrada,Palmas,NA,13 Dec 1980,26°30'S,52°W,Brasil,Hatschbach,fl
+5216,Solanum,chacoense,"Ilien, GJ",0,,"LD, UPS",Paraná,Unknown,Vila Velha,0 m,1 Nov 1914,"24°34'60""S",47°36'W,Brasil,Ilien,fl
+5200,Solanum,chacoense,"Mentz, L",280,,CORD,Santa Catarina,Unknown,,860 m,25 Nov 2003,"27°7'12""S","50°16'12""W",Brasil,Mentz,
+5237,Solanum,chacoense,"Clark, CF ",s.n.,,NY,Alto Paraná,Unknown,Puerto Bertoni,0 m,18 Sep 1923,25°39'S,"54°34'60""W",Paraguay,Clark,
+5314,Solanum,chacoense,"Soejarto, DD",5199,"Bordas, E","F, K",Amambay,Cerro Cuatiá,"Cerro Cuatiá, about 90 km from PJ Caballero",200 m,1981,23°6'S,55°43'W,Paraguay,Soejarto & Bordas,fr
+5256,Solanum,chacoense,"Brücher, H",6141,,"G, M",Caaguazú,Caaguazú,,NA,Sep 1975,25°27'S,"56°0'60""W",Paraguay,Brücher,fr
+5291,Solanum,chacoense,"Brücher, H",s.n.,,GOET,Central,Asunción,Mariscal  López,NA,Jan 1976,"25°16'60""S","57°36'21""W",Paraguay,Brücher,fr
+5286,Solanum,chacoense,"Schinini, A",4021,,G,Central,Cerro Cöi,Areguá,NA,Sep 1988,25°18'S,"57°24'60""W",Paraguay,Schinini,fr
+5302,Solanum,chacoense,"Bohs, L",3219,,NY,Central,San Lorenzo,Campus of the Universidad Nacional de Asunción in San Lorenzo and environs.  In vacant lot on route Mariscal Estigarribia next to University Campus,115 m,1 Dec 2001,25°12'S,"57°18'36""W",Paraguay,Bohs,
+5266,Solanum,chacoense,"Hassler, E",92067,,"GH, NY",Central,Unknown,Ypacaray,NA,1913,"25°22'60""S","57°15'60""W",Paraguay,Hassler,
+5273,Solanum,chacoense,"Myndel-Petersen, T",5144,,K,Central,Unknown,Villa Elisa,0 m,16 Oct 1959,"25°21'60""S","57°36'60""W",Paraguay,Myndel-Petersen,fl
+5295,Solanum,chacoense,"Brücher, H",6110,,"G, M",Cordillera,Altos,San Bernardino,NA,Jul 1974,"25°15'60""S","57°18'60""W",Paraguay,Brücher,fr
+5296,Solanum,chacoense,"Zardini, EM",5097,,MO,Cordillera,Cerro Zanja Jhú,Atyra,NA,25 Jun 1988,25°15'S,"57°9'60""W",Paraguay,Zardini,fr
+5235,Solanum,chacoense,"Ortiz, M",1175,,"G, MO",Guairá,Unknown,Top of the Cerro Acahaí,NA,30 Mar 1989,"25°51'60""S","57°11'60""W",Paraguay,Ortiz,fl
+5233,Solanum,chacoense,"Rojas, T",3384,,GH,Paraguarí,Acahay,Acahay,0 m,1 Mar 1919,"25°54'60""S",57°9'W,Paraguay,Rojas,fr
+5234,Solanum,chacoense,"Brunner, DR",1133,,"G, MO",Paraguarí,Cerro Acahay,Colonia Virgen de Fatima,250 m,30 May 1985,"25°52'60""S","57°9'60""W",Paraguay,Brunner,
+5246,Solanum,chacoense,"Zardini, EM",4668,,MO,Paraguarí,Macizo Acahay,,500 m,11 Jun 1988,"25°32'24""S","57°5'24""W",Paraguay,Zardini,fr
+5249,Solanum,chacoense,"Hassler, E",326,,LL,Paraguay,Unknown,Cordillera de los Altos,0 m,1 Jul 1901,25°30'S,57°9'W,Paraguay,Hassler,fr
+5309,Solanum,chacoense,"Zardini, EM",54751,"Guerrero, L",NY,Presidente Hayes,Pilcomayo river basin,General Bruguez,100 m,4 Jun 2000,"24°43'60""S",58°48'W,Paraguay,Zardini & Guerrero,fr
+5313,Solanum,chacoense,"Brücher, H",6101,,M,San Pedro,Unknown,Itacurubí,NA,Apr 1973,23°36'S,"57°6'60""W",Paraguay,Brücher,fl
+386,Solanum,chilliasense,"Ochoa, CM",13350,,CPUN,El Oro,Chilla,between Urco and Chilla,3450 m,1 May 1979,"3°28'48""S","79°34'48""W",Ecuador,Ochoa,fl
+2029,Solanum,chiquidenum,"Ochoa, CM",2673,,CUZ,Amazonas,Luya,"vicinities of Cuelap, among shrubby scrubs",2000 m,15 May 1967,"6°24'15""S","77°53'28""W",Peru,Ochoa,fr
+568,Solanum,chiquidenum,"Hawkes, JG",2439,,K,Cajamarca,Cajamarca,between Chiquidén & Lancha on Cajamarca-Chiclayo Road in the region of Lancha,2500 m,30 Mar 1964,"7°19'60""S","78°24'60""W",Peru,Hawkes,
+515,Solanum,chiquidenum,"Ochoa, CM",12537,,"CUZ, US, USM",Cajamarca,Cajamarca,"Batán, detour from San Juan to Sunchubamba",2700 m,Apr 1978,6°55'S,"79°7'60""W",Peru,Ochoa,fr
+507,Solanum,chiquidenum,"Ochoa, CM",1505,,"K, PTIS",Cajamarca,Cajamarca,"Chiquidén, Dist. San Juan",2800 m,30 Apr 1952,6°49'S,79°12'W,Peru,Ochoa,fr
+476,Solanum,chiquidenum,"Llatas Quiroz, S",701,,"MO, NY",Cajamarca,Chota,Miracosta (Chota),280 m,18 May 1981,"6°24'15""S","79°17'4""W",Peru,Llatas Quiroz,fr
+491,Solanum,chiquidenum,"Sagástegui, A",10665,"López, S","CUZ, HUT, NY",Cajamarca,Contumazá,San Lorenzo,2500 m,14 Jun 1983,6°40'S,79°4'W,Peru,Sagástegui & López,fr
+492,Solanum,chiquidenum,"Ochoa, CM",12568,,"CUZ, US, USM",Cajamarca,Hualgayoc,"Perlamayo, on road to Chugur",3100 m,Apr 1978,6°40'S,78°45'W,Peru,Ochoa,
+499,Solanum,chiquidenum,"Ochoa, CM",1524,,CUZ,Cajamarca,Hualgayoc,"upper levels of Cerro El Mirador, descending from Hualgayoc toward Bambamarca",3800 m,22 May 1952,"6°43'60""S",78°34'W,Peru,Ochoa,fr
+593,Solanum,chiquidenum,"Ochoa, CM",14765,,"CUZ, F, US",Cajamarca,San Miguel,"Membrillar, near Piedra Grande, going from La Florida to Niepos",2700 m,May 1982,7°24'S,78°51'W,Peru,Ochoa,
+784,Solanum,chiquidenum,"Ochoa, CM",2645,,"CUZ, MOL",Huánuco,Huamalíes,Ruins of Uchcupuño,3480 m,26 Apr 1967,9°15'S,76°30'W,Peru,Ochoa,fr
+665,Solanum,chiquidenum,"Ochoa, CM",2514,,"CUZ, US",La Libertad,Santiago de Chuco,"Cerro Huallío, on path from Cachicadán to Angasmarca",3550 m,25 May 1963,8°6'S,78°9'W,Peru,Ochoa,
+707,Solanum,chiquidenum,Mostacero,1426,Leiva; Guevara,NY,La Libertad,Trujillo,Lomas de Virú,420 m,15 Sep 1986,"8°25'14""S","78°45'3""W",Peru,Mostacero et al.,fr
+242,Solanum,chomatophilum,"Bohlin, J",648,"Bohlin, M",GB,Napo,Papallacta,"Quito-Papallacta Road, 10 km E of the pass",3500 m,24 Jun 1983,"0°21'60""S","78°7'60""W",Ecuador,Bohlin & Bohlin,
+417,Solanum,chomatophilum,"Ochoa, CM",73,"Salas, A","K, PTIS",Amazonas,Bongara,"near El Totoral, in front of Pomacocha River",NA,30 Apr 1967,5°S,78°W,Peru,Ochoa & Salas,fl
+447,Solanum,chomatophilum,"Ochoa, CM",2667,,"CUZ, GH, F, US",Amazonas,Chachapoyas,"Corral de la Virgen, near Pomacocha, on Leimebamba-Paso de Calla Calla Road",3000 m,14 May 1967,"5°49'60""S",77°55'W,Peru,Ochoa,fr
+481,Solanum,chomatophilum,"Ochoa, CM",11061,,"F, GH, MO, MOL, NY, PTIS, US, USM, WIS",Amazonas,Luya,between Cutra Cuello and Pueblo María,3200 m,19 Aug 1976,6°25'S,78°W,Peru,Ochoa,fl
+477,Solanum,chomatophilum,"Ochoa, CM",2657,,CUZ,Amazonas,Rodríguez de Mendoza,"Puca Ladrillo, on the Chachapoyas-Piscohuañuna Road",3300 m,10 May 1967,6°25'S,"77°19'60""W",Peru,Ochoa,
+921,Solanum,chomatophilum,"Ferreyra, R",7425,,CUZ,Ancash,Bolognesi,near Chiquián,3390 m,14 May 1950,10°9'S,"77°10'60""W",Peru,Ferreyra,fl
+762,Solanum,chomatophilum,"Salas, A",7350,"Spooner, D; Torres Maita, RV; Schüler, K","CIP, MOL, PTIS, WAG",Ancash,Carhuaz,"a local place called Ulta, 25.2 km E of Chilla",3985 m,1 Apr 1999,"9°7'34""S","77°31'52""W",Peru,Salas et al.,fl
+809,Solanum,chomatophilum,"Ochoa, CM",15736,"Salas, A","CUZ, US",Ancash,Huaraz,"Conchon, about 15 km NE from Huanchoy, 1.5 km of Chamlla to Iscupampa",3950 m,4 May 1984,9°25'S,77°40'W,Peru,Ochoa & Salas,fr
+756,Solanum,chomatophilum,"Ochoa, CM",2276,,"MO, US, USM",Ancash,Huari,"San Luis, near San Marcos",4000 m,Feb 1960,"9°4'60""S",77°21'W,Peru,Ochoa,
+543,Solanum,chomatophilum,"Hawkes, JG",2428,,K,Cajamarca,Cajamarca,"Jalcas of Hacienda Porcón, on a small knoll, 100 m from road",3500 m,29 Mar 1964,"7°4'60""S","78°34'60""W",Peru,Hawkes,fl
+536,Solanum,chomatophilum,"Ochoa, CM",16015,"Salas, A","US, USM",Cajamarca,Cajamarca,"Cerro Campanario, from Atocsaico to Cajamarca",3500 m,29 Mar 1992,7°4'S,"78°37'60""W",Peru,Ochoa & Salas,fr
+527,Solanum,chomatophilum,"Sánchez, I",11502,,CPUN,Cajamarca,Cajamarca,"Dist. Cajamarca, Cerro Negro, NW of the Cajamarca-Hualgayoc Road, km 28",3680 m,10 Jun 2002,"7°0'54""S","78°35'22""W",Peru,Sánchez,fr
+514,Solanum,chomatophilum,"Sánchez, I",10477,"Iberico, G; Sánchez, M","BM, CPUN, F, NY",Cajamarca,Cajamarca,"Cajamarca, near the side road to Chanta Alta, 7.5 km from the Cajamarca-Hualgayoc Road, km 40.5",3630 m,20 Apr 2001,6°54'S,78°33'W,Peru,Sánchez et al.,
+513,Solanum,chomatophilum,"Ferreyra, R",13275,,CUZ,Cajamarca,Celendín,"Cruz Conga, between Cumulca and Celendín",3700 m,6 Aug 1958,"6°52'13""S","78°9'6""W",Peru,Ferreyra,fr
+482,Solanum,chomatophilum,"Ochoa, CM",1531,,"CUZ, MOL, US",Cajamarca,Chota,Coñorpata,3000 m,22 May 1952,6°25'S,"78°49'60""W",Peru,Ochoa,fr
+588,Solanum,chomatophilum,"Sagástegui, A",9689,"Alvítez, E; García, E; López, S","MO, NY",Cajamarca,Contumazá,near Guzmango,2700 m,2 Jun 1981,"7°22'60""S",78°54'W,Peru,Sagástegui et al.,fl
+518,Solanum,chomatophilum,"Ochoa, CM",13202,,"GH, US, USM",Cajamarca,Hualgayoc,Cerro Lorromo,NA,13 Feb 1979,6°55'S,78°55'W,Peru,Ochoa,
+504,Solanum,chomatophilum,"Ochoa, CM",14786,,"CUZ, F, MOL, NY, US, USM, WIS",Cajamarca,Hualgayoc,"Jalcas de Jalampa, near km 35 of road Cajamarca- Hualgayoc",3800 m,20 May 1982,6°46'S,78°37'W,Peru,Ochoa,fl
+461,Solanum,chomatophilum,"Sagástegui, A",15736,"Luteyn, JL; Sylva, DS; Sanchez V",HAO,Cajamarca,San Miguel,"Las Lagunas, Cajamarca-Hualgayoc Road",4000 m,10 Jul 1995,6°15'S,"78°49'60""W",Peru,Sagástegui et al.,fr
+557,Solanum,chomatophilum,"Ochoa, CM",3597,,"CUZ, F, GH, US",La Libertad,Bolívar,between Uchumarca and Bolívar,3100 m,10 Feb 1973,"7°13'60""S",77°48'W,Peru,Ochoa,fl
+623,Solanum,chomatophilum,"Hawkes, JG",2410,,K,La Libertad,Huamachuco,"near Yamobamba, between Huamachuco & Quirivilca",3100 m,24 Mar 1964,"7°49'60""S",78°6'W,Peru,Hawkes,
+629,Solanum,chomatophilum,"Huamán, Z",647,,CUZ,La Libertad,Sánchez Carrión,19.5 km from Yamobamba toward Huaylillas,4200 m,21 May 1973,7°54'S,"77°55'60""W",Peru,Huamán,fr
+673,Solanum,chomatophilum,"Hawkes, JG",2414,,K,La Libertad,Santiago de Chuco,"Compajcha, turning from Alto de Tamboras on the road towards Angasmarca",3700 m,25 Mar 1964,"8°7'60""S",78°4'W,Peru,Hawkes,
+650,Solanum,chomatophilum,"Ochoa, CM",14488,,USM,La Libertad,Santiago de Chuco,"San Felipe, between Motil and Shorey",3600 m,7 Jul 1981,8°S,78°21'W,Peru,Ochoa,fr
+635,Solanum,chomatophilum,"Ochoa, CM",2509,,"CUZ, GH, NY, US",La Libertad,Santiago de Chuco,"Mumpamba, near Cachicadán",3200 m,23 May 1963,7°55'S,77°58'W,Peru,Ochoa,
+675,Solanum,chomatophilum,"Salas, A",7320,"Spooner, D; Torres Maita, RV; Schüler, K","CIP, MOL, PTIS, WAG",La Libertad,Santiago de Chuco,22.5 km from the police station in Shoren on the road to Santiago de Chuco,4070 m,19 Mar 1999,"8°8'31""S","78°16'12""W",Peru,Salas et al.,
+677,Solanum,chomatophilum,"Stork, HE",10006,"Horton, OB","F, K, UC",La Libertad,Santiago de Chuco,"Huillilas, N of Cachicadán",4000 m,26 Nov 1938,"8°10'60""S","77°19'60""W",Peru,Stork & Horton,fl
+1138,Solanum,chomatophilum,"Gentry, A",21640,,"MO, NY",Lima,Huanza,"10 km NE of Suchi, about 61 road km NE of Chosica on road to Huanza",3900 m,6 May 1978,"11°39'24""S","76°30'12""W",Peru,Gentry,fl
+70,Solanum,colombianum,"Pennell, FW",9239,,"NY, PH",Caldas,Guayabal,"Pinares above Salento, Cordillera Central",2600 m,2 Aug 1922,4°58'N,75°45'W,Colombia,Pennell,fl
+55,Solanum,colombianum,"Ochoa, CM",14107,,GH,Caldas,La Isabela,"Quebrada El Recodo, in the spring of Río Claro",3850 m,22 Jul 1980,5°30'N,74°40'W,Colombia,Ochoa,
+61,Solanum,colombianum,"St John, H",20823,,"GH, US, P",Caldas,Montebonito,"Cordillera Central, Quebrada La Paila, 2 km N of km 28, Manizales-Mariquita Hwy",3660 m,18 Oct 1944,5°7'N,"75°16'60""W",Colombia,St John,
+65,Solanum,colombianum,"Castillo, R",1212,"Pineda, R; López, LE; Spooner, DM","COL, PTIS",Caldas,Termales,"1.5 km E of road going to Nevado de Ruiz, on road from Manizales to Fresno",3310 m,8 Mar 1992,"5°4'12""N","75°19'12""W",Colombia,Castillo et al.,fr
+115,Solanum,colombianum,"Hawkes, JG",161,,"BM, COL, K, MEDEL, US",Cauca,Guambía,"Guambía to páramo de Las Delicias, by old mule track",3300 m,18 Jul 1948,2°37'N,76°18'W,Colombia,Hawkes,fr
+141,Solanum,colombianum,"Castillo, R",1253,"Pineda, R; López, LE; Spooner, DM",PTIS,Cauca,Juntas,"at La Guada, near Brisas la Guada school, farm of Buenaventura Anacona, 1 hour walk, or about 7 km E of Valencia, in Valle de las Papas",3000 m,18 Jul 1992,1°55'N,76°30'W,Colombia,Castillo et al.,fl
+139,Solanum,colombianum,"Castillo, R",1243,"Pineda, R; López, LE; Spooner, DM","COL, PTIS",Cauca,Paletará,"at km 45.6 from Popayán to Paletará, through San José de Isnos in Department El Huila",2990 m,15 Jul 1992,"2°13'48""N","76°28'48""W",Colombia,Castillo et al.,fl
+134,Solanum,colombianum,"Hawkes, JG",192,,"BM, COL, K, MEDEL",Cauca,Páramo de Moscopán,"San Marcos, 32km from Puracé, on road to Moscopán",2920 m,21 Jul 1948,"2°16'60""N","76°13'60""W",Colombia,Hawkes,
+135,Solanum,colombianum,"Hawkes, JG",191,,"BM, COL, K, MEDEL, MO, US",Cauca,Santa Leticia,"Cordillera Central, Páramo de Moscopán, 22 km on Puracé-Moscopán Road",3450 m,21 Jul 1948,2°15'N,"76°13'60""W",Colombia,Hawkes,
+58,Solanum,colombianum,"Cuatrecasas, J",5650,,COL,Cundinamarca,Macizo de Bogotá,Quebrada de Las Delicias,2800 m,28 Jun 1939,5°18'N,"73°58'60""W",Colombia,Cuatrecasas,fr
+71,Solanum,colombianum,"Correll, DS",461,"Heidrick, L","LL, NY, S, US",Cundinamarca,Mancilla,"in creek along road between Facatativá and San Francisco, 11 km from plaza in Facatativá",2800 m,29 Mar 1958,"4°52'60""N",74°18'W,Colombia,Correll & Heidrick,fl
+112,Solanum,colombianum,"Barbosa, C",9320,,"CAUP, FMB",Huila,Nevado del Huila,near Cabaña Alto Páez,NA,3 Dec 1993,"2°31'41""N","75°31'47""W",Colombia,Barbosa,
+146,Solanum,colombianum,"Hawkes, JG",2544,,"K, PTIS",Nariño,Juanambú,"near El Encano, 28 km from Pasto on the road to Santiago, Santa María",3050 m,12 Feb 1966,1°25'N,77°7'W,Colombia,Hawkes,fl
+27,Solanum,colombianum,"Kalbreyer, W",1041,,K,Norte de Santander,La Centella,Ocaña to Pamplona,2130 m,25 Mar 1977,"7°52'60""N",73°1'W,Colombia,Kalbreyer,fl
+156,Solanum,colombianum,"López, L",s.n.,,K,Putumayo,Pasto,Sibundoy,NA,17 Aug 1972,"1°10'60""N",76°54'W,Colombia,López,
+166,Solanum,colombianum,"Castillo, R",1239,"Pineda, R; López, LE; Spooner, DM","COL, PTIS",Putumayo,Santiago,"9.7 km E of border with Nariño department at Finca San Antonio, on road to Mocoa",2920 m,13 Jul 1992,1°10'N,77°4'W,Colombia,Castillo et al.,
+64,Solanum,colombianum,"Torres, JH",1878,"Rangel, O; Franco, P; Cleef, A; Salamanca, S",COL,Risaralda,Santuario,"SW of Cerro Ventanas, Macizo de Tamaná",3820 m,11 Feb 1983,"5°4'60""N",76°W,Colombia,Torres et al.,fl
+45,Solanum,colombianum,"Dawe, MT",346,,"K, US",Santander,Chipatá,Chipatá,3000 m,Jul 1916,6°3'N,"73°37'60""W",Colombia,Dawe,
+60,Solanum,colombianum,"Forero, E",3669,"Gentry, A; Sugden, A; Daly, D",MO,Tolima,Fresno,"Manizales-Fresno Road, 41 km from Manizales",3250 m,1 Mar 1977,"5°9'20""N","75°2'25""W",Colombia,Forero et al.,fl
+111,Solanum,colombianum,"Cuatrecasas, J",21861,,"US, VALLE",Valle del Cauca,Confites,"Cordillera Occidental, Los Farallones, NW side, between El Socorro and El Diamante mines",3100 m,31 Jul 1946,"3°16'60""N","76°43'60""W",Colombia,Cuatrecasas,fr
+373,Solanum,colombianum,"Ochoa, CM",1109,,"K, PTIS",Azuay,Francés Urco,Portete de Tarqui,NA,s.d.,3°3'S,"79°4'60""W",Ecuador,Ochoa,
+367,Solanum,colombianum,"Zak, V",2489,,"AAU, GB, QCA, S",Azuay,Miraflores,Cuenca-Bosque de Mazán Road (ETAPA),3000 m,17 Aug 1987,"2°52'60""S","78°58'60""W",Ecuador,Zak,fr
+379,Solanum,colombianum,"Spooner, DM",5052,"Castillo, R; López, L","CIP, INIAP, NA, PTIS, QCA, WIS",Azuay,Pucalpa,"E side of new road from Cuenca to Loja, 27 km S of road junction to Loja and Girón at Estación Cumbre, 2.1 km NE of junction of dirt road to Tinajillas",3370 m,6 May 1991,3°13'S,"79°1'60""W",Ecuador,Spooner et al.,fl
+179,Solanum,colombianum,"Holm-Nielsen, LB",5718,"Jeppesen, S; Løjtnant, B; Øllgaard, B","AAU, F, MO, NY, S",Carchi,Valle de Maldonado,km 60 on Tulcán-Maldonado Road,2700 m,18 May 1973,0°51'N,78°4'W,Ecuador,Holm-Nielsen et al.,
+328,Solanum,colombianum,"Spooner, DM",5079,"Castillo, R; López, L","CIP, INIAP, NA, PTIS, QCA",Chimborazo,Cañi,"in hills E of road from San Isidro de Yungilla to San Jacinto de Llimbe, about 1 km by air E of this road in Pretoria",2900 m,14 May 1991,1°49'S,"78°58'60""W",Ecuador,Spooner et al.,fl
+390,Solanum,colombianum,"Spooner, DM",5059,"Castillo, R; López, L",INIAP,El Oro,Portete,"about 1.5 km SW of Laguna Chilla Cocha, on farm of Fortunato Pindo, about 6 km by air S of Chilla",3200 m,7 May 1991,3°31'S,"79°37'60""W",Ecuador,Spooner et al.,
+344,Solanum,colombianum,"Cerón, C",33192,"Montalvo, C; Llerena, G",QAP,Morona-Santiago,Zúñac,"Parque Nacional Sangay, Páramo de Altillo, next to Laguna Negra, Guamote-Macas Road",3230 m,18 Nov 1996,2°13'S,78°27'W,Ecuador,Cerón et al.,
+240,Solanum,colombianum,"Holm-Nielsen, LB",6830,"Jeppesen, S; Løjtnant, B; Øllgaard, B","AAU, NY, S",Napo,Chalpi,"between Cuyuja and Papallacta, 10 km E of Papallacta on road to Baeza",2800 m,5 Jun 1973,0°21'S,78°1'W,Ecuador,Holm-Nielsen et al.,fr
+248,Solanum,colombianum,"Luteyn, JL",14066,"Ballington, J; Thompson, M; Yáñez, P; Gavilánez, M","K, MO, NY, QCA, TEX",Napo,Papallacta,around Laguna Papallacta,3385 m,7 Nov 1990,0°25'S,78°10'W,Ecuador,Luteyn et al.,fr
+245,Solanum,colombianum,"Spooner, DM",5119,"Castillo, R; López, L","CIP, INIAP, NA, PTIS, QCA, WIS",Napo,Papallacta,"along old Quito-Baeza Road, 4.9 km E of statue of Virgin at crest of Sierra, 9.5 km W of police control station at Papallacta",3720 m,31 May 1991,"0°22'12""S","78°11'6""W",Ecuador,Spooner et al.,fr
+2,Solanum,colombianum,"D'Arcy, WG",14084,,"MO, NY",Napo,Sarayacu,between Tena and Baeza,NA,12 Jan 1981,0°45'S,77°52'W,Ecuador,D'Arcy,
+202,Solanum,colombianum,"Ochoa, CM",13836,,CPUN,Pichincha,Sillacunga,"La Rinconada, Tilingón near Calacalí",2900 m,8 Apr 1980,0°N,"78°28'60""W",Ecuador,Ochoa,fr
+198,Solanum,colombianum,"Spooner, DM",5006,"López, L; Estrella, J","INIAP, PTIS, QCA",Pichincha,Turucuchu,by road at S end of Laguna San Marcos,3450 m,18 Apr 1991,"0°7'60""N",77°58'W,Ecuador,Spooner et al.,fl
+307,Solanum,colombianum,"Ochoa, CM",2452,,CPUN,Tungurahua,Cerro Tsitsi,"in front of Bolívar, going by the Quebrada de Quitocucho",3600 m,Mar 1963,1°22'S,78°33'W,Ecuador,Ochoa,fl
+310,Solanum,colombianum,"Spooner, DM",5083,"Castillo, R; López, L","CIP, INIAP, NA, PTIS, QCA, WIS",Tungurahua,Chontapamba,"just E of Quebrada Mandur, in Silvia farm, on NNW slopes of Volcán Tungurahua, just off road driving from Riobamba to Baños at Escuela Constancio Vigil",2900 m,15 May 1991,"1°25'60""S",78°28'W,Ecuador,Spooner et al.,fl
+308,Solanum,colombianum,"Ochoa, CM",13389,,CPUN,Tungurahua,Huambaló,"Cerro Huashuan, S from Cerro Tsitsi or Tsitsin, on Bolívar-Huambaló Road",3100 m,2 Jun 1979,"1°22'60""S","78°31'60""W",Ecuador,Ochoa,fl
+409,Solanum,colombianum,"D'Arcy, WG",16497,,"MO, NY",Zamora-Chinchipe,Loyola,30 km from Yangana,2740 m,13 Jul 1986,"4°23'13""S","78°58'5""W",Ecuador,D'Arcy,fl
+403,Solanum,colombianum,"Harling, G",23712,"Andersson, L",GB,Zamora-Chinchipe,Sabanilla,"Nudo de Sabanilla, pass on Yangana-Valladolid Road",2800 m,5 Apr 1985,"4°1'60""S",79°1'W,Ecuador,Harling & Andersson,fl
+9,Solanum,colombianum,"Jahn, A",511,,VEN,Mérida,Chachopo,La Venta,2800 m,4 Sep 1921,"8°55'60""N",70°49'W,Venezuela,Jahn,fl
+19,Solanum,colombianum,"Spooner, DM",6317,"Vargas, A; Rivero, G",PTIS,Táchira,Guaraque,25 km E of Plaza Bolivar of La Grita on road to Pregonero,2900 m,30 Aug 1992,8°9'N,"71°51'60""W",Venezuela,Spooner et al.,fl
+20,Solanum,colombianum,"Spooner, DM",6319,"Vargas, A; Rivero, G",PTIS,Táchira,Guaraque,32 km E of Plaza Bolivar of La Grita on road to Pregonero,2800 m,30 Aug 1992,8°7'N,71°54'W,Venezuela,Spooner et al.,fr
+26,Solanum,colombianum,"Spooner, DM",6313,"Vargas, A; Rivero, G",PTIS,Táchira,Queniquia,"Páramo El Zumbador, 17.9 km NW of Plaza Bolivar of Quiniquea",2630 m,28 Aug 1992,"7°55'60""N",72°3'W,Venezuela,Spooner et al.,
+31,Solanum,colombianum,"Steyermark, JA",101079,"GCK; Dunsterville, E",VEN,Táchira,Tama,"between Quebrada Teleférica, above Las Copas and Páramo de Pata de Judío, headwaters of Río Quinimarí, 20 km S of San Vicente de la Revancha, 35 km S of Alquitrana, SW of Santa Ana",2800 m,18 Jan 1968,"7°25'60""N",72°16'W,Venezuela,Steyermark et al.,fr
+595,Solanum,contumazaense,"Ochoa, CM",13969,,CUZ,Cajamarca,Contumazá,"near San Martín, some km by foot on the Cascas-Contumazá Road",2720 m,13 May 1980,7°25'S,78°45'W,Peru,Ochoa,fl
+597,Solanum,contumazaense,"Sagástegui, A",16164,"Leiva, S; Quipuscoa, V; Zapata, M","F, HAO",Cajamarca,Contumazá,Las Alverjas (El Túnel-Contumazá),2700 m,4 Jun 1999,"7°25'12""S","78°48'50""W",Peru,Sagástegui et al.,
+763,Solanum,dolichocremastrum,"Salas, A",7351,"Spooner, DM; Torres Maita, RV; Schüler, K","CIP, MOL, PTIS, WAG",Ancash,Carhuaz,"a local place called Ulta, 25.2 km E of Chilla",3985 m,1 Apr 1999,"9°7'34""S","77°31'52""W",Peru,Salas et al.,fl
+861,Solanum,dolichocremastrum,"Correll, DS",973,"Smith, EE","K, SUNIV",Ancash,Huari,near pass between Recuy and Chavin,4200 m,30 Mar 1960,"9°43'60""S",77°27'W,Peru,Correll & Smith,fl
+822,Solanum,dolichocremastrum,"Ochoa, CM",2628,,"CUZ, USM",Huánuco,Dos de Mayo,"bottom of Cerro Huanca, near Jacas Chico",4075 m,20 Apr 1967,9°30'S,"75°49'60""W",Peru,Ochoa,fl
+47,Solanum,flahaultii,"Castillo, R",1287,"Pineda, R; López, LE; Spooner, DM","COL, PTIS",Boyacá,Páramo de Pisba,88 km from Belén to Chita,3360 m,7 Aug 1992,"6°1'48""N","72°28'48""W",Colombia,Castillo et al.,fl
+44,Solanum,flahaultii,"Castillo, R",1283,"Pineda, R; López, LE; Spooner, DM","COL, PTIS",Boyacá,Páramo de Uinas,"35 km town center of Belén, near 1 km W (uphill) of Brisas restaurant, in valley",3200 m,6 Aug 1992,6°10'N,72°48'W,Colombia,Castillo et al.,fr
+124,Solanum,flahaultii,"Hawkes, JG",166,,"COL, K, US",Cauca,Totoró,11 km from Totoró Road To Gabriel López (Malbazá),3250 m,19 Jul 1948,"2°28'60""N",76°19'W,Colombia,Hawkes,
+92,Solanum,flahaultii,"Ochoa, CM",14106,,US,Cundinamarca,Bogotá,"Quebrada Tembladares, return from Bogotá W of road to Choachí, km 14 behind Monserrate and Guadalupe heights",3350 m,21 Jul 1980,"4°31'60""N",74°1'W,Colombia,Ochoa,
+88,Solanum,flahaultii,"Kubocz, T",206,"Schmitt, J",COL,Cundinamarca,La Calera,"Parque Nacional Natural de Chingaza, Quebradas de Piedras Gordas",3200 m,21 Jun 1990,"4°34'60""N",73°54'W,Colombia,Kubocz & Schmitt,fr
+90,Solanum,flahaultii,"Ochoa, CM",14105,,"GH, MO, US",Cundinamarca,Las Aguadas,Páramos Cruz Verde,3450 m,17 Jul 1980,4°34'N,"74°1'60""W",Colombia,Ochoa,fr
+51,Solanum,flahaultii,"Ochoa, CM",14103,,"GH, US",Cundinamarca,San Antonio,"between the Laguna de Suscunsi and the Quebrada de Las Cañas, NNE of Toquilla",3450 m,17 Jul 1980,"5°34'40""N","72°49'24""W",Colombia,Ochoa,fl
+2030,Solanum,garcia-barrigae,"Cuatrecasas, J",24473,"Castaneda, RR",COL,Cesar,Meollaca,"Magdalena: Sierra Nevada de Santa Marta, SE slopes, basin of Río Donachui, Meollaca [Meuyaca]",3260 m,28 Sep 1959,"10°45'53""N","73°31'3""W",Colombia,Cuatrecasas & Castaneda,
+24,Solanum,garcia-barrigae,"García-Barriga, H",20618,"Jaramillo, R",COL,Norte de Santander,Cerro Oroque,between Norte de Santander and Cesar,3900 m,22 Jul 1974,8°3'N,"73°10'60""W",Colombia,García-Barriga & Jaramillo,
+484,Solanum,hastiforme,"Ochoa, CM",13251,,"CUZ, MO, US, USM",Amazonas,Chachapoyas,"Tambillo, on the Leimebamba-Atuen Road",2850 m,31 Mar 1979,6°25'S,"77°52'12""W",Peru,Ochoa,fr
+485,Solanum,hastiforme,"Ochoa, CM",13252,,CUZ,Amazonas,Chachapoyas,Jalcas of Atuen,3300 m,31 Mar 1979,"6°25'48""S","77°49'12""W",Peru,Ochoa,fl
+734,Solanum,hastiforme,"Smith, DN",9916,"Valencia, R; Minaya L","CPUN, F, MO",Ancash,Huaylas,"Huascarán National Park, Quebrada Los Cedros, Alpamayo trail",4020 m,11 Mar 1985,"8°49'60""S","77°43'60""W",Peru,Smith et al.,
+710,Solanum,hastiforme,"Ochoa, CM",2612,,CUZ,Ancash,Pallasca,"Miraflores, in Mount Yacua, above Ancos",3400 m,4 Mar 1967,"8°28'60""S",78°6'W,Peru,Ochoa,fr
+624,Solanum,hastiforme,"Hawkes, JG",2411,,K,La Libertad,Huamachuco,"3 km W of Huamachuco, on road to Trujillo",3200 m,25 Mar 1964,"7°49'60""S",78°4'W,Peru,Hawkes,fr
+626,Solanum,hastiforme,"Salas, A",7324,"Spooner, DM; Torres Maita, RV; Schüler, K",,La Libertad,Sánchez Carrión,"Barro Negro, about 400 m SE of road from Quiruvilca to Huamachuco, about 100 m NW of Río Bado and W of Huamachuco",3220 m,21 Mar 1999,"7°52'1""S","78°6'32""W",Peru,Salas et al.,fl
+667,Solanum,hastiforme,"Ochoa, CM",2505,,K,La Libertad,Santiago de Chuco,between Santiago de Chuco and Cachicadán near Patarata,3200 m,s.d.,8°6'S,78°9'W,Peru,Ochoa,
+418,Solanum,huancabambense,"Ochoa, CM",2339,,"CUZ, MOL",Piura,Ayabaca,"near Pacaipampa, Dist. Cumbicus",2000 m,13 May 1960,5°S,"79°40'60""W",Peru,Ochoa,fr
+436,Solanum,huancabambense,"Ochoa, CM",2325,,"CUZ, US",Piura,Huancabamba,"above Juzgara, near Huancabamba",2350 m,4 May 1960,5°30'S,"79°34'60""W",Peru,Ochoa,fl
+497,Solanum,humectophilum,"Maycelo, Z",s.n.,,CUZ,Amazonas,Chachapoyas,"Encañada, between Leimebamba and Atuen",2800 m,31 Mar 1979,"6°40'60""S","77°46'60""W",Peru,Maycelo,fl
+854,Solanum,hypacrarthrum,"Ochoa, CM",15254,"Espejo, J",CUZ,Ancash,Huaraz,heights between Huanchay and Pampas,3400 m,7 Jun 1983,"9°41'42""S","77°50'6""W",Peru,Ochoa & Espejo,
+857,Solanum,hypacrarthrum,"Ochoa, CM",15740,"Espejo, J","GH, MOL, US",Ancash,Huaraz,"Quillpacc, 2 km NNE Huanchay",2750 m,4 May 1984,"9°43'12""S","77°50'24""W",Peru,Ochoa & Espejo,
+1085,Solanum,hypacrarthrum,"Hawkes, JG",2450,,K,Lima,Canta,"Lima to Huamantanga Road, Cuesta de Huamantanga",2650 m,9 Apr 1964,11°30'S,76°45'W,Peru,Hawkes,fr
+1088,Solanum,hypacrarthrum,"Salas, A",7366,"Spooner, DM; Torres Maita, RV; Hoekstra, R","CIP, MOL, PTIS, WAG",Lima,Canta,Cuesta de Huamantanga 14.1 km NW from the Lima to Canta road on the road to Huamantanga,2875 m,7 Apr 1999,"11°30'22""S","76°42'22""W",Peru,Salas et al.,fl
+1016,Solanum,hypacrarthrum,"Cerrate, E",255,"Chanco, M; Vilcapoma, G",USM,Lima,Chancay,Naupay,2700 m,22 Mar 1975,11°12'S,77°25'W,Peru,Cerrate et al.,fr
+661,Solanum,immite,"López, A",3640,"Sagástegui, A; Sánchez, I",HUT,La Libertad,Trujillo,Lomas de Virú,400 m,19 Aug 1961,"8°4'60""S","78°54'60""W",Peru,López et al.,fr
+1053,Solanum,immite,"Bernardi, L",16413,,UC,Lima,Fundo Santa Fé,Lomas de Iguaril,300 m,2 Oct 1879,11°24'S,77°13'W,Peru,Bernardi,fr
+1030,Solanum,immite,"Salas, A",7377,"Spooner, D; Torres Maita, RV; Hoekstra, R","CIP, MOL, PTIS, WAG",Lima,Huaral,"SE side of the road, 7 km NE of Acos, on the road to Pacaraos",1840 m,10 Apr 1999,"11°15'43""S","76°46'5""W",Peru,Salas et al.,
+1382,Solanum,laxissimum,"Spooner, DM",7237,"Salas, A","CIP, MOL, PTIS, WAG",Cusco,La Convención,"3 km along dirt road E and then S of center of Pistipata (just a few homes), E of Río Chunchullmayo",2350 m,18 Mar 1998,"13°3'20""S","72°28'44""W",Peru,Spooner & Salas,fr
+1398,Solanum,laxissimum,"Núñez, P",8872,"Luna, F","CUZV, NY",Cusco,Urubamba,"about 88 and 112 km from Cusco, historical sanctuary of Machupicchu and the Inca Trail",2300 m,16 Mar 1988,13°9'S,72°31'W,Peru,Núñez & Luna,fr
+1775,Solanum,laxissimum,"Ochoa, CM",13640,,"GH, MO, US",Cusco,Urubamba,above Wiñaywayna ruins,3000 m,21 Feb 1980,14°13'S,"72°4'60""W",Peru,Ochoa,fr
+788,Solanum,laxissimum,"Ochoa, CM",2642,,"CUZ, MO",Huánuco,Huamalíes,"near Mashuaragra, between Cerro Mirador and Aguellín, on path from Tantamayo to Monzón",2000 m,25 Apr 1967,9°15'S,76°30'W,Peru,Ochoa,fl
+896,Solanum,laxissimum,"Ochoa, CM",1058,,CUZ,Huánuco,Huánuco,"Paso de Carpish, on road Huánuco-Tingo María",2800 m,17 Mar 1951,9°55'S,"76°13'60""W",Peru,Ochoa,fr
+1012,Solanum,laxissimum,"Hutchison, PC",1181,,"F, NY, UC, US",Junín,Tarma,"Chanchamayo Valley, above La Merced at Cumbre Yacunay near summit",2000 m,15 Aug 1957,11°10'S,75°25'W,Peru,Hutchison,fl
+970,Solanum,laxissimum,"Ochoa, CM",13158,,CUZ,Pasco,Oxapampa,"Quebrada San Alberto, W of Oxapampa",2200 m,3 Feb 1979,10°34'S,75°24'W,Peru,Ochoa,fr
+977,Solanum,laxissimum,"Tepe, E",2226,"Stern, S; Mateo Miguel, J; Moreno, MP; Rojas Tello, C","USM, UT",Pasco,Oxapampa,Oxapampa-Villa Rica Road,2300 m,22 Nov 2007,"10°39'58""S","75°19'30""W",Peru,Tepe et al.,fl
+1679,Solanum,lignicaule,"Spooner, DM",7222,"Salas, A","CIP, MOL, PTIS, WAG",Cusco,Paruro,"13.1 km S of Paruro on road to Colcha, at a place (no homes) called Cortina",2590 m,8 Mar 1998,"13°49'28""S","71°49'41""W",Peru,Spooner & Salas,fl
+1522,Solanum,lignicaule,"Correll, DS",227,"Smith, EE; Vargas, C","K, LL, SUNIV, US, USM",Cusco,Pisac,above Pisac,3050 m,27 Feb 1958,13°25'S,"71°51'60""W",Peru,Correll et al.,
+1474,Solanum,lignicaule,"Tupayachi, A",2028,,CUZV,Cusco,Urubamba,Yucay (Madre Yglesias),3300 m,26 Feb 1992,13°19'S,"72°4'60""W",Peru,Tupayachi,
+1819,Solanum,limbaniense,"Ochoa, CM",15601,,"CUZ, MO, MOL, US, USM",Puno,Sandia,"near Cullucachi, from Phara to Patambuco",3500 m,5 Mar 1984,14°28'S,"69°40'60""W",Peru,Ochoa,fr
+1998,Solanum,limbaniense,"Ochoa, CM",4212,,"MO, USM",Puno,Sandia,Totora to Pablobamba,3400 m,Mar 1973,"14°7'52""S","69°45'23""W",Peru,Ochoa,
+66,Solanum,lobbianum,"Castillo, R",1211,"Pineda, R; López, LE; Spooner, DM",PTIS,Caldas,Termales,"1.5 km E of road going to Nevado de Ruiz, on road from Manizales to Fresno, 4.5 km W of Las Letras, at km marker 254",3310 m,5 Jul 1992,5°4'N,75°19'W,Colombia,Castillo et al.,fr
+1996,Solanum,medians,"Salas, A",7251,"Spooner, DM",CIP,Arequipa,Arequipa,"1.1 km N of Arequipa-Chiguata Road, from a point 61.4 km ENE of Pan American Highway (by posted road signs), departing the road at bridge over Río Agua Salada",2770 m,9 May 1998,"16°24'12""S","71°25'2""W",Peru,Salas & Spooner,fl
+1943,Solanum,medians,"Ochoa, CM",2161,,CUZ,Arequipa,Prov. Cara,"Atiquipa, Lomas de Atiquipa",600 m,s.d.,"15°47'46""S","74°21'49""W",Peru,Ochoa,fl
+1873,Solanum,medians,"Correll, DS",148,"Smith, EE","CUZ, LL",Ayacucho,Pulla,about 45 km from Nazca on road to Puquio,2200 m,14 Feb 1958,"14°49'60""S",74°42'W,Peru,Correll & Smith,
+966,Solanum,medians,"Ochoa, CM",14668,"Salas, A","CIP, CUZ",Lima,Cajatambo,"Huancapón, Pilucancha (Cajamarquilla), between Utcas and Cajamarquilla, distrito Huancapón",3600 m,12 Apr 1982,"10°33'58""S",77°6'W,Peru,Ochoa & Salas,fr
+1349,Solanum,medians,"Ochoa, CM",11253,"Salas, A","CIP, CUZ",Lima,Cañete,"Quilmaná, Lomas de Quilmaná, 15 km N Cañete",350 m,25 Oct 1975,12°52'S,"76°25'60""W",Peru,Ochoa & Salas,fl
+1155,Solanum,medians,"Ochoa, CM",14629,,"CUZ, F",Lima,Canta,"Dist. Acos, Tambobamba, above Tambo, bank of Río Chancay",2200 m,s.d.,"11°43'60""S",76°58'W,Peru,Ochoa,
+1094,Solanum,medians,"Vilcapoma, G",199,,CIP,Lima,Canta,"Carhua, 8 km above bridge to San José",2700 m,16 Apr 1974,"11°31'12""S","76°39'7""W",Peru,Vilcapoma,fr
+1047,Solanum,medians,"Vilcapoma, G",200,,USM,Lima,Canta,San Buenaventura,2700 m,15 Mar 1974,"11°22'30""S","76°34'19""W",Peru,Vilcapoma,fl
+1189,Solanum,medians,"Goodspeed, TH",30231,"Metcalf, RD","MO, UC, US",Lima,Huarochirí,"valley of Río Rímac, near Lima-Oroya Road at km 81 E of Lima",2250 m,15 Mar 1922,11°48'S,76°21'W,Peru,Goodspeed & Metcalf,fr
+1255,Solanum,medians,"Ochoa, CM",11319,,"CIP, CUZ",Lima,Huarochirí,"Langa, around Langa, Lima-Huarochirí Road, via Cieneguilla-Sisicaya",2300 m,2 Mar 1977,"12°7'60""S","76°25'60""W",Peru,Ochoa,fl
+1169,Solanum,medians,"Petersen, E",1270,"Hjerting, JP","C, K",Lima,Huarochirí,between San Mateo and Morococha,3700 m,8 Apr 1953,11°45'S,76°18'W,Peru,Petersen & Hjerting,
+1263,Solanum,medians,"Ochoa, CM",11764,,"CIP, CUZ",Lima,Lima,"La Molina, Lomas de Manchay",350 m,8 Sep 1977,12°9'S,"76°51'60""W",Peru,Ochoa,
+1345,Solanum,medians,"Salas, A",7301,"Spooner, DM; Torres Maita, RV; Schüler, K","CIP, MOL, PTIS, WAG",Lima,Yauyos,"a local place called Arpayo, about 5 km walk from Villa Franca, Catahuasi-Lincha Road",2620 m,9 Mar 1999,"12°49'16""S","75°48'36""W",Peru,Salas et al.,fr
+2021,Solanum,medians,"Ochoa, CM",11268,,"CIP, CUZ, US",Moquegua,Prov. Ilo,"Lomas de La Buitrera, 25 km SSE and 2 km N of cerro Huaca de La Luna",350 m,29 Oct 1976,17°45'S,71°9'W,Peru,Ochoa,fl
+2001,Solanum,medians,"Weberbauer, A",7276,,F,Moquegua,Prov. Moquegua,Carumas,2600 m,21 Mar 1925,16°49'S,70°43'W,Peru,Weberbauer,fl
+2014,Solanum,medians,"Ochoa, CM",14260,,"CIP, CUZ, US",Tacna,Tarata,"Cerro Antavilca, near Huanuara, 10 km by air SSW of Candarave",3450 m,4 Mar 1981,17°19'S,70°19'W,Peru,Ochoa,fl
+316,Solanum,minutifoliolum,"Ochoa, CM",13368,,CPUN,Chimborazo,Urbina,heights of El Cuello,2890 m,23 May 1979,"1°28'59""S","78°47'47""W",Ecuador,Ochoa,fl
+247,Solanum,minutifoliolum,"Smith, SD",259,,"MO, WIS",Napo,Laguna de Papallacta,"Quito-Papallacta-Tena Road, beside dirt road off the main road that circles the lake",3400 m,22 Jan 2003,"0°22'55""S","78°9'36""W",Ecuador,Smith,fr
+309,Solanum,minutifoliolum,"Sydow, H",729,,US,Tungurahua,Baños,Hacienda San Antonio,NA,14 Jan 1938,1°24'S,78°25'W,Ecuador,Sydow,
+302,Solanum,minutifoliolum,"Asplund, E",7976,,"LL, SUNIV, US",Tungurahua,Hacienda Chilipala,"vicinity of Patate, Hacienda Leito",2900 m,1 Aug 1939,1°19'S,78°31'W,Ecuador,Asplund,fr
+712,Solanum,mochiquense,"Ochoa, CM",2525,,CUZ,Ancash,Santa,"near Ancos, between Quirós and Ancos",1850 m,28 May 1963,"8°28'60""S",78°6'W,Peru,Ochoa,fl
+561,Solanum,mochiquense,"Ochoa, CM",10724,,"CUZ, MOL, US",Cajamarca,Cajamarca,"Pencal, above Magdalena",2600 m,Apr 1976,7°15'S,78°40'W,Peru,Ochoa,fl
+602,Solanum,mochiquense,"Ochoa, CM",15995,"Salas, A",CUZ,Cajamarca,Contumazá,"Quebrada near San Benito, in the area left of Río San Benito",1300 m,25 Mar 1987,"7°25'60""S",78°54'W,Peru,Ochoa & Salas,fr
+1044,Solanum,mochiquense,"Erwin Baur Sortiment, Koln-Vogelsang, Germany",2807,,PTIS,Lima,Huaral,"Lachay, Teatinos",NA,13 Sep 1967,11°21'S,"77°22'48""W",Peru,Erwin Baur Sortiment,fl
+996,Solanum,mochiquense,"Ochoa, CM",2881,,CUZ,Lima,Huaural,"Lomas de Lupín, near Supe",350 m,Oct 1970,10°48'S,"77°43'60""W",Peru,Ochoa,fr
+908,Solanum,multiinterruptum,"Ochoa, CM",15166,,CUZ,Ancash,Aija,"Tranca, above Cancha Uchucuna, near Huayán",3200 m,23 Apr 1983,10°3'S,77°4'W,Peru,Ochoa,fl
+875,Solanum,multiinterruptum,"Salas, A",7400,"Torres Maita, RV; Hoekstra, R",,Ancash,Aija,"mountainside, 3 km S of Coris along Huaraz-Huarmey Road at km 62",2965 m,25 Apr 1999,"9°49'26""S","77°42'11""W",Peru,Salas et al.,
+940,Solanum,multiinterruptum,"Ochoa, CM",2396,"De la Puente, F",CUZ,Ancash,Bolognesi,"Timpo, near Purish, on the Pancal-Chiquián Road",3200 m,2 Mar 1962,"10°19'60""S","77°24'60""W",Peru,Ochoa & De la Puente,fr
+950,Solanum,multiinterruptum,"Ochoa, CM",12057,"Salas, A",US,Ancash,Bolognesi,"Cuesta de Parana, above Camasichiqui, Dist. Ocros",3600 m,1 Apr 1978,10°25'S,77°25'W,Peru,Ochoa & Salas,fl
+813,Solanum,multiinterruptum,"Ochoa, CM",15739,"Salas, A","CUZ, MOL, NY",Ancash,Huaraz,"Quishuar, about 13 km NE of Huanchay, right margin of Quishuar stream",3550 m,4 May 1984,"9°28'44""S","77°35'11""W",Peru,Ochoa & Salas,
+831,Solanum,multiinterruptum,"Salas, A",7334,"Spooner, DM; Torres Maita, RV; Schüler, K","CIP, MOL, PTIS, WAG",Ancash,Huaraz,"a local place called Tinco, just above the road on a steep slope, 35 km W of the town of Huaraz on the road to Casma",3580 m,26 Mar 1999,"9°33'7""S","77°40'12""W",Peru,Salas et al.,fr
+904,Solanum,multiinterruptum,"Ochoa, CM",1417,,"CUZ, K",Ancash,Recuay,"Colquimarca, near Paso de Conococha",3750 m,6 May 1952,10°S,77°25'W,Peru,Ochoa,fl
+932,Solanum,multiinterruptum,"Ochoa, CM",2500,,"CUZ, F, NY",Ancash,Recuay,"Shacta, between Vinoc and Colquimarca, on road Colquimarca towards the coast",3400 m,18 Apr 1963,10°12'S,77°18'W,Peru,Ochoa,
+1482,Solanum,multiinterruptum,"Erwin Baur Sortiment, Koln-Vogelsang, Germany",1891,,PTIS,Cusco,Calca,"Vilcanota Valley, Salapunco",2500 m,30 Nov 1958,"13°19'48""S","71°58'12""W",Peru,Erwin Baur Sortiment,
+978,Solanum,multiinterruptum,"Ochoa, CM",13150,"Salas, A","CUZ, USM",Lima,Cajatambo,"near Marca Marca Ruins, between Yarihuatum and Quichas, on Oyón to Las Minas Paura Road",3800 m,31 Jan 1979,"10°39'60""S",77°W,Peru,Ochoa & Salas,fl
+1081,Solanum,multiinterruptum,"Salas, A",7375,"Spooner, DM; Torres Maita, RV; Hoekstra, R","CIP, MOL, PTIS, WAG",Lima,Canta,"1.0 km NW of town square of Huamantanga, on the road to Quipan",3370 m,9 Apr 1999,"11°29'49""S","76°45'14""W",Peru,Salas et al.,
+1073,Solanum,multiinterruptum,"Salas, A",7376,"Spooner, DM; Torres Maita, RV; Hoekstra, R","CIP, MOL, PTIS, WAG",Lima,Canta,"NE side of the road, 0.8 km NW of town square of Quipan, 10.8 km NE of town square of Huamantanga, on the road to Marco, type locality of S. chrysoflorum",3425 m,9 Apr 1999,"11°28'12""S","76°46'30""W",Peru,Salas et al.,fr
+1110,Solanum,multiinterruptum,"Vilcapoma, G",2838,,MOL,Lima,Canta,"Lachaqui, path to Toma",3600 m,28 Jan 1994,11°33'S,76°37'W,Peru,Vilcapoma,fr
+1270,Solanum,multiinterruptum,"Ochoa, CM",5219,,CUZ,Lima,Huarochirí,"near Pachacosa, Lima-Huarochirí Road",3780 m,15 Apr 1974,"12°10'60""S","76°19'60""W",Peru,Ochoa,
+1233,Solanum,multiinterruptum,"Ochoa, CM",14722,"Salas, A",CUZ,Lima,Huarochirí,"Llaquitambo, above Tupicocha, on the road from San Damián",3300 m,21 Apr 1982,12°S,76°28'W,Peru,Ochoa & Salas,fl
+1134,Solanum,multiinterruptum,"Salas, A",7387,"Torres Maita, RV; Hoekstra, R","CIP, MOL, PTIS, WAG",Lima,Huarochirí,"roadside, 61.3 km NE of Santa Eulalia, on the road to Millo",3710 m,12 Apr 1999,"11°37'59""S","76°27'7""W",Peru,Salas et al.,fl
+1298,Solanum,multiinterruptum,"Beltrán, H",1731,,USM,Lima,Yauyos,Laraos,3900 m,s.d.,"12°20'48""S","75°47'11""W",Peru,Beltrán,fl
+1359,Solanum,neoweberbaueri,"Ochoa, CM",11252,,"GH, US, USM ",Lima,Cañete,"Quilmaná, Lomas de Quilmaná, 10 km N of Cañete",350 m,26 Oct 1976,12°57'S,"76°22'60""W",Peru,Ochoa,
+1391,Solanum,pillahuatense,"Cano, A",4590,,NY,Cusco,Paucartambo,"Tres Cruces, Parque Nacional Manu",3600 m,6 Mar 1991,"13°6'60""S","71°34'60""W",Peru,Cano,
+1438,Solanum,pillahuatense,"Spooner, DM",7220,"Salas, A","CIP, MOL, PTIS, WAG",Cusco,Paucartambo,"road from Paucartambo to Pillcopata, ca 100 m S of Esperanza, 6 km S of Pillahuata, ca 100 m downhill of road",2800 m,7 Mar 1998,"13°13'60""S",71°37'W,Peru,Spooner & Salas,fl
+421,Solanum,piurae,"Ochoa, CM",13954,,US,Piura,Ayabaca,skirts of Cerro Mijal,NA,6 May 1980,"5°4'60""S",79°45'W,Peru,Ochoa,fl
+415,Solanum,piurae,"Acleto, C",367,,USM,Piura,Huancabamba,La Cruz,NA,4 Jun 1961,"4°55'60""S",79°55'W,Peru,Acleto,
+439,Solanum,piurae,"Huamán, Z",975,,CUZ,Piura,Huancabamba,"Paso Cuello del Indio, km 47 on Huancabamba-Canchaque Road",3100 m,20 May 1974,5°30'S,"79°34'60""W",Peru,Huamán,
+1581,Solanum,raphanifolium,"Ochoa, CM",13604,"Rodríguez, G","CUZ, F, NY, US",Apurímac,Abancay,"neighborhoods of la Hancienda Tambobamba, near Huanipaca",3750 m,1 Feb 1980,13°30'S,"72°55'60""W",Peru,Ochoa & Rodríguez,fr
+1786,Solanum,raphanifolium,"Ochoa, CM",13735,,"F, NY, US",Apurímac,Antabamba,"Huascalle, near Pichipay, joined with Totora",3350 m,7 Mar 1980,14°16'S,72°34'W,Peru,Ochoa,
+1752,Solanum,raphanifolium,"Ochoa, CM",2223,,CUZ,Apurímac,Grau,Chuquibambilla,3000 m,24 Feb 1960,"14°6'7""S","72°42'24""W",Peru,Ochoa,fr
+1729,Solanum,raphanifolium,"Ochoa, CM",7615,,"CUZ, PTIS",Cusco,Acomayo,vicinity of Pomacanchi Cementery,3735 m,6 Apr 1975,"14°1'37""S","71°34'2""W",Peru,Ochoa,
+1702,Solanum,raphanifolium,"Ortega, R",21,,CUZ,Cusco,Acomayo,Mount Jocohuachana,4100 m,Apr 1981,13°55'S,71°40'W,Peru,Ortega,fl
+1544,Solanum,raphanifolium,"Vargas, C",7084,,LL,Cusco,Acomayo,Acomayo,3050 m,1 Mar 1948,"13°55'15""S","71°41'4""W",Peru,Vargas,fl
+1565,Solanum,raphanifolium,"Hawkes, JG",5203,"Hjerting, JP; Cribb, PJ; Huamán, Z",K,Cusco,Anta,"68 km from Cusco on road to Abancay, 8 km before Limatambo",3100 m,17 Apr 1971,"13°28'60""S","72°22'60""W",Peru,Hawkes et al.,
+1476,Solanum,raphanifolium,"Iltis, HH",949,"Ugent, D",WIS,Cusco,Calca,"bottom of Río Urubamba Valley at 56 km on Cusco-Urubamba Road about 6 km W of Calca, 6 km E of Yucay",2900 m,29 Dec 1962,13°19'S,72°1'W,Peru,Iltis & Ugent,
+1800,Solanum,raphanifolium,"Iltis, HH",1229,"Ugent, D","MO, US, WIS",Cusco,Canchis,"halfway between Sicuani & La Raya Pass ESE of Maranganí, about 8 km by road WNW of Ocobamba",NA,8 Jan 1963,14°22'S,"71°7'60""W",Peru,Iltis & Ugent,
+1746,Solanum,raphanifolium,"Vargas, C",5002,,"K, LL",Cusco,Canchis,"Huantura, Combapata",3460 m,26 Feb 1945,"14°4'60""S",71°25'W,Peru,Vargas,
+1651,Solanum,raphanifolium,"Hawkes, JG",2468,,K,Cusco,Cusco,"Cerro de Cachona, about 11 km on road from Cuscoto Paruro",3600 m,15 Apr 1964,"13°37'60""S",71°58'W,Peru,Hawkes,fr
+1626,Solanum,raphanifolium,"Ugent, D",3516,"Vargas, C",MO,Cusco,Cusco,11 km S of Cusco on road To Paruro,3455 m,12 Feb 1963,"13°34'60""S","71°58'60""W",Peru,Ugent & Vargas,fl
+1430,Solanum,raphanifolium,"Ochoa, CM",2211,,CUZ,Cusco,Paucartambo,Challabamba,2900 m,22 Feb 1960,"13°12'15""S","71°39'16""W",Peru,Ochoa,
+1385,Solanum,raphanifolium,"Ochoa, CM",13654,"Rodríguez, G","CUZ, F, US",Cusco,Paucartambo,"heights of Pilco, before Acobamba, Challabamba-Acobamba Road",2800 m,25 Feb 1980,"13°4'60""S",71°48'W,Peru,Ochoa & Rodríguez,fl
+1375,Solanum,raphanifolium,"Ochoa, CM",13626,"Rodríguez, G","CUZ, F, GH, NY, US",Cusco,Quispicanchi,Paucarpata near to Chuquicahuana,3800 m,16 Feb 1980,"13°1'8""S","72°0'52""W",Peru,Ochoa & Rodríguez,fl
+1463,Solanum,raphanifolium,"Ochoa, CM",2181,,"CUZ, US",Cusco,Urubamba,going up from Urubamba towards La Quebrada de Pumahuanca,3100 m,15 Feb 1960,"13°18'17""S","72°6'57""W",Peru,Ochoa,fl
+1953,Solanum,raphanifolium,"Petersen, E",1079,Hjerting; Reche,"C, CUZ, K",Puno,Puno,"75 km from Puno, between Puno and Tincopalca",4500 m,10 Mar 1953,15°51'S,"70°34'60""W",Peru,Petersen et al.,fl
+433,Solanum,raquialatum,"Ochoa, CM",2574,,CUZ,Piura,Huancabamba,above Canchaque,2300 m,3 Apr 1964,5°22'S,79°27'W,Peru,Ochoa,fl
+758,Solanum,rhomboideilanceolatum,"Salas, A",7344,"Spooner, D; Torres Maita, RV; Schüler, K","CIP, MOL, PTIS",Ancash,Yungay,"1 km E of entrance to Parque Nacional Llanganuco, on road to Laguna Llanganuco, 6 km NW of E end of this lake, on road from Yungay",3425 m,31 Mar 1999,"9°6'7""S","77°40'37""W",Peru,Salas et al.,fr
+1160,Solanum,simplicissimum,"Ochoa, CM",15147,"Salas, A","CUZ, MOL, USM",Lima,Canta,Lima-Canta Road,2600 m,8 Apr 1983,"11°43'60""S",76°45'W,Peru,Ochoa & Salas,fr
+1250,Solanum,simplicissimum,"Ochoa, CM",15988,,"CUZ, MOL",Lima,Huarochirí,"above Antioquía, on the road to Langa",1800 m,Mar 1987,"12°4'60""S",76°31'W,Peru,Ochoa,fl
+941,Solanum,sogarandinum,"Ochoa, CM",15723,,"US, USM",Ancash,Bolognesi,"Ruqui Aliso, 2 km E Quisipata, in front of Chichoj",3200 m,1 May 1984,"10°19'60""S","77°24'60""W",Peru,Ochoa,
+945,Solanum,sogarandinum,"Ochoa, CM",12061,"Salas, A","MO, US, USM",Ancash,Bolognesi,"Jalcas de Llipa, next to Mina Llipa, near Rajan",3600 m,20 Mar 1978,"10°22'60""S",77°13'W,Peru,Ochoa & Salas,fr
+824,Solanum,sogarandinum,"Smith, DN",10717,"Valencia, R; González, A",USM,Ancash,Huaraz,"Huascarán National Park, Quebrada Shallap",3700 m,22 May 1985,9°30'S,77°24'W,Peru,Smith et al.,fl
+1135,Solanum,sogarandinum,"Salas, A",7386,"Torres Maita, RV; Hoekstra, R","CIP, MOL, PTIS, WAG",Lima,Huarochirí,"roadside, 61.3 km NE of Santa Eulalia, on the road to Millo",3710 m,12 Apr 1999,"11°37'59""S","76°27'7""W",Peru,Salas et al.,fr
+585,Solanum,trinitense,"Ochoa, CM",13968,,"CUZ, F, MOL",Cajamarca,Contumazá,"Cerro Chungarrán, near Guzmango",2850 m,12 May 1980,"7°22'60""S",78°54'W,Peru,Ochoa,fr
+579,Solanum,trinitense,"Ochoa, CM",2486,,CUZ,Cajamarca,Contumazá,"Trinidad, vicinity of Hacienda San Lorenzo",3450 m,11 Apr 1963,7°21'S,"79°1'60""W",Peru,Ochoa,fl
+1112,Solanum,wittmackii,"Moreyra, R",3048,"Vilcapoma, G",CUZ,Lima,Canta,"Puruchuco, on road to Apan",2350 m,2 Apr 1994,11°33'S,76°48'W,Peru,Moreyra & Vilcapoma,fl
+1033,Solanum,wittmackii,"Ochoa, CM",14626,,"CUZ, F, NY, US",Lima,Canta,"Tambo, en route from Huayopampa to Acos",2200 m,Feb 1982,"11°16'25""S","76°49'15""W",Peru,Ochoa,fr
+1027,Solanum,wittmackii,"Salas, A",7380,"Spooner, D; Torres Maita, RV; Hoekstra, R","CIP, MOL, PTIS, WAG",Lima,Huaral,"SE side of the road, 14.0 km NE of Acos, on the road to Pacaraos",2330 m,10 Apr 1999,"11°15'14""S","76°43'26""W",Peru,Salas et al.,fr

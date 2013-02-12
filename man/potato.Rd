@@ -1,0 +1,22 @@
+\docType{data}
+\name{potato}
+\alias{potato}
+\title{Wild potato specimen sample list}
+\format{Contains 1000 observations of 16 variables. The variable names conform largely to the
+ BRAHMS standard.
+\itemize{
+ \item{"genus"} {Genus name}
+ \item{"species"} {Species name}
+}}
+\description{
+  Wild potato specimen sample list
+}
+\note{
+  Access the data using system.file("samples/exsic.csv",
+  package = "exsic")
+}
+\author{
+  David M. Spooner with format edits from R. Simon
+}
+\keyword{datasets}
+

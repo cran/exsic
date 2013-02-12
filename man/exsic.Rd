@@ -1,0 +1,76 @@
+\name{exsic}
+\alias{exsic}
+\title{Creates three botanical indices (exsiccatae or index of specimens; numerical list of species;
+index to numbered collections).}
+\usage{
+  exsic(data, file = NULL, html = "exsic.html",
+    sortfilter = NULL, format = format.SBMG,
+    headers = c("Citations of Specimens", "Numerical List of Species", "Index to Numbered Collections", "*The numbers in parentheses refer to the corresponding species in the Numerical List of Species.*\n\r"))
+}
+\arguments{
+  \item{data}{a table in exsic format}
+
+  \item{file}{Path to the .csv file containing the
+  database}
+
+  \item{html}{Path to the resulting .html file}
+
+  \item{sortfilter}{a table containing filters for country
+  and species}
+
+  \item{format}{a table containing format options for
+  elements in the exsiccatae index}
+
+  \item{headers}{A list of text lines for labeling the
+  indices}
+}
+\value{
+  boolean TRUE if all steps executed successfully
+}
+\description{
+  It uses a data.frame expecting a minimum set of columns;
+  if those are not found they will be added and filled with
+  'unknown' or similar values as will be other columns with
+  missing data but used for sorting the final indices.
+}
+\examples{
+# Example
+library(exsic)
+
+###########################################################
+# This runs the example file
+
+
+# Read input file
+df = system.file("samples/exsic.csv", package="exsic")
+# read only first 10 records
+data = read.exsic(df)[1:10,]
+
+# Prepare output file
+td = tempdir()
+of = file.path(td,"out.html")
+
+
+# Example 1: mostly default parameters
+# Prepare exsiccatae indices
+exsic(data, html = of) 
+
+
+# Example 2: using another format
+of = file.path(td,"out_PK.html")
+exsic(data, html = of, format = format.PK) 
+
+}
+\author{
+  Reinhard Simon
+}
+\seealso{
+  Other main: \code{\link{index.citations}},
+  \code{\link{index.collections}},
+  \code{\link{index.countries}},
+  \code{\link{index.species}},
+  \code{\link{index.species.short}},
+  \code{\link{prepare.table}}, \code{\link{read.exsic}},
+  \code{\link{section.exsic}}, \code{\link{write.exsic}}
+}
+
