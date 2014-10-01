@@ -1,0 +1,615 @@
+%%This is a very basic report template.
+
+\documentclass[nogin,a4paper, 11pt]{article}
+\usepackage{Sweave}
+%\usepackage{pdflscape}
+\usepackage[bookmarks=true,linkbordercolor={0 0 1}]{hyperref}
+  
+\title{Southern cone database: geographic report} 
+\author{David Spooner, Andrea Claussen, Reinhard Simon}
+%\date{\today}
+
+\begin{document}
+%\pdfinfo{  /Author (David Spooner, Andrea Claussen, Reinhard Simon)
+%          /Title (Automated report) 
+%           /Keywords (southern cone)
+%           /Subject (report)
+%           /Producer (Southern cone)
+%           }
+\SweaveOpts{echo=false}
+<<echo=F, results=hide>>=
+  options(SweaveHooks = list(fig = function() par( mar=(c(0,0,0,0)+0.1))))
+@ 
+
+<<echo=F, results=hide>>=
+source("../scripts/species.map.tools.R")
+library(xlsReadWrite)
+
+path.to.admin.shapes="I:/analysis/spooner/2007/s_cone/shapes"
+arg<-readShapePoly(paste(path.to.admin.shapes, "/ARG_ADM1.shp",sep=""))
+bra<-readShapePoly(paste(path.to.admin.shapes, "/BRA_ADM1.shp",sep=""))
+chl<-readShapePoly(paste(path.to.admin.shapes, "/CHL_ADM1.shp",sep=""))  			
+per<-readShapePoly(paste(path.to.admin.shapes, "/PER_ADM1.shp",sep=""))
+uru<-readShapePoly(paste(path.to.admin.shapes, "/URY_ADM1.shp",sep=""))				
+pry<-readShapePoly(paste(path.to.admin.shapes, "/PRY_ADM1.shp",sep=""))
+bol<-readShapePoly(paste(path.to.admin.shapes, "/BOL_ADM1.shp",sep=""))	
+
+db<-read.xls("../data/database.xls")
+n=nrow(db)
+db.geo<-db[db$latitude!=0 & db$longitude!=0,]
+ng=nrow(db.geo)
+
+dbu <- sort(unique(db.geo$sp1))
+
+@
+
+
+\maketitle
+%\titlepage
+
+\tableofcontents
+
+\pagebreak
+\section{Summary}
+The database has a total of \Sexpr{n} entries. Out of that \Sexpr{ng} entries
+are georeferenced. The distribution of accessions per country is as follows.
+
+<<results=hide, echo=F, fig=T>>=
+library(lattice)
+print(barchart(db.geo$country))
+@
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=1
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=2
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=3
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=4
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=5
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=6
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=7
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=8
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=9
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=10
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=11
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=12
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=13
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=14
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=15
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=16
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=17
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=18
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=19
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=20
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=21
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=22
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+\pagebreak
+<<results=hide, echo=F>>=
+i=23
+@
+
+\section{\Sexpr{dbu[i]}}
+<<echo=F, results=hide>>=
+map.png.o=paste(i,"o.png",sep="")
+png(map.png.o, height=7, width=6, units="in", res=72)
+  make.overview.map(db.geo,i)
+dev.off()
+
+map.png.s=paste(i,"s.png",sep="")
+png(map.png.s, height=8, width=7, units="in", res=72)
+  make.species.map(db.geo,i)
+dev.off()  
+@
+\includegraphics{\Sexpr{map.png.o}}
+S. \Sexpr{dbu[i]} overview map.
+
+\pagebreak
+\includegraphics{\Sexpr{map.png.s}}
+S. \Sexpr{dbu[i]} focus map.
+
+
+\end{document}

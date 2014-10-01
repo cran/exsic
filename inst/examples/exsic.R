@@ -1,6 +1,5 @@
 # Example
-library(exsic)
-
+load(system.file("data/config.rda", package="exsic"))
 ###########################################################
 # This runs the example file
 

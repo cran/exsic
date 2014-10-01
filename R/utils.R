@@ -151,11 +151,13 @@ coll.cite <-function(collector,
 #   ), stringsAsFactors=FALSE)
 
 
-group.specimens <- function(astr, group.join = "-"){
+group.specimens <- function(astr, group.join = "-") {
+  #print(astr)
+  #print(group.join)
   ss = astr
   try({
   s = str_sub(ss,1, str_length(ss)-1)
-  s1=str_split(s,",")[[1]]
+  s1=str_trim(str_split(s,",")[[1]])
   # separate the collector number from the species and make a table
   s2=t(as.data.frame(sapply(str_trim(s1),str_split," ")))
   s2 = as.data.frame(s2, stringsAsFactors=FALSE)
@@ -168,44 +170,121 @@ group.specimens <- function(astr, group.join = "-"){
   
   
   names(s2) = c("number", "species")
+  #print(s2)
   grp = s2
-  
   n = nrow(grp) - 1
   if(n==0) return(astr)
   res=""
   grp$number = as.integer(grp$number)
-  lwr = grp$number[1]
-  upr = grp$number[1]
-  for(i in 1:(nrow(grp)-1)){
-    this.species = grp$species[i]
-    next.species = grp$species[i + 1]
-    this.number  =  grp$number[i]
-    next.number  =  grp$number[i + 1]
-    if(!is.na(next.number) & !is.na(this.number)){
-      if((next.species == this.species & (next.number == (this.number+1))) ){
-        upr = next.number
-      } else {
-        if(lwr == upr){
-          res = paste(res,lwr," ",this.species,", ", sep="")
+  grp = cbind(grp, spr = rep(", ", nrow(grp)))
+  grp$spr = as.character(grp$spr)
+  grp$species = as.character(grp$species)
+  grp = cbind(grp, grp = rep(1, nrow(grp)))
+  
+  
+  # 1st summarize ids by species: 
+  # 1b order within species & separate by comma
+  grp = grp[with(grp, order(species, number)), ]
+  
+  
+  # 2nd condense seq
+  # for each species check which numbers are consecutive and then 
+  
+  sps = unique(grp$species)
+  for(s in 1:length(sps)){
+    sgrp = grp[grp$species == sps[s], ]
+    gc = 0
+    if(nrow(sgrp)>2){
+      
+      for(g in 2:nrow(sgrp)) {
+        if(is.na(sgrp$number[g])) {
+          sgrp$grp[g] = g
         } else {
-          res = paste(res,lwr,group.join,upr," ",this.species,", ", sep="")  
+          if((sgrp$number[g-1]+1) != sgrp$number[g]) {
+            gc = gc+1
+            sgrp$grp[g] = g
+            
+          } else {
+            #sgrp$spr[g] = "-"
+            sgrp$spr[g-1] = "-"
+          }
+          
         }
-        
-        lwr = next.number
-        upr = lwr
+      }
+      grp[grp$species == sps[s], ] = sgrp
+    }
+  }
+  # keep only the first and last of each group bigger than 2!
+  for(s in 1:nrow(grp)){
+    mrk = grp$spr[s]
+    if(mrk == "-"){
+      if(s < (nrow(grp)-1)){
+        mrk_1 = grp$spr[s+1]
+        if(mrk_1 == "-") {
+          grp$spr[s+1] = "x"
+        }
       }
       
     }
-    #print(paste(i, this.number, this.species, next.number, next.species, lwr, upr))    
   }
-  if(lwr == upr){
-    res = paste(res,lwr," ",next.species,".", sep="")
-  } else {
-    res = paste(res, lwr, group.join, upr, " ", next.species,".", sep="")  
-  }
-    
-    astr = res
-  },silent=TRUE)
+  grp$spr[nrow(grp)] = "."
+  grp = grp[grp$spr!="x",]
   
+  # Now build the string
+  # before: handle NA -> s.n.
+  grp$number = as.character(grp$number)
+  if(any(is.na(grp$number))) {
+    grp[is.na(grp$number),"number"] = "s.n."
+  }
+  
+  res = ""
+  for(s in 1:length(sps)){
+    sgrp = grp[grp$species == sps[s], ]
+    sgrp[nrow(sgrp), 3] = " "
+    for(ss in 1:nrow(sgrp)){
+      res = paste(res, sgrp$number[ss], sgrp$spr[ss], sep="")  
+    }
+    res = paste(res, sps[s], sep="" )
+    if(s<length(sps)){
+      res = paste(res,", ", sep="")
+    } else {
+      res = paste(res,".", sep="")
+    }
+  }
+  astr = res
+  
+#   lwr = grp$number[1]
+#   upr = grp$number[1]
+#   for(i in 1:(nrow(grp)-1)){
+#     this.species = grp$species[i]
+#     next.species = grp$species[i + 1]
+#     this.number  =  grp$number[i]
+#     next.number  =  grp$number[i + 1]
+#     if(!is.na(next.number) & !is.na(this.number)){
+#       if((next.species == this.species & (next.number == (this.number+1))) ){
+#         upr = next.number
+#       } else {
+#         if(lwr == upr){
+#           res = paste(res,lwr," ",this.species,", ", sep="")
+#         } else {
+#           res = paste(res,lwr,group.join,upr," ",this.species,", ", sep="")  
+#         }
+#         
+#         lwr = next.number
+#         upr = lwr
+#       }
+#       
+#     }
+#     #print(paste(i, this.number, this.species, next.number, next.species, lwr, upr))    
+#   }
+#   if(lwr == upr){
+#     res = paste(res,lwr," ",next.species,".", sep="")
+#   } else {
+#     res = paste(res, lwr, group.join, upr, " ", next.species,".", sep="")  
+#   }
+#     
+#     astr = res
+   },silent=TRUE)
+   
   return(astr)
 }
